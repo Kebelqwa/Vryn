@@ -902,7 +902,7 @@
 	    {
 	        "name": "Ampryn Study",
 	        "rarity": "common",
-	        "mana_cost": "{X}{1}{W}",
+	        "mana_cost": "{X}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ampryn Study.jpg"
@@ -1874,7 +1874,7 @@
 	    {
 	        "name": "Runesplitter Bolt",
 	        "rarity": "rare",
-	        "mana_cost": "{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Runesplitter Bolt.jpg"
@@ -2944,11 +2944,6 @@
 		4 Overgrown Sanctuary
 		4 Spellstorm Entourage
 		4 Ardent Recruiter
-		4 Energy Reserve
-		4 Energy Reserve1
-		4 Energy Reserve2
-		4 Energy Reserve3
-		4 Energy Reserve4
 		4 Preserver's Codex
 		4 Fieldmist Borderpost
 		4 Firewild Borderpost

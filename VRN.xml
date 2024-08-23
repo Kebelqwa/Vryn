@@ -200,7 +200,7 @@ Inspired — Whenever Separatist Dervish becomes untapped, you pay {E}. If you d
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flying
+      <text>Covert (This creature can’t be blocked by creatures with summoning sickness.)
 When Consortium Informant enters, seize The Core.
 2U, Pay EEE, Sacrifice Consortium Informant: Draw two cards.</text>
       <related>Energy Reserve VRN</related>
@@ -288,7 +288,7 @@ Inspired — Whenever Bastion Seraph becomes untapped, you gain 3 life.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
-Whenever one or more creatures enter the battlefield under an opponents control, you may untap target creature. Do this only once each turn.</text>
+Whenever one or more creatures you don’t control enter, you may untap target creature. Do this only once each turn.</text>
     </card>
     <card>
       <name>Destabilize</name>
@@ -430,7 +430,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you cast an instant, sorcery, or Wizard spell, Tyrannical Mage deals 1 damage to any target. If you cast that spell from exile, you get {E}.</text>
+      <text>Whenever you cast an instant, sorcery, or Wizard spell, Tyrannical Mage deals 1 damage to any noncreature target. If you cast that spell from exile, you get {E}.</text>
     </card>
     <card>
       <name>Ampryn Confidant</name>
@@ -488,7 +488,7 @@ Whenever a Wizard dies, put a +1/+1 counter on Ampryn Oathbreaker.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-Whenever you cast an instant, sorcery, or Wizard spell, Seasoned Electromancer deals 1 damage to each opponent. This ability triggers only once each turn.</text>
+Whenever you cast an instant, sorcery, or Wizard spell, Seasoned Electromancer deals 1 damage to any target.</text>
     </card>
     <card>
       <name>Su-Chi</name>
@@ -775,8 +775,8 @@ Crew 1</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Haste
-Inspired—Whenever Chaser Bike becomes untapped, you get {E}.
-Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+Inspired — Whenever Chaser Bike becomes untapped, you get {E}.
+Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
     </card>
     <card>
       <name>Arin, Reconstructor Rebel</name>
@@ -957,7 +957,7 @@ Spells can’t be cast using alternate costs.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature gets +3/+0 until end of turn. If its an artifact creature, teach it menace. (Put a menace counter on it. If it already has menace, put a +1/+1 counter on it instead.)</text>
+      <text>Target creature gets +3/+0 until end of turn. If its an artifact creature, teach it menace. (Put a menace counter on it. If it already has that ability, put a +1/+1 counter on it instead.)</text>
     </card>
     <card>
       <name>Vortice Merge</name>
@@ -983,7 +983,7 @@ Spells can’t be cast using alternate costs.</text>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Rebel </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -1426,8 +1426,8 @@ When Benevolent Photomancer enters, you may teach target creature you control li
       <set rarity="common">VRN</set>
       <prop>
         <colors>W</colors>
-        <manacost>X1W</manacost>
-        <cmc>2</cmc>
+        <manacost>XW</manacost>
+        <cmc>1</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
@@ -1493,7 +1493,7 @@ Enchanted permanent gets +1/+1 for each different kind of counter on it.</text>
       <tablerow>1</tablerow>
       <text>Vigilance
 Other Vehicle creatures you control get +1/+1 and have vigilance.
-Crew 3</text>
+Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
     </card>
     <card>
       <name>Peacekeeper Plane</name>
@@ -1665,7 +1665,7 @@ Equip {3}</text>
       <tablerow>1</tablerow>
       <text>Flying
 When Cloaked Observer enters, draw a card.
-Crew 1</text>
+Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
     </card>
     <card>
       <name>Consortium Mastermind</name>
@@ -2547,7 +2547,7 @@ Sacrifice a creature: The Gambino becomes an artifact creature until end of turn
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Ampryn Spellblade dies, reveal cards from the top of your library until you reveal a card with lesser mana value. If its a nonland card, you may pay EE. If you do, cast that spell without paying its mana cost. Otherwise, put it into your hand.</text>
+      <text>When Ampryn Spellblade dies, reveal cards from the top of your library until you reveal a card with lesser mana value. If its a nonland card, you may pay EE. If you do, cast that spell without paying its mana cost. Otherwise, put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>High Stakes Better</name>
@@ -2564,6 +2564,7 @@ Sacrifice a creature: The Gambino becomes an artifact creature until end of turn
       <text>When High Stakes Better enters, you get EEE.
 Pay EEE: Create a 1/1 colorless Pilot creature token with “This creature crews Vehicles as though its power were 2 greater.” Activate only as a sorcery.</text>
       <related>Pilot VRN</related>
+      <related> Energy Reserve VRN</related>
     </card>
     <card>
       <name>Brazen Arcanist</name>
@@ -3034,15 +3035,16 @@ Sacrifice an artifact or creature: Fabricated Junker deals 1 damage to any targe
       <set rarity="rare">VRN</set>
       <prop>
         <colors>R</colors>
-        <manacost>R</manacost>
-        <cmc>1</cmc>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Split second (As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)
-Target artifact deals 1 damage to its controller.
-Overload 3R (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+      <text>Choose one—
+• Destroy target artifact.
+• Runesplitter Bolt deals 2 damage to any target.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
     </card>
     <card>
       <name>Wasteland Ordeal</name>
@@ -3656,7 +3658,7 @@ Crew 3</text>
       <tablerow>0</tablerow>
       <text>Mistcovered Sanctuary enters tapped.
 {T}: Add {W}.
-1W, {T}, Sacrifice Mistcovered Sanctuary: Seize The Core, then draw a card.</text>
+1W, {T}, Sacrifice Mistcovered Sanctuary: Seize The Core, then draw a card. Activate only as a sorcery.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
     </card>
@@ -3673,7 +3675,7 @@ Crew 3</text>
       <tablerow>0</tablerow>
       <text>Skybreaker Sanctuary enters tapped.
 {T}: Add {U}.
-1U, {T}, Sacrifice Skybreaker Sanctuary: Seize The Core, then draw a card.</text>
+1U, {T}, Sacrifice Skybreaker Sanctuary: Seize The Core, then draw a card. Activate only as a sorcery.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
     </card>
@@ -3690,7 +3692,7 @@ Crew 3</text>
       <tablerow>0</tablerow>
       <text>Undercroft Sanctuary enters tapped.
 {T}: Add {B}.
-1B, {T}, Sacrifice Undercroft Sanctuary: Seize The Core, then draw a card.</text>
+1B, {T}, Sacrifice Undercroft Sanctuary: Seize The Core, then draw a card. Activate only as a sorcery.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
     </card>
@@ -3707,7 +3709,7 @@ Crew 3</text>
       <tablerow>0</tablerow>
       <text>Bridgetower Sanctuary enters tapped.
 {T}: Add {R}.
-1R, {T}, Sacrifice Bridgetower Sanctuary: Seize The Core, then draw a card.</text>
+1R, {T}, Sacrifice Bridgetower Sanctuary: Seize The Core, then draw a card. Activate only as a sorcery.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
     </card>
@@ -3724,7 +3726,7 @@ Crew 3</text>
       <tablerow>0</tablerow>
       <text>Overgrown Sanctuary enters tapped.
 {T}: Add {G}.
-1G, {T}, Sacrifice Overgrown Sanctuary: Seize The Core, then draw a card.</text>
+1G, {T}, Sacrifice Overgrown Sanctuary: Seize The Core, then draw a card. Activate only as a sorcery.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
     </card>
@@ -3754,75 +3756,9 @@ Crew 3</text>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ardent Recruiter enters tapped.
-Inspired — Whenever Ardent Recruiter becomes untapped, you may pay {1}. If you do, create a 1/1 white Rebel creature token.</text>
+      <text>Inspired — Whenever Ardent Recruiter becomes untapped, you may pay {1}. If you do, create a 1/1 white Rebel creature token.</text>
       <related>Energy Reserve VRN</related>
       <related> Rebel VRN</related>
-    </card>
-    <card>
-      <name>Energy Reserve</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type></type>
-        <maintype></maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Place your energy counters here.</text>
-    </card>
-    <card>
-      <name>Energy Reserve1</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type></type>
-        <maintype></maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Place your energy counters here.</text>
-    </card>
-    <card>
-      <name>Energy Reserve2</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type></type>
-        <maintype></maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Place your energy counters here.</text>
-    </card>
-    <card>
-      <name>Energy Reserve3</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type></type>
-        <maintype></maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Place your energy counters here.</text>
-    </card>
-    <card>
-      <name>Energy Reserve4</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type></type>
-        <maintype></maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Place your energy counters here.</text>
     </card>
     <card>
       <name>Preserver&apos;s Codex</name>
@@ -3864,7 +3800,7 @@ Rebound</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a creature you control enters, Voltaic Stride deals 1 damage to each opponent. You get {E}.
-EEE: Target creature you control gains haste until end of turn.</text>
+EEE: Teach target creature you control haste. (Put a haste counter on it. If it already has haste, put a +1/+1 counter on it instead.)</text>
     </card>
     <card>
       <name>Demonlord Bobert</name>
