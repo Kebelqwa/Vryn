@@ -5,7 +5,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Graveblade Marauder.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Graveblade Marauder.jpg"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "{7}",
 	        "type": "Artifact Creature — Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mage-Ring Responder.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mage-Ring Responder.jpg"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Pegasus ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Vryn Wingmare.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Vryn Wingmare.jpg"
 	        }
 	    },
 	    {
@@ -32,7 +32,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Separatist Voidmage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Separatist Voidmage.jpg"
 	        }
 	    },
 	    {
@@ -41,7 +41,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ampryn Tactician.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ampryn Tactician.jpg"
 	        }
 	    },
 	    {
@@ -50,7 +50,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mage-Ring Engineer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mage-Ring Engineer.jpg"
 	        }
 	    },
 	    {
@@ -59,7 +59,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Legendary Planeswalker — Jace ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Jace Telepath Homebound.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Jace Telepath Homebound.jpg"
 	        }
 	    },
 	    {
@@ -68,7 +68,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Legendary Planeswalker — Mara ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mara Hand of the Core.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mara Hand of the Core.jpg"
 	        }
 	    },
 	    {
@@ -77,7 +77,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/League Aethermage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/League Aethermage.jpg"
 	        }
 	    },
 	    {
@@ -86,7 +86,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Telling Time.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Telling Time.jpg"
 	        }
 	    },
 	    {
@@ -95,7 +95,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Warrior Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Separatist Dervish.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Separatist Dervish.jpg"
 	        }
 	    },
 	    {
@@ -104,7 +104,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/League Pyromancer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/League Pyromancer.jpg"
 	        }
 	    },
 	    {
@@ -113,7 +113,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Consortium Informant.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Consortium Informant.jpg"
 	        }
 	    },
 	    {
@@ -122,7 +122,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Subconscious Warning.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Subconscious Warning.jpg"
 	        }
 	    },
 	    {
@@ -131,7 +131,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Cleric Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Trovian Disciple.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Trovian Disciple.jpg"
 	        }
 	    },
 	    {
@@ -140,7 +140,7 @@
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Unvaulted Evil.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Unvaulted Evil.jpg"
 	        }
 	    },
 	    {
@@ -149,7 +149,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Chart a Course.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Chart a Course.jpg"
 	        }
 	    },
 	    {
@@ -158,7 +158,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Angel Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Bastion Seraph.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Bastion Seraph.jpg"
 	        }
 	    },
 	    {
@@ -167,7 +167,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ringer Nightwatch.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ringer Nightwatch.jpg"
 	        }
 	    },
 	    {
@@ -176,7 +176,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Destabilize.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Destabilize.jpg"
 	        }
 	    },
 	    {
@@ -185,7 +185,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact Creature — Thopter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ampryn Monitor.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ampryn Monitor.jpg"
 	        }
 	    },
 	    {
@@ -194,7 +194,7 @@
 	        "mana_cost": "{X}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Unearthed Relics.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Unearthed Relics.jpg"
 	        }
 	    },
 	    {
@@ -203,7 +203,7 @@
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Sinking Opportunities.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Sinking Opportunities.jpg"
 	        }
 	    },
 	    {
@@ -212,7 +212,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Councils Edict.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Councils Edict.jpg"
 	        }
 	    },
 	    {
@@ -221,7 +221,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Read the Trail.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Read the Trail.jpg"
 	        }
 	    },
 	    {
@@ -230,7 +230,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ringer's Resolve.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ringer's Resolve.jpg"
 	        }
 	    },
 	    {
@@ -239,7 +239,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Steel Sabotage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Steel Sabotage.jpg"
 	        }
 	    },
 	    {
@@ -248,7 +248,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Artifact Creature — Dinosaur Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Constructed Dreadmaw.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Constructed Dreadmaw.jpg"
 	        }
 	    },
 	    {
@@ -257,7 +257,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Tyrannical Mage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Tyrannical Mage.jpg"
 	        }
 	    },
 	    {
@@ -266,7 +266,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ampryn Confidant.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ampryn Confidant.jpg"
 	        }
 	    },
 	    {
@@ -275,7 +275,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Cloudstone Curio.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Cloudstone Curio.jpg"
 	        }
 	    },
 	    {
@@ -284,7 +284,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ampryn Oathbreaker.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ampryn Oathbreaker.jpg"
 	        }
 	    },
 	    {
@@ -293,7 +293,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Seasoned Electromancer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Seasoned Electromancer.jpg"
 	        }
 	    },
 	    {
@@ -302,7 +302,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Su-Chi.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Su-Chi.jpg"
 	        }
 	    },
 	    {
@@ -311,7 +311,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Rebel Bladesmith.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Rebel Bladesmith.jpg"
 	        }
 	    },
 	    {
@@ -320,7 +320,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Starlit Cavern.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Starlit Cavern.jpg"
 	        }
 	    },
 	    {
@@ -329,7 +329,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Layered Warding.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Layered Warding.jpg"
 	        }
 	    },
 	    {
@@ -338,7 +338,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Pylon Protector.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Pylon Protector.jpg"
 	        }
 	    },
 	    {
@@ -347,7 +347,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Island.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Island.jpg"
 	        }
 	    },
 	    {
@@ -356,7 +356,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Swamp1.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Swamp1.jpg"
 	        }
 	    },
 	    {
@@ -365,7 +365,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mountain1.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mountain1.jpg"
 	        }
 	    },
 	    {
@@ -374,7 +374,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Forest1.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Forest1.jpg"
 	        }
 	    },
 	    {
@@ -383,7 +383,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Core Rupture.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Core Rupture.jpg"
 	        }
 	    },
 	    {
@@ -392,7 +392,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Reliquary Guardian.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Reliquary Guardian.jpg"
 	        }
 	    },
 	    {
@@ -401,7 +401,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ringer Templar.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ringer Templar.jpg"
 	        }
 	    },
 	    {
@@ -410,7 +410,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Plains.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Plains.jpg"
 	        }
 	    },
 	    {
@@ -419,7 +419,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Island1.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Island1.jpg"
 	        }
 	    },
 	    {
@@ -428,7 +428,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Frigid Turbines.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Frigid Turbines.jpg"
 	        }
 	    },
 	    {
@@ -437,7 +437,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Geothermal Pits.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Geothermal Pits.jpg"
 	        }
 	    },
 	    {
@@ -446,7 +446,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ring Feeder.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ring Feeder.jpg"
 	        }
 	    },
 	    {
@@ -455,7 +455,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ampryn Consignment.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ampryn Consignment.jpg"
 	        }
 	    },
 	    {
@@ -464,7 +464,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Legendary Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/The Eviscerator.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/The Eviscerator.jpg"
 	        }
 	    },
 	    {
@@ -473,7 +473,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Chaser Bike.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Chaser Bike.jpg"
 	        }
 	    },
 	    {
@@ -482,7 +482,7 @@
 	        "mana_cost": "{3}{R}{W}",
 	        "type": "Legendary Creature — Human Rebel Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Arin, Reconstructor Rebel.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Arin, Reconstructor Rebel.jpg"
 	        }
 	    },
 	    {
@@ -491,7 +491,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ampryn Sentry.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ampryn Sentry.jpg"
 	        }
 	    },
 	    {
@@ -500,7 +500,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Prosperous Magocrat.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Prosperous Magocrat.jpg"
 	        }
 	    },
 	    {
@@ -509,7 +509,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Galvanic Discharge.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Galvanic Discharge.jpg"
 	        }
 	    },
 	    {
@@ -518,7 +518,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Trovian Renegade.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Trovian Renegade.jpg"
 	        }
 	    },
 	    {
@@ -527,7 +527,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Temporal Harvest.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Temporal Harvest.jpg"
 	        }
 	    },
 	    {
@@ -536,7 +536,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Pilot.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Pilot.jpg"
 	        }
 	    },
 	    {
@@ -545,7 +545,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact — Gear ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Gear.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Gear.jpg"
 	        }
 	    },
 	    {
@@ -554,7 +554,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Plains1.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Plains1.jpg"
 	        }
 	    },
 	    {
@@ -563,7 +563,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Swamp.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Swamp.jpg"
 	        }
 	    },
 	    {
@@ -572,7 +572,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mountain.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mountain.jpg"
 	        }
 	    },
 	    {
@@ -581,7 +581,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Forest.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Forest.jpg"
 	        }
 	    },
 	    {
@@ -590,7 +590,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Power Station.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Power Station.jpg"
 	        }
 	    },
 	    {
@@ -599,7 +599,7 @@
 	        "mana_cost": "{W}{W}",
 	        "type": "Creature — Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Avatar of Law.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Avatar of Law.jpg"
 	        }
 	    },
 	    {
@@ -608,7 +608,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Anarchist's Wrath.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Anarchist's Wrath.jpg"
 	        }
 	    },
 	    {
@@ -617,7 +617,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Vortice Merge.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Vortice Merge.jpg"
 	        }
 	    },
 	    {
@@ -626,7 +626,7 @@
 	        "mana_cost": "{2}{R}{W}",
 	        "type": "Legendary Creature — Human Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Gav Beleren, War Hero.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Gav Beleren, War Hero.jpg"
 	        }
 	    },
 	    {
@@ -635,7 +635,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ampryn Charmbreaker.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ampryn Charmbreaker.jpg"
 	        }
 	    },
 	    {
@@ -644,7 +644,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Phyrexian Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Fallen Battlemage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Fallen Battlemage.jpg"
 	        }
 	    },
 	    {
@@ -653,7 +653,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/False Renewal.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/False Renewal.jpg"
 	        }
 	    },
 	    {
@@ -662,7 +662,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Legendary Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/The Energy Blade.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/The Energy Blade.jpg"
 	        }
 	    },
 	    {
@@ -671,7 +671,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Dark Confidant.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Dark Confidant.jpg"
 	        }
 	    },
 	    {
@@ -680,7 +680,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Phyrexian Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Burnished Geomancer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Burnished Geomancer.jpg"
 	        }
 	    },
 	    {
@@ -689,7 +689,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact Creature — Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Solemn Simulacrum.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Solemn Simulacrum.jpg"
 	        }
 	    },
 	    {
@@ -698,7 +698,7 @@
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/The Core.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/The Core.jpg"
 	        }
 	    },
 	    {
@@ -707,7 +707,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Disciple of the Ring.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Disciple of the Ring.jpg"
 	        }
 	    },
 	    {
@@ -716,7 +716,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Legendary Planeswalker — Charim ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Charim Kosta, Planeswalker.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Charim Kosta, Planeswalker.jpg"
 	        }
 	    },
 	    {
@@ -725,7 +725,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Elf Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Vitality Sage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Vitality Sage.jpg"
 	        }
 	    },
 	    {
@@ -734,7 +734,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Legendary Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/The Arboreal Skycraft.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/The Arboreal Skycraft.jpg"
 	        }
 	    },
 	    {
@@ -743,7 +743,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Brilliant Mage-Ring.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Brilliant Mage-Ring.jpg"
 	        }
 	    },
 	    {
@@ -752,7 +752,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Derelict Mage-Ring.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Derelict Mage-Ring.jpg"
 	        }
 	    },
 	    {
@@ -761,7 +761,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Reclaimed Mage-Ring.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Reclaimed Mage-Ring.jpg"
 	        }
 	    },
 	    {
@@ -770,7 +770,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Repurposed Mage-Ring.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Repurposed Mage-Ring.jpg"
 	        }
 	    },
 	    {
@@ -779,7 +779,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Glorious Mage-Ring.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Glorious Mage-Ring.jpg"
 	        }
 	    },
 	    {
@@ -788,7 +788,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Hydroelectric Plant.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Hydroelectric Plant.jpg"
 	        }
 	    },
 	    {
@@ -797,7 +797,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mining Pit.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mining Pit.jpg"
 	        }
 	    },
 	    {
@@ -806,7 +806,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Aether Farm.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Aether Farm.jpg"
 	        }
 	    },
 	    {
@@ -815,7 +815,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Trovian Track.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Trovian Track.jpg"
 	        }
 	    },
 	    {
@@ -824,7 +824,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Recycling Chamber.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Recycling Chamber.jpg"
 	        }
 	    },
 	    {
@@ -833,7 +833,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Reactor Pool.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Reactor Pool.jpg"
 	        }
 	    },
 	    {
@@ -842,7 +842,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Automated Lair.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Automated Lair.jpg"
 	        }
 	    },
 	    {
@@ -851,7 +851,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Convergence Floor.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Convergence Floor.jpg"
 	        }
 	    },
 	    {
@@ -860,7 +860,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ghalian Instructor.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ghalian Instructor.jpg"
 	        }
 	    },
 	    {
@@ -869,7 +869,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Phyrexian Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Phyrexian Facestealer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Phyrexian Facestealer.jpg"
 	        }
 	    },
 	    {
@@ -878,7 +878,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Phyrexian Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Forsaken Legionnaire.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Forsaken Legionnaire.jpg"
 	        }
 	    },
 	    {
@@ -887,7 +887,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Artifact Creature — Phyrexian Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Crimson Anointer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Crimson Anointer.jpg"
 	        }
 	    },
 	    {
@@ -896,7 +896,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Benevolent Photomancer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Benevolent Photomancer.jpg"
 	        }
 	    },
 	    {
@@ -905,7 +905,7 @@
 	        "mana_cost": "{X}{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ampryn Study.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ampryn Study.jpg"
 	        }
 	    },
 	    {
@@ -914,7 +914,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Jolted Awake.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Jolted Awake.jpg"
 	        }
 	    },
 	    {
@@ -923,7 +923,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Enforcer Procession.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Enforcer Procession.jpg"
 	        }
 	    },
 	    {
@@ -932,7 +932,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Skill Flare.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Skill Flare.jpg"
 	        }
 	    },
 	    {
@@ -941,7 +941,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Enforcers Ringwheeler.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Enforcers Ringwheeler.jpg"
 	        }
 	    },
 	    {
@@ -950,7 +950,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Peacekeeper Plane.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Peacekeeper Plane.jpg"
 	        }
 	    },
 	    {
@@ -959,7 +959,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Fumecrafter Mage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Fumecrafter Mage.jpg"
 	        }
 	    },
 	    {
@@ -968,7 +968,7 @@
 	        "mana_cost": "{5}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Escapade Mage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Escapade Mage.jpg"
 	        }
 	    },
 	    {
@@ -977,7 +977,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Protector of the Core.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Protector of the Core.jpg"
 	        }
 	    },
 	    {
@@ -986,7 +986,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Consortium Bookthief.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Consortium Bookthief.jpg"
 	        }
 	    },
 	    {
@@ -995,7 +995,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Messenger Drake.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Messenger Drake.jpg"
 	        }
 	    },
 	    {
@@ -1004,7 +1004,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Somnomancer Adept.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Somnomancer Adept.jpg"
 	        }
 	    },
 	    {
@@ -1013,7 +1013,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Rain of Frost.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Rain of Frost.jpg"
 	        }
 	    },
 	    {
@@ -1022,7 +1022,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Stasis Field.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Stasis Field.jpg"
 	        }
 	    },
 	    {
@@ -1031,7 +1031,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ampryn Mantle.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ampryn Mantle.jpg"
 	        }
 	    },
 	    {
@@ -1040,7 +1040,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Cloaked Observer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Cloaked Observer.jpg"
 	        }
 	    },
 	    {
@@ -1049,7 +1049,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Consortium Mastermind.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Consortium Mastermind.jpg"
 	        }
 	    },
 	    {
@@ -1058,7 +1058,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Spirit Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Aether Revenant.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Aether Revenant.jpg"
 	        }
 	    },
 	    {
@@ -1067,7 +1067,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Separatist Revenant.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Separatist Revenant.jpg"
 	        }
 	    },
 	    {
@@ -1076,7 +1076,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Phyrexian Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Oilborn.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Oilborn.jpg"
 	        }
 	    },
 	    {
@@ -1085,7 +1085,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Zombie Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ampryn Lich.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ampryn Lich.jpg"
 	        }
 	    },
 	    {
@@ -1094,7 +1094,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Artificer Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mercenary Arbiter.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mercenary Arbiter.jpg"
 	        }
 	    },
 	    {
@@ -1103,7 +1103,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Black Market Beguiler.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Black Market Beguiler.jpg"
 	        }
 	    },
 	    {
@@ -1112,7 +1112,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Become Compleat.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Become Compleat.jpg"
 	        }
 	    },
 	    {
@@ -1121,7 +1121,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Harvester Font.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Harvester Font.jpg"
 	        }
 	    },
 	    {
@@ -1130,7 +1130,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Entropic Chiming.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Entropic Chiming.jpg"
 	        }
 	    },
 	    {
@@ -1139,7 +1139,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Consortium Switchblade.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Consortium Switchblade.jpg"
 	        }
 	    },
 	    {
@@ -1148,7 +1148,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Derelict Dredger.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Derelict Dredger.jpg"
 	        }
 	    },
 	    {
@@ -1157,7 +1157,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Paintrain.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Paintrain.jpg"
 	        }
 	    },
 	    {
@@ -1166,7 +1166,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Human Rebel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Trovian Veteren.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Trovian Veteren.jpg"
 	        }
 	    },
 	    {
@@ -1175,7 +1175,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Insectile Junker.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Insectile Junker.jpg"
 	        }
 	    },
 	    {
@@ -1184,7 +1184,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Voltaic Racer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Voltaic Racer.jpg"
 	        }
 	    },
 	    {
@@ -1193,7 +1193,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/League Electromancer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/League Electromancer.jpg"
 	        }
 	    },
 	    {
@@ -1202,7 +1202,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Outsourced Recruitment.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Outsourced Recruitment.jpg"
 	        }
 	    },
 	    {
@@ -1211,7 +1211,7 @@
 	        "mana_cost": "{X}{X}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Flaring Blades.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Flaring Blades.jpg"
 	        }
 	    },
 	    {
@@ -1220,7 +1220,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Liberated Dunestrider.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Liberated Dunestrider.jpg"
 	        }
 	    },
 	    {
@@ -1229,7 +1229,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Human Artificer Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mage-Ring Exile.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mage-Ring Exile.jpg"
 	        }
 	    },
 	    {
@@ -1238,7 +1238,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Bird Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Sylvan Spectator.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Sylvan Spectator.jpg"
 	        }
 	    },
 	    {
@@ -1247,7 +1247,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Dryad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Aether Whisperer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Aether Whisperer.jpg"
 	        }
 	    },
 	    {
@@ -1256,7 +1256,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Spider Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Treesap Spinner.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Treesap Spinner.jpg"
 	        }
 	    },
 	    {
@@ -1265,7 +1265,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Dryad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Enclave Guardian.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Enclave Guardian.jpg"
 	        }
 	    },
 	    {
@@ -1274,7 +1274,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Human Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Rebel Frontiersman.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Rebel Frontiersman.jpg"
 	        }
 	    },
 	    {
@@ -1283,7 +1283,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Artifact Creature — Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Part Salvager.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Part Salvager.jpg"
 	        }
 	    },
 	    {
@@ -1292,7 +1292,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Quarry Hunter.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Quarry Hunter.jpg"
 	        }
 	    },
 	    {
@@ -1301,7 +1301,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Dryad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Regrowth Dryad.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Regrowth Dryad.jpg"
 	        }
 	    },
 	    {
@@ -1310,7 +1310,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Eternal Cavalier.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Eternal Cavalier.jpg"
 	        }
 	    },
 	    {
@@ -1319,7 +1319,7 @@
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Wurm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ringcrusher Wurm.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ringcrusher Wurm.jpg"
 	        }
 	    },
 	    {
@@ -1328,7 +1328,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Outland Tranquility.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Outland Tranquility.jpg"
 	        }
 	    },
 	    {
@@ -1337,7 +1337,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Energy Burst.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Energy Burst.jpg"
 	        }
 	    },
 	    {
@@ -1346,7 +1346,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Combat Trial.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Combat Trial.jpg"
 	        }
 	    },
 	    {
@@ -1355,7 +1355,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Dune Glider.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Dune Glider.jpg"
 	        }
 	    },
 	    {
@@ -1364,7 +1364,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Phyrexian Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ward Splicer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ward Splicer.jpg"
 	        }
 	    },
 	    {
@@ -1373,7 +1373,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ghalian Upriser.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ghalian Upriser.jpg"
 	        }
 	    },
 	    {
@@ -1382,7 +1382,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Political Shift.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Political Shift.jpg"
 	        }
 	    },
 	    {
@@ -1391,7 +1391,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ephemerate.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ephemerate.jpg"
 	        }
 	    },
 	    {
@@ -1400,7 +1400,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Adept Mechanic.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Adept Mechanic.jpg"
 	        }
 	    },
 	    {
@@ -1409,7 +1409,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Civilian Transport.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Civilian Transport.jpg"
 	        }
 	    },
 	    {
@@ -1418,7 +1418,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Conniving Interloper.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Conniving Interloper.jpg"
 	        }
 	    },
 	    {
@@ -1427,7 +1427,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Flux Diviner.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Flux Diviner.jpg"
 	        }
 	    },
 	    {
@@ -1436,7 +1436,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Tandriselle, Flux Protector.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Tandriselle, Flux Protector.jpg"
 	        }
 	    },
 	    {
@@ -1445,7 +1445,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Aether Trail.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Aether Trail.jpg"
 	        }
 	    },
 	    {
@@ -1454,7 +1454,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Industrial Espionage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Industrial Espionage.jpg"
 	        }
 	    },
 	    {
@@ -1463,7 +1463,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Aether Spike.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Aether Spike.jpg"
 	        }
 	    },
 	    {
@@ -1472,7 +1472,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Recurring Setbacks.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Recurring Setbacks.jpg"
 	        }
 	    },
 	    {
@@ -1481,7 +1481,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Warped Scion.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Warped Scion.jpg"
 	        }
 	    },
 	    {
@@ -1490,7 +1490,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Phyrexian Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Processor Beast.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Processor Beast.jpg"
 	        }
 	    },
 	    {
@@ -1499,7 +1499,7 @@
 	        "mana_cost": "{5}{B}",
 	        "type": "Creature — Phyrexian Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Fumechoke Splicer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Fumechoke Splicer.jpg"
 	        }
 	    },
 	    {
@@ -1508,7 +1508,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Aethereal Militia.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Aethereal Militia.jpg"
 	        }
 	    },
 	    {
@@ -1517,7 +1517,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Spirit Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Render of Mortality.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Render of Mortality.jpg"
 	        }
 	    },
 	    {
@@ -1526,7 +1526,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Otherworldly Onslaught.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Otherworldly Onslaught.jpg"
 	        }
 	    },
 	    {
@@ -1535,7 +1535,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Apocryphal Rite.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Apocryphal Rite.jpg"
 	        }
 	    },
 	    {
@@ -1544,7 +1544,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Illicit Tutelage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Illicit Tutelage.jpg"
 	        }
 	    },
 	    {
@@ -1553,7 +1553,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Aether Renewal.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Aether Renewal.jpg"
 	        }
 	    },
 	    {
@@ -1562,7 +1562,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Legendary Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/The Gambino.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/The Gambino.jpg"
 	        }
 	    },
 	    {
@@ -1571,7 +1571,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ampryn Spellblade.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ampryn Spellblade.jpg"
 	        }
 	    },
 	    {
@@ -1580,7 +1580,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/High Stakes Better.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/High Stakes Better.jpg"
 	        }
 	    },
 	    {
@@ -1589,7 +1589,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Rebel Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Brazen Arcanist.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Brazen Arcanist.jpg"
 	        }
 	    },
 	    {
@@ -1598,7 +1598,7 @@
 	        "mana_cost": "{X}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Rabblerouse.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Rabblerouse.jpg"
 	        }
 	    },
 	    {
@@ -1607,7 +1607,7 @@
 	        "mana_cost": "{X}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Pincer Maneuver.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Pincer Maneuver.jpg"
 	        }
 	    },
 	    {
@@ -1616,7 +1616,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mage-Ring Radiation.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mage-Ring Radiation.jpg"
 	        }
 	    },
 	    {
@@ -1625,7 +1625,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Maverick Infiltrator.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Maverick Infiltrator.jpg"
 	        }
 	    },
 	    {
@@ -1634,7 +1634,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Trovian Liberator.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Trovian Liberator.jpg"
 	        }
 	    },
 	    {
@@ -1643,7 +1643,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Aethereal Husk.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Aethereal Husk.jpg"
 	        }
 	    },
 	    {
@@ -1652,7 +1652,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Energy Recycling.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Energy Recycling.jpg"
 	        }
 	    },
 	    {
@@ -1661,7 +1661,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Elf Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Watcher of Spheres.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Watcher of Spheres.jpg"
 	        }
 	    },
 	    {
@@ -1670,7 +1670,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Dryad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Burstroot Dryad.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Burstroot Dryad.jpg"
 	        }
 	    },
 	    {
@@ -1679,7 +1679,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Elf Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Prophetic Shaman.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Prophetic Shaman.jpg"
 	        }
 	    },
 	    {
@@ -1688,7 +1688,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Energy Infusion.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Energy Infusion.jpg"
 	        }
 	    },
 	    {
@@ -1697,7 +1697,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Search for Sanctuary.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Search for Sanctuary.jpg"
 	        }
 	    },
 	    {
@@ -1706,7 +1706,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Dryad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Energy Drover.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Energy Drover.jpg"
 	        }
 	    },
 	    {
@@ -1715,7 +1715,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Outlands Digger.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Outlands Digger.jpg"
 	        }
 	    },
 	    {
@@ -1724,7 +1724,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Inspiration Manifested.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Inspiration Manifested.jpg"
 	        }
 	    },
 	    {
@@ -1733,7 +1733,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mandatory Reconstruction.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mandatory Reconstruction.jpg"
 	        }
 	    },
 	    {
@@ -1742,7 +1742,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ampryn Wrath.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ampryn Wrath.jpg"
 	        }
 	    },
 	    {
@@ -1751,7 +1751,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Rebounding Justice.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Rebounding Justice.jpg"
 	        }
 	    },
 	    {
@@ -1760,7 +1760,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Artifact Creature — Phyrexian Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Porcelain Subduer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Porcelain Subduer.jpg"
 	        }
 	    },
 	    {
@@ -1769,7 +1769,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Noble Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Prestigious Scion.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Prestigious Scion.jpg"
 	        }
 	    },
 	    {
@@ -1778,7 +1778,7 @@
 	        "mana_cost": "{X}{X}{U}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ampryn Enforcer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ampryn Enforcer.jpg"
 	        }
 	    },
 	    {
@@ -1787,7 +1787,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Spellseeker.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Spellseeker.jpg"
 	        }
 	    },
 	    {
@@ -1796,7 +1796,7 @@
 	        "mana_cost": "{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Archmages Dismissal.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Archmages Dismissal.jpg"
 	        }
 	    },
 	    {
@@ -1805,7 +1805,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ancient Whispers.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ancient Whispers.jpg"
 	        }
 	    },
 	    {
@@ -1814,7 +1814,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Roiling Arcana.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Roiling Arcana.jpg"
 	        }
 	    },
 	    {
@@ -1823,7 +1823,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Legendary Artifact Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Okla, Queen of Refuse.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Okla, Queen of Refuse.jpg"
 	        }
 	    },
 	    {
@@ -1832,7 +1832,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mage-Ring Mite.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mage-Ring Mite.jpg"
 	        }
 	    },
 	    {
@@ -1841,7 +1841,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Diabolic Intent.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Diabolic Intent.jpg"
 	        }
 	    },
 	    {
@@ -1850,7 +1850,7 @@
 	        "mana_cost": "{6}{B}{B}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/The Ring of Ghosts.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/The Ring of Ghosts.jpg"
 	        }
 	    },
 	    {
@@ -1859,7 +1859,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Fabricated Junker.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Fabricated Junker.jpg"
 	        }
 	    },
 	    {
@@ -1868,7 +1868,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Trovian Avenger.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Trovian Avenger.jpg"
 	        }
 	    },
 	    {
@@ -1877,7 +1877,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Runesplitter Bolt.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Runesplitter Bolt.jpg"
 	        }
 	    },
 	    {
@@ -1886,7 +1886,7 @@
 	        "mana_cost": "{X}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Wasteland Ordeal.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Wasteland Ordeal.jpg"
 	        }
 	    },
 	    {
@@ -1895,7 +1895,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Scavenger Craft.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Scavenger Craft.jpg"
 	        }
 	    },
 	    {
@@ -1904,7 +1904,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Recon Fighter.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Recon Fighter.jpg"
 	        }
 	    },
 	    {
@@ -1913,7 +1913,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Legendary Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Olim, Ring Seeker.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Olim, Ring Seeker.jpg"
 	        }
 	    },
 	    {
@@ -1922,7 +1922,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Legendary Creature — Dryad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Tressera, Outlands Enigma.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Tressera, Outlands Enigma.jpg"
 	        }
 	    },
 	    {
@@ -1931,7 +1931,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Elf Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Druid of Fruition.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Druid of Fruition.jpg"
 	        }
 	    },
 	    {
@@ -1940,7 +1940,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Dryad Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Dryad Crusher.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Dryad Crusher.jpg"
 	        }
 	    },
 	    {
@@ -1949,7 +1949,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Druidic Crossroads.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Druidic Crossroads.jpg"
 	        }
 	    },
 	    {
@@ -1958,7 +1958,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Sigil of Roiling Elements.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Sigil of Roiling Elements.jpg"
 	        }
 	    },
 	    {
@@ -1967,7 +1967,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Legendary Creature — Human Soldier Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Admiral Thall.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Admiral Thall.jpg"
 	        }
 	    },
 	    {
@@ -1976,7 +1976,7 @@
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ancient Visions.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ancient Visions.jpg"
 	        }
 	    },
 	    {
@@ -1985,7 +1985,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Phyrexian Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Scheming Oilshaper.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Scheming Oilshaper.jpg"
 	        }
 	    },
 	    {
@@ -1994,7 +1994,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Legendary Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Slayer's Blade.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Slayer's Blade.jpg"
 	        }
 	    },
 	    {
@@ -2003,7 +2003,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Legendary Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Separatist Titancraft.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Separatist Titancraft.jpg"
 	        }
 	    },
 	    {
@@ -2012,7 +2012,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Legendary Creature — Dryad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Kunga, Dryad Warden.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Kunga, Dryad Warden.jpg"
 	        }
 	    },
 	    {
@@ -2021,7 +2021,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Energy Reservoir.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Energy Reservoir.jpg"
 	        }
 	    },
 	    {
@@ -2030,7 +2030,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Outskirts Mage-Ring.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Outskirts Mage-Ring.jpg"
 	        }
 	    },
 	    {
@@ -2039,7 +2039,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Creature — Human Rogue Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Rogue Shadowmage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Rogue Shadowmage.jpg"
 	        }
 	    },
 	    {
@@ -2048,7 +2048,7 @@
 	        "mana_cost": "{1}{R}{G}",
 	        "type": "Legendary Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Rudolph, Ampryn Brutalizer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Rudolph, Ampryn Brutalizer.jpg"
 	        }
 	    },
 	    {
@@ -2057,7 +2057,7 @@
 	        "mana_cost": "{2}{G}{W}",
 	        "type": "Creature — Human Nomad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Reliquary Guards.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Reliquary Guards.jpg"
 	        }
 	    },
 	    {
@@ -2066,7 +2066,7 @@
 	        "mana_cost": "{2}{W}{B}",
 	        "type": "Creature — Phyrexian Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mandate Splicer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mandate Splicer.jpg"
 	        }
 	    },
 	    {
@@ -2075,7 +2075,7 @@
 	        "mana_cost": "{B}{G}",
 	        "type": "Legendary Creature — Spirit Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/The Energy Revenant.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/The Energy Revenant.jpg"
 	        }
 	    },
 	    {
@@ -2084,7 +2084,7 @@
 	        "mana_cost": "{2}{G}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Kavalester, Mage Hermit.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Kavalester, Mage Hermit.jpg"
 	        }
 	    },
 	    {
@@ -2093,7 +2093,7 @@
 	        "mana_cost": "{2}{W}{U}",
 	        "type": "Legendary Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Drydis Fergan, Ampryn Recruiter.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Drydis Fergan, Ampryn Recruiter.jpg"
 	        }
 	    },
 	    {
@@ -2102,7 +2102,7 @@
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Legendary Creature — Human Rogue Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Orith, Consortium Mage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Orith, Consortium Mage.jpg"
 	        }
 	    },
 	    {
@@ -2111,7 +2111,7 @@
 	        "mana_cost": "{B}{R}",
 	        "type": "Legendary Creature — Human Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Charim Kosta, Boy Prodigy.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Charim Kosta, Boy Prodigy.jpg"
 	        }
 	    },
 	    {
@@ -2120,7 +2120,7 @@
 	        "mana_cost": "{3}{R}{G}",
 	        "type": "Legendary Creature — Human Berserker ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Deb O'Raw, the Ruthless.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Deb O'Raw, the Ruthless.jpg"
 	        }
 	    },
 	    {
@@ -2129,7 +2129,7 @@
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Legendary Creature — Human Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Nira Wardcaster.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Nira Wardcaster.jpg"
 	        }
 	    },
 	    {
@@ -2138,7 +2138,7 @@
 	        "mana_cost": "{2}{W}{B}",
 	        "type": "Legendary Creature — Phyrexian Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Xyarta, Norn's Ambassador.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Xyarta, Norn's Ambassador.jpg"
 	        }
 	    },
 	    {
@@ -2147,7 +2147,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Orsin, Mentor to Mages.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Orsin, Mentor to Mages.jpg"
 	        }
 	    },
 	    {
@@ -2156,7 +2156,7 @@
 	        "mana_cost": "{3}{B}{G}",
 	        "type": "Legendary Creature — Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Vestis, Apocalypse Entity.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Vestis, Apocalypse Entity.jpg"
 	        }
 	    },
 	    {
@@ -2165,7 +2165,7 @@
 	        "mana_cost": "{G}{U}",
 	        "type": "Legendary Creature — Elf Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Tennuk, Omenpath Navigator.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Tennuk, Omenpath Navigator.jpg"
 	        }
 	    },
 	    {
@@ -2174,7 +2174,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Rebel Codex.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Rebel Codex.jpg"
 	        }
 	    },
 	    {
@@ -2183,7 +2183,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Wizard Codex.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Wizard Codex.jpg"
 	        }
 	    },
 	    {
@@ -2192,7 +2192,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Aethereal Codex.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Aethereal Codex.jpg"
 	        }
 	    },
 	    {
@@ -2201,7 +2201,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Maverick Codex.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Maverick Codex.jpg"
 	        }
 	    },
 	    {
@@ -2210,7 +2210,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Trovian Blade.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Trovian Blade.jpg"
 	        }
 	    },
 	    {
@@ -2219,7 +2219,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Codex Archive.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Codex Archive.jpg"
 	        }
 	    },
 	    {
@@ -2228,7 +2228,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Consortium Copter.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Consortium Copter.jpg"
 	        }
 	    },
 	    {
@@ -2237,7 +2237,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Terramorphic Expanse.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Terramorphic Expanse.jpg"
 	        }
 	    },
 	    {
@@ -2246,7 +2246,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Sanctuary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mistcovered Sanctuary.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mistcovered Sanctuary.jpg"
 	        }
 	    },
 	    {
@@ -2255,7 +2255,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Sanctuary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Skybreaker Sanctuary.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Skybreaker Sanctuary.jpg"
 	        }
 	    },
 	    {
@@ -2264,7 +2264,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Sanctuary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Undercroft Sanctuary.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Undercroft Sanctuary.jpg"
 	        }
 	    },
 	    {
@@ -2273,7 +2273,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Sanctuary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Bridgetower Sanctuary.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Bridgetower Sanctuary.jpg"
 	        }
 	    },
 	    {
@@ -2282,7 +2282,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Sanctuary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Overgrown Sanctuary.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Overgrown Sanctuary.jpg"
 	        }
 	    },
 	    {
@@ -2291,7 +2291,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Spellstorm Entourage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Spellstorm Entourage.jpg"
 	        }
 	    },
 	    {
@@ -2300,7 +2300,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ardent Recruiter.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ardent Recruiter.jpg"
 	        }
 	    },
 	    {
@@ -2309,43 +2309,43 @@
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Energy Reserve.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Energy Reserve.jpg"
 	        }
 	    },
 	    {
-	        "name": "Energy Reserve1;",
+	        "name": "Energy Reserve1",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Energy Reserve1;.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Energy Reserve1.jpg"
 	        }
 	    },
 	    {
-	        "name": "Energy Reserve2;",
+	        "name": "Energy Reserve2",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Energy Reserve2;.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Energy Reserve2.jpg"
 	        }
 	    },
 	    {
-	        "name": "Energy Reserve3;",
+	        "name": "Energy Reserve3",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Energy Reserve3;.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Energy Reserve3.jpg"
 	        }
 	    },
 	    {
-	        "name": "Energy Reserve4;",
+	        "name": "Energy Reserve4",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Energy Reserve4;.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Energy Reserve4.jpg"
 	        }
 	    },
 	    {
@@ -2354,7 +2354,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact Creature — Phyrexian Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Phyrexian Golem.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Phyrexian Golem.jpg"
 	        }
 	    },
 	    {
@@ -2363,7 +2363,7 @@
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Vryn Draft Archetypes.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Vryn Draft Archetypes.jpg"
 	        }
 	    },
 	    {
@@ -2372,7 +2372,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Spirit.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Spirit.jpg"
 	        }
 	    },
 	    {
@@ -2381,7 +2381,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Preserver's Codex.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Preserver's Codex.jpg"
 	        }
 	    },
 	    {
@@ -2390,7 +2390,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Ancient Echo.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Ancient Echo.jpg"
 	        }
 	    },
 	    {
@@ -2399,7 +2399,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Voltaic Stride.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Voltaic Stride.jpg"
 	        }
 	    },
 	    {
@@ -2408,7 +2408,7 @@
 	        "mana_cost": "{5}{B}{B}{B}",
 	        "type": "Legendary Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Demonlord Bobert.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Demonlord Bobert.jpg"
 	        }
 	    },
 	    {
@@ -2417,7 +2417,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Legendary Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/The Dreadsled.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/The Dreadsled.jpg"
 	        }
 	    },
 	    {
@@ -2426,7 +2426,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Legendary Artifact Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Irelia Etherium Crafter.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Irelia Etherium Crafter.jpg"
 	        }
 	    },
 	    {
@@ -2435,7 +2435,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Core Convergence.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Core Convergence.jpg"
 	        }
 	    },
 	    {
@@ -2444,7 +2444,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Legendary Creature — Phyrexian Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Erxandath Blightwing.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Erxandath Blightwing.jpg"
 	        }
 	    },
 	    {
@@ -2453,7 +2453,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Exemplary Toolcraft.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Exemplary Toolcraft.jpg"
 	        }
 	    },
 	    {
@@ -2462,7 +2462,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Fieldmist Borderpost.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Fieldmist Borderpost.jpg"
 	        }
 	    },
 	    {
@@ -2471,7 +2471,7 @@
 	        "mana_cost": "{1}{R}{G}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Firewild Borderpost.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Firewild Borderpost.jpg"
 	        }
 	    },
 	    {
@@ -2480,7 +2480,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mistvein Borderpost.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mistvein Borderpost.jpg"
 	        }
 	    },
 	    {
@@ -2489,7 +2489,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Veinfire Borderpost.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Veinfire Borderpost.jpg"
 	        }
 	    },
 	    {
@@ -2498,7 +2498,7 @@
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Wildfield Borderpost.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Wildfield Borderpost.jpg"
 	        }
 	    },
 	    {
@@ -2507,7 +2507,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Do or Die.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Do or Die.jpg"
 	        }
 	    },
 	    {
@@ -2516,7 +2516,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Lockdown.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Lockdown.jpg"
 	        }
 	    },
 	    {
@@ -2525,7 +2525,7 @@
 	        "mana_cost": "{X}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Energized Emergence.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Energized Emergence.jpg"
 	        }
 	    },
 	    {
@@ -2534,7 +2534,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mana Lens.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mana Lens.jpg"
 	        }
 	    },
 	    {
@@ -2543,7 +2543,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact Creature — Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Golem.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Golem.jpg"
 	        }
 	    },
 	    {
@@ -2552,7 +2552,7 @@
 	        "mana_cost": "{6}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mage-Ring Omenpath.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mage-Ring Omenpath.jpg"
 	        }
 	    },
 	    {
@@ -2561,7 +2561,7 @@
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/The Core1.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/The Core1.jpg"
 	        }
 	    },
 	    {
@@ -2570,7 +2570,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Springleaf Drum.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Springleaf Drum.jpg"
 	        }
 	    },
 	    {
@@ -2579,7 +2579,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Wizard.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Wizard.jpg"
 	        }
 	    },
 	    {
@@ -2588,7 +2588,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Sword.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Sword.jpg"
 	        }
 	    },
 	    {
@@ -2597,7 +2597,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Smite the Ethereal.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Smite the Ethereal.jpg"
 	        }
 	    },
 	    {
@@ -2606,7 +2606,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact Creature — Thopter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Thopter.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Thopter.jpg"
 	        }
 	    },
 	    {
@@ -2615,7 +2615,7 @@
 	        "mana_cost": "{0}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Mox Radiant.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Mox Radiant.jpg"
 	        }
 	    },
 	    {
@@ -2624,7 +2624,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Sword of Price and Progress.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Sword of Price and Progress.jpg"
 	        }
 	    },
 	    {
@@ -2633,7 +2633,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Legendary Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Artificer's Jitte.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Artificer's Jitte.jpg"
 	        }
 	    },
 	    {
@@ -2642,7 +2642,7 @@
 	        "mana_cost": "",
 	        "type": "Token Legendary Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Kordoa.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Kordoa.jpg"
 	        }
 	    },
 	    {
@@ -2651,7 +2651,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Regression.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Regression.jpg"
 	        }
 	    },
 	    {
@@ -2660,7 +2660,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Soldier.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Soldier.jpg"
 	        }
 	    },
 	    {
@@ -2669,7 +2669,7 @@
 	        "mana_cost": "",
 	        "type": "Token Land Creature — Forest Dryad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Forest Dryad.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Forest Dryad.jpg"
 	        }
 	    },
 	    {
@@ -2678,7 +2678,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact — Treasure ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/VRN/main/VRN-files/Treasure.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/blob/main/VRN-files/Treasure.jpg"
 	        }
 	    }
 	]
@@ -2945,10 +2945,10 @@
 		4 Spellstorm Entourage
 		4 Ardent Recruiter
 		4 Energy Reserve
-		4 Energy Reserve1;
-		4 Energy Reserve2;
-		4 Energy Reserve3;
-		4 Energy Reserve4;
+		4 Energy Reserve1
+		4 Energy Reserve2
+		4 Energy Reserve3
+		4 Energy Reserve4
 		4 Preserver's Codex
 		4 Fieldmist Borderpost
 		4 Firewild Borderpost
