@@ -54,21 +54,21 @@
 	        }
 	    },
 	    {
-	        "name": "Jace Telepath Homebound",
+	        "name": "Jace, Telepath Homebound",
 	        "rarity": "mythic",
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Legendary Planeswalker — Jace ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Jace Telepath Homebound.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Jace, Telepath Homebound.jpg"
 	        }
 	    },
 	    {
-	        "name": "Mara Hand of the Core",
+	        "name": "Mara, Hand of the Core",
 	        "rarity": "mythic",
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Legendary Planeswalker — Mara ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Mara Hand of the Core.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Mara, Hand of the Core.jpg"
 	        }
 	    },
 	    {
@@ -207,12 +207,12 @@
 	        }
 	    },
 	    {
-	        "name": "Councils Edict",
+	        "name": "Council's Edict",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Councils Edict.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Council's Edict.jpg"
 	        }
 	    },
 	    {
@@ -290,19 +290,19 @@
 	    {
 	        "name": "Seasoned Electromancer",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{R}",
+	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Seasoned Electromancer.jpg"
 	        }
 	    },
 	    {
-	        "name": "Su-Chi",
+	        "name": "Enforcer of Ancients",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}",
-	        "type": "Artifact Creature — Construct ",
+	        "type": "Artifact Creature — Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Su-Chi.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Enforcer of Ancients.jpg"
 	        }
 	    },
 	    {
@@ -398,7 +398,7 @@
 	    {
 	        "name": "Ringer Templar",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{W}",
+	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ringer Templar.jpg"
@@ -489,7 +489,7 @@
 	        "name": "Ampryn Sentry",
 	        "rarity": "common",
 	        "mana_cost": "{1}",
-	        "type": "Artifact Creature — Construct ",
+	        "type": "Artifact Creature — Gear Golem ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ampryn Sentry.jpg"
 	        }
@@ -624,7 +624,7 @@
 	        "name": "Gav Beleren, War Hero",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{R}{W}",
-	        "type": "Legendary Creature — Human Rebel ",
+	        "type": "Legendary Creature — Human Rebel Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Gav Beleren, War Hero.jpg"
 	        }
@@ -918,12 +918,12 @@
 	        }
 	    },
 	    {
-	        "name": "Enforcer Procession",
+	        "name": "Enforcer's Procession",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Enforcer Procession.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Enforcer's Procession.jpg"
 	        }
 	    },
 	    {
@@ -936,12 +936,12 @@
 	        }
 	    },
 	    {
-	        "name": "Enforcers Ringwheeler",
+	        "name": "Enforcer's Ringwheeler",
 	        "rarity": "common",
 	        "mana_cost": "{4}{W}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Enforcers Ringwheeler.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Enforcer's Ringwheeler.jpg"
 	        }
 	    },
 	    {
@@ -1055,7 +1055,7 @@
 	    {
 	        "name": "Aether Revenant",
 	        "rarity": "common",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Spirit Knight ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Aether Revenant.jpg"
@@ -1117,7 +1117,7 @@
 	    },
 	    {
 	        "name": "Harvester Font",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
@@ -1172,7 +1172,7 @@
 	    {
 	        "name": "Insectile Junker",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}",
+	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Insectile Junker.jpg"
@@ -1244,7 +1244,7 @@
 	    {
 	        "name": "Aether Whisperer",
 	        "rarity": "common",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Dryad ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Aether Whisperer.jpg"
@@ -1253,7 +1253,7 @@
 	    {
 	        "name": "Treesap Spinner",
 	        "rarity": "common",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Spider Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Treesap Spinner.jpg"
@@ -1478,7 +1478,7 @@
 	    {
 	        "name": "Warped Scion",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Warped Scion.jpg"
@@ -1505,7 +1505,7 @@
 	    {
 	        "name": "Aethereal Militia",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{B}",
+	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Aethereal Militia.jpg"
@@ -1549,7 +1549,7 @@
 	    },
 	    {
 	        "name": "Aether Renewal",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
@@ -1593,12 +1593,12 @@
 	        }
 	    },
 	    {
-	        "name": "Rabblerouse",
+	        "name": "Renegade Rabble",
 	        "rarity": "uncommon",
-	        "mana_cost": "{X}{R}",
-	        "type": "Sorcery",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Human Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Rabblerouse.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Renegade Rabble.jpg"
 	        }
 	    },
 	    {
@@ -1755,12 +1755,12 @@
 	        }
 	    },
 	    {
-	        "name": "Porcelain Subduer",
+	        "name": "Eklan, Porcelain Subduer",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{W}",
-	        "type": "Artifact Creature — Phyrexian Cleric ",
+	        "type": "Legendary Artifact Creature — Phyrexian Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Porcelain Subduer.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Eklan, Porcelain Subduer.jpg"
 	        }
 	    },
 	    {
@@ -1791,12 +1791,12 @@
 	        }
 	    },
 	    {
-	        "name": "Archmages Dismissal",
+	        "name": "Archmage's Dismissal",
 	        "rarity": "rare",
 	        "mana_cost": "{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Archmages Dismissal.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Archmage's Dismissal.jpg"
 	        }
 	    },
 	    {
@@ -1811,7 +1811,7 @@
 	    {
 	        "name": "Roiling Arcana",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Roiling Arcana.jpg"
@@ -1866,7 +1866,7 @@
 	        "name": "Trovian Avenger",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{R}",
-	        "type": "Creature — Human Rebel ",
+	        "type": "Creature — Human Rebel Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Trovian Avenger.jpg"
 	        }
@@ -2016,12 +2016,12 @@
 	        }
 	    },
 	    {
-	        "name": "Energy Reservoir",
+	        "name": "The Energy Reservoir",
 	        "rarity": "mythic",
 	        "mana_cost": "{2}{G}",
-	        "type": "Enchantment — Aura ",
+	        "type": "Legendary Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Energy Reservoir.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Energy Reservoir.jpg"
 	        }
 	    },
 	    {
@@ -2288,7 +2288,7 @@
 	    {
 	        "name": "Spellstorm Entourage",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Spellstorm Entourage.jpg"
@@ -2421,12 +2421,12 @@
 	        }
 	    },
 	    {
-	        "name": "Irelia Etherium Crafter",
+	        "name": "Irelia, Etherium Crafter",
 	        "rarity": "mythic",
 	        "mana_cost": "{3}{U}",
 	        "type": "Legendary Artifact Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Irelia Etherium Crafter.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Irelia, Etherium Crafter.jpg"
 	        }
 	    },
 	    {
@@ -2441,7 +2441,7 @@
 	    {
 	        "name": "Erxandath Blightwing",
 	        "rarity": "mythic",
-	        "mana_cost": "{3}{W}",
+	        "mana_cost": "{4}{W}",
 	        "type": "Legendary Creature — Phyrexian Bird ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Erxandath Blightwing.jpg"
@@ -2451,7 +2451,7 @@
 	        "name": "Exemplary Toolcraft",
 	        "rarity": "mythic",
 	        "mana_cost": "{2}{W}",
-	        "type": "Artifact",
+	        "type": "Legendary Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Exemplary Toolcraft.jpg"
 	        }
@@ -2655,12 +2655,12 @@
 	        }
 	    },
 	    {
-	        "name": "Soldier",
+	        "name": "Rebel Soldier",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Token Creature — Soldier ",
+	        "type": "Token Creature — Rebel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Soldier.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Rebel Soldier.jpg"
 	        }
 	    },
 	    {
@@ -2679,6 +2679,15 @@
 	        "type": "Token Artifact — Treasure ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Treasure.jpg"
+	        }
+	    },
+	    {
+	        "name": "Copy",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Copy.jpg"
 	        }
 	    }
 	]
@@ -2708,11 +2717,11 @@
 		2 Mandatory Reconstruction
 		2 Ampryn Wrath
 		2 Rebounding Justice
-		2 Porcelain Subduer
+		2 Eklan, Porcelain Subduer
 		2 Prestigious Scion
 		2 Ampryn Enforcer
 		2 Spellseeker
-		2 Archmages Dismissal
+		2 Archmage's Dismissal
 		2 Ancient Whispers
 		2 Roiling Arcana
 		2 Okla, Queen of Refuse
@@ -2741,8 +2750,8 @@
 		2 Vestis, Apocalypse Entity
 		2 Tennuk, Omenpath Navigator
 		2 Mage-Ring Omenpath
-		1 Jace Telepath Homebound
-		1 Mara Hand of the Core
+		1 Jace, Telepath Homebound
+		1 Mara, Hand of the Core
 		1 Charim Kosta, Planeswalker
 		1 Scavenger Craft
 		1 Admiral Thall
@@ -2750,12 +2759,12 @@
 		1 Scheming Oilshaper
 		1 Slayer's Blade
 		1 Kunga, Dryad Warden
-		1 Energy Reservoir
+		1 The Energy Reservoir
 		1 Ancient Echo
 		1 Voltaic Stride
 		1 Demonlord Bobert
 		1 The Dreadsled
-		1 Irelia Etherium Crafter
+		1 Irelia, Etherium Crafter
 		1 Core Convergence
 		1 Erxandath Blightwing
 		1 Exemplary Toolcraft
@@ -2772,7 +2781,7 @@
 		3 Ampryn Monitor
 		3 Tyrannical Mage
 		3 Seasoned Electromancer
-		3 Su-Chi
+		3 Enforcer of Ancients
 		3 Pylon Protector
 		3 Ringer Templar
 		3 Ampryn Consignment
@@ -2791,6 +2800,7 @@
 		3 Glorious Mage-Ring
 		3 Benevolent Photomancer
 		3 Jolted Awake
+		3 Harvester Font
 		3 Trovian Veteren
 		3 Ward Splicer
 		3 Ghalian Upriser
@@ -2810,11 +2820,10 @@
 		3 Otherworldly Onslaught
 		3 Apocryphal Rite
 		3 Illicit Tutelage
-		3 Aether Renewal
 		3 The Gambino
 		3 Ampryn Spellblade
 		3 High Stakes Better
-		3 Rabblerouse
+		3 Renegade Rabble
 		3 Pincer Maneuver
 		3 Mage-Ring Radiation
 		3 Maverick Infiltrator
@@ -2854,7 +2863,7 @@
 		4 Destabilize
 		4 Unearthed Relics
 		4 Sinking Opportunities
-		4 Councils Edict
+		4 Council's Edict
 		4 Read the Trail
 		4 Ringer's Resolve
 		4 Steel Sabotage
@@ -2879,9 +2888,9 @@
 		4 Forsaken Legionnaire
 		4 Crimson Anointer
 		4 Ampryn Study
-		4 Enforcer Procession
+		4 Enforcer's Procession
 		4 Skill Flare
-		4 Enforcers Ringwheeler
+		4 Enforcer's Ringwheeler
 		4 Peacekeeper Plane
 		4 Fumecrafter Mage
 		4 Escapade Mage
@@ -2901,7 +2910,6 @@
 		4 Mercenary Arbiter
 		4 Black Market Beguiler
 		4 Become Compleat
-		4 Harvester Font
 		4 Entropic Chiming
 		4 Consortium Switchblade
 		4 Derelict Dredger
@@ -2930,6 +2938,7 @@
 		4 Ephemerate
 		4 Adept Mechanic
 		4 Conniving Interloper
+		4 Aether Renewal
 		4 Brazen Arcanist
 		4 Rebel Codex
 		4 Wizard Codex

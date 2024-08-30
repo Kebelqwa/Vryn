@@ -230,11 +230,11 @@ Equip {2}</text>
       <token>1</token>
     </card>
     <card>
-      <name>Soldier VRN</name>
+      <name>Rebel Soldier VRN</name>
       <set>VRN</set>
       <prop>
         <colors>W</colors>
-        <type>Token Creature - Soldier </type>
+        <type>Token Creature - Rebel Soldier </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
@@ -265,6 +265,18 @@ Equip {2}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Copy VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type>Token </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This token can be used to represent a token that’s a copy of a permanent.</text>
       <token>1</token>
     </card>
 
