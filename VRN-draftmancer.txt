@@ -18,12 +18,12 @@
 	        }
 	    },
 	    {
-	        "name": "Vryn Wingmare",
+	        "name": "Trovian Wingmare",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Pegasus ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Vryn Wingmare.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Trovian Wingmare.jpg"
 	        }
 	    },
 	    {
@@ -81,12 +81,12 @@
 	        }
 	    },
 	    {
-	        "name": "Telling Time",
+	        "name": "Impulse",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Telling Time.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Impulse.jpg"
 	        }
 	    },
 	    {
@@ -180,12 +180,12 @@
 	        }
 	    },
 	    {
-	        "name": "Ampryn Monitor",
+	        "name": "Bespoke Artifact",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}",
-	        "type": "Artifact Creature — Thopter ",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Gear ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ampryn Monitor.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Bespoke Artifact.jpg"
 	        }
 	    },
 	    {
@@ -399,7 +399,7 @@
 	        "name": "Ringer Templar",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}{W}",
-	        "type": "Creature — Human Cleric ",
+	        "type": "Creature — Human Cleric Archer ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ringer Templar.jpg"
 	        }
@@ -489,7 +489,7 @@
 	        "name": "Ampryn Sentry",
 	        "rarity": "common",
 	        "mana_cost": "{1}",
-	        "type": "Artifact Creature — Gear Golem ",
+	        "type": "Artifact Creature — Golem ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ampryn Sentry.jpg"
 	        }
@@ -524,7 +524,7 @@
 	    {
 	        "name": "Temporal Harvest",
 	        "rarity": "common",
-	        "mana_cost": "{4}{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Temporal Harvest.jpg"
@@ -875,8 +875,8 @@
 	    {
 	        "name": "Forsaken Legionnaire",
 	        "rarity": "common",
-	        "mana_cost": "{2}{W}",
-	        "type": "Creature — Phyrexian Soldier ",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact Creature — Phyrexian Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Forsaken Legionnaire.jpg"
 	        }
@@ -884,7 +884,7 @@
 	    {
 	        "name": "Crimson Anointer",
 	        "rarity": "common",
-	        "mana_cost": "{4}{W}",
+	        "mana_cost": "{3}{W}",
 	        "type": "Artifact Creature — Phyrexian Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Crimson Anointer.jpg"
@@ -1719,12 +1719,12 @@
 	        }
 	    },
 	    {
-	        "name": "Inspiration Manifested",
+	        "name": "Ampryn Advocate",
 	        "rarity": "rare",
 	        "mana_cost": "{W}",
-	        "type": "Enchantment",
+	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Inspiration Manifested.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ampryn Advocate.jpg"
 	        }
 	    },
 	    {
@@ -2594,7 +2594,7 @@
 	    {
 	        "name": "Smite the Ethereal",
 	        "rarity": "common",
-	        "mana_cost": "{2}{W}",
+	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Smite the Ethereal.jpg"
@@ -2713,7 +2713,7 @@
 		2 Reactor Pool
 		2 Automated Lair
 		2 Convergence Floor
-		2 Inspiration Manifested
+		2 Ampryn Advocate
 		2 Mandatory Reconstruction
 		2 Ampryn Wrath
 		2 Rebounding Justice
@@ -2775,10 +2775,10 @@
 		1 Artificer's Jitte
 	[UncommonSlot(4)]
 		3 Mage-Ring Responder
-		3 Vryn Wingmare
+		3 Trovian Wingmare
 		3 Consortium Informant
 		3 Chart a Course
-		3 Ampryn Monitor
+		3 Bespoke Artifact
 		3 Tyrannical Mage
 		3 Seasoned Electromancer
 		3 Enforcer of Ancients
@@ -2853,7 +2853,7 @@
 		4 Ampryn Tactician
 		4 Mage-Ring Engineer
 		4 League Aethermage
-		4 Telling Time
+		4 Impulse
 		4 Separatist Dervish
 		4 Subconscious Warning
 		4 Trovian Disciple
