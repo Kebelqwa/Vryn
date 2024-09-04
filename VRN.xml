@@ -237,7 +237,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
       </prop>
       <tablerow>2</tablerow>
       <text>When Trovian Disciple enters, you get EE.
-Whenever Trovian Disciple attacks, you may pay {E}. If you do, put a +1/+1 counter on Trovian Disciple.</text>
+Whenever Trovian Disciple attacks, you may pay EE. If you do, put a +1/+1 counter on Trovian Disciple.</text>
       <related>Energy Reserve VRN</related>
     </card>
     <card>
@@ -279,7 +279,7 @@ Whenever Trovian Disciple attacks, you may pay {E}. If you do, put a +1/+1 count
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Inspired — Whenever Bastion Seraph becomes untapped, teach it lifelink. (Put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)</text>
+Inspired — Whenever Bastion Seraph becomes untapped, teach it lifelink. (Put a lifelink counter on it. If it already has that ability, put a +1/+1 counter on it instead.)</text>
     </card>
     <card>
       <name>Ringer Nightwatch</name>
@@ -514,6 +514,7 @@ Whenever you cast an instant, sorcery, or Wizard spell, Seasoned Electromancer d
       <tablerow>2</tablerow>
       <text>Whenever one or more nontoken artifacts you control enter, you get {E}. (An energy counter.)</text>
       <related>Energy Reserve VRN</related>
+      <related>art</related>
     </card>
     <card>
       <name>Rebel Bladesmith</name>
@@ -972,7 +973,7 @@ Whenever a Vehicle you control attacks, you may sacrifice Power Station. If you 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature gets +3/+0 until end of turn. If its an artifact creature, teach it menace. (Put a menace counter on it. If it already has menace, put a +1/+1 counter on it instead.)</text>
+      <text>Target creature gets +3/+0 until end of turn. If its an artifact creature, teach it menace. (Put a menace counter on it. If it already has that ability, put a +1/+1 counter on it instead.)</text>
     </card>
     <card>
       <name>Vortice Merge</name>
@@ -1048,7 +1049,7 @@ When Ampryn Charmbreaker enters, copy up to one target activated or triggered ab
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Teach target creature deathtouch. When that creature dies this turn, return it from your graveyard to the battlefield tapped with a deathtouch counter. (Put a deathtouch counter on it. If it already has deathtouch, put a +1/+1 counter on it instead.)</text>
+      <text>Teach target creature deathtouch. When that creature dies this turn, return it from your graveyard to the battlefield tapped, then teach it deathtouch. (Put a deathtouch counter on it. If it already has deathtouch, put a +1/+1 counter on it instead. Put a deathtouch counter on it. If it already has that ability, put a +1/+1 counter on it instead.)</text>
     </card>
     <card>
       <name>The Energy Blade</name>
@@ -1452,6 +1453,7 @@ Pay EEE: Teach target creature you control lifelink. Activate only as a sorcery.
       <text>Up to X target creatures you control each get +1/+1 until end of turn. Teach those creatures vigilance. Then seize The Core. (Put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
+      <related>rework</related>
     </card>
     <card>
       <name>Jolted Awake</name>
@@ -3235,8 +3237,8 @@ Whenever a land you control enters tapped, untap it.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Admiral Thall enters, create a two 1/1 white Rebel Soldier creature tokens.
-At the beginning of your end step, look at the top X cards of your library, where X is the number creatures that attacked this turn. You may reveal a creature card from among them, put it into your hand, then shuffle.</text>
+      <text>When Admiral Thall enters, create two 1/1 white Rebel Soldier creature tokens.
+At the beginning of your end step, look at the top X cards of your library, where X is the number of creatures that attacked this turn. You may reveal a creature card from among them, put it into your hand, then shuffle.</text>
       <related>Rebel Soldier VRN</related>
     </card>
     <card>
@@ -3902,8 +3904,8 @@ Crew—Sacrifice a creature</text>
       <set rarity="mythic">VRN</set>
       <prop>
         <colors>U</colors>
-        <manacost>2UU</manacost>
-        <cmc>4</cmc>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>

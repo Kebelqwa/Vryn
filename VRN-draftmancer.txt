@@ -2432,7 +2432,7 @@
 	    {
 	        "name": "Core Convergence",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{3}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Core Convergence.jpg"
