@@ -11,7 +11,7 @@
 
     <card>
       <name>Graveblade Marauder</name>
-      <set rarity="rare">VRN</set>
+      <set rarity="uncommon">VRN</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -57,7 +57,7 @@ When Trovian Wingmare enters, seize The Core.
 Whenever Trovian Wingmare attacks, you may pay EE. If you do, another target creature you control gains flying until end of turn.</text>
     </card>
     <card>
-      <name>Separatist Voidmage</name>
+      <name>Conniving Voidmage</name>
       <set rarity="common">VRN</set>
       <prop>
         <colors>U</colors>
@@ -68,7 +68,8 @@ Whenever Trovian Wingmare attacks, you may pay EE. If you do, another target cre
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Separatist Voidmage enters, you may return target creature to its owner’s hand.</text>
+      <text>Flash
+When Conniving Voidmage enters, you may return target creature to its owner’s hand.</text>
     </card>
     <card>
       <name>Ampryn Tactician</name>
@@ -129,8 +130,8 @@ Inspired — Whenever Mage-Ring Engineer becomes untapped, you may pay {E}. If y
       </prop>
       <tablerow>1</tablerow>
       <text>Hexproof
-[+2]: You gain 3 life.
-[-X]: Creatures you control get +1/+1 until end of turn for every two loyalty counters removed this way.
+[+2]: You gain 3 life. You get E.
+[0]: You may pay any amount of E. Teach up to that many target creatures you control lifelink.
 [-9]: You get an emblem with “0: Prevent all damage target spell or permanent would deal this turn. Activate only once each turn.”</text>
     </card>
     <card>
@@ -235,7 +236,8 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Trovian Disciple enters you may pay {E}. If you do, put a +1/+1 counter on Trovian Disciple. Otherwise, you get {E}.</text>
+      <text>When Trovian Disciple enters, you get EE.
+Whenever Trovian Disciple attacks, you may pay {E}. If you do, put a +1/+1 counter on Trovian Disciple.</text>
       <related>Energy Reserve VRN</related>
     </card>
     <card>
@@ -336,7 +338,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
       <tablerow>3</tablerow>
       <text>Choose one or both—
 • Return up to one target artifact card with mana value X or less from your graveyard to the battlefield.
-• Unearthed Relics deals X damage to up to one nonplayer target.</text>
+• Unearthed Relics deals X damage to any nonplayer target.</text>
     </card>
     <card>
       <name>Sinking Opportunities</name>
@@ -549,13 +551,13 @@ Whenever you cast an instant, sorcery, or Wizard spell, Seasoned Electromancer d
       <set rarity="common">VRN</set>
       <prop>
         <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Distribute two shield counters among up to two target creatures you control. (If a permanent with a shield counter on it would be dealt damage or destroyed, remove a shield counter from it instead.)
+      <text>Put a shield counter on up to one target creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 Draw a card.</text>
     </card>
     <card>
@@ -954,11 +956,10 @@ Whenever a Vehicle you control attacks, you may sacrifice Power Station. If you 
         <cmc>2</cmc>
         <type>Creature - Avatar </type>
         <maintype>Creature</maintype>
-        <pt>2/3</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Lifelink
-Spells can’t be cast using alternate costs.</text>
+      <text>Spells can’t be cast using alternate costs. (Additional costs aren’t alternate costs.)</text>
     </card>
     <card>
       <name>Anarchist&apos;s Wrath</name>
@@ -1228,7 +1229,7 @@ Pay EEE, {T}: Draw a card.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Repurposed Mage-Ring enters, exile the top two cards of your library. You may play those cards until the end of your next turn.
+      <text>When Repurposed Mage-Ring enters, it deals 4 damage to any target.
 {T}: Add CR. Spend this mana only to cast artifact spells or activate abilities of artifacts.
 Pay EEE, {T}: Draw a card.</text>
     </card>
@@ -1385,7 +1386,7 @@ Whenever you attack, you may pay EE. If you do, target attacking creature gains 
         <cmc>5</cmc>
         <type>Creature - Phyrexian Soldier </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -2465,17 +2466,17 @@ Artifact creatures you control have deathtouch.</text>
     </card>
     <card>
       <name>Aethereal Militia</name>
-      <set rarity="uncommon">VRN</set>
+      <set rarity="rare">VRN</set>
       <prop>
         <colors>B</colors>
-        <manacost>3B</manacost>
-        <cmc>4</cmc>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you sacrifice a permanent, look at the top two cards of your library. Put one into your hand and the other into your graveyard. This ability triggers only once each turn.</text>
+      <text>Whenever you sacrifice an artifact or creature, look at the top two cards of your library. Put one into your hand and the other into your graveyard. This ability triggers only once each turn.</text>
     </card>
     <card>
       <name>Render of Mortality</name>
@@ -2833,7 +2834,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or greater: T
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever another creature you control enters, you gain 1 life and get {E}.
+      <text>Whenever another creature you control enters, you get {E}.
 Whenever you attack, you may pay EEEE. If you do, create a token copy of target non-Wizard creature you control. Sacrifice that creature when it enters.</text>
     </card>
     <card>
@@ -3680,7 +3681,7 @@ Equip Rebel {0}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Flying
-Whenever Consortium Copter attacks or blocks, draw a card then discard a card.
+Whenever Consortium Copter attacks or blocks, draw a card then discard a card unless you control a Pilot.
 Crew 1</text>
     </card>
     <card>
@@ -4084,7 +4085,7 @@ Pay EE: Add one mana of any color.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
-Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, you may return Mage-Ring Omenpath to its owner’s hand.</text>
+You may cast spells from your hand as though they had flash.</text>
     </card>
     <card>
       <name>Springleaf Drum</name>

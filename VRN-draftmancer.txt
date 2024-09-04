@@ -1,7 +1,7 @@
 [CustomCards]
 	[    {
 	        "name": "Graveblade Marauder",
-	        "rarity": "rare",
+	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
@@ -27,12 +27,12 @@
 	        }
 	    },
 	    {
-	        "name": "Separatist Voidmage",
+	        "name": "Conniving Voidmage",
 	        "rarity": "common",
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Separatist Voidmage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Conniving Voidmage.jpg"
 	        }
 	    },
 	    {
@@ -326,7 +326,7 @@
 	    {
 	        "name": "Layered Warding",
 	        "rarity": "common",
-	        "mana_cost": "{2}{W}",
+	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Layered Warding.jpg"
@@ -1504,8 +1504,8 @@
 	    },
 	    {
 	        "name": "Aethereal Militia",
-	        "rarity": "uncommon",
-	        "mana_cost": "{3}{B}",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Aethereal Militia.jpg"
@@ -2692,7 +2692,6 @@
 	    }
 	]
 	[RareSlot(2)]
-		2 Graveblade Marauder
 		2 League Pyromancer
 		2 Ampryn Confidant
 		2 Cloudstone Curio
@@ -2713,6 +2712,7 @@
 		2 Reactor Pool
 		2 Automated Lair
 		2 Convergence Floor
+		2 Aethereal Militia
 		2 Ampryn Advocate
 		2 Mandatory Reconstruction
 		2 Ampryn Wrath
@@ -2774,6 +2774,7 @@
 		1 Sword of Price and Progress
 		1 Artificer's Jitte
 	[UncommonSlot(4)]
+		3 Graveblade Marauder
 		3 Mage-Ring Responder
 		3 Trovian Wingmare
 		3 Consortium Informant
@@ -2815,7 +2816,6 @@
 		3 Warped Scion
 		3 Processor Beast
 		3 Fumechoke Splicer
-		3 Aethereal Militia
 		3 Render of Mortality
 		3 Otherworldly Onslaught
 		3 Apocryphal Rite
@@ -2849,7 +2849,7 @@
 		3 Do or Die
 		3 Springleaf Drum
 	[CommonSlot(8)]
-		4 Separatist Voidmage
+		4 Conniving Voidmage
 		4 Ampryn Tactician
 		4 Mage-Ring Engineer
 		4 League Aethermage
