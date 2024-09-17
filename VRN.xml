@@ -374,13 +374,13 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
       <set rarity="common">VRN</set>
       <prop>
         <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Surveil 2. Then return a creature and/or land card from your graveyard to your hand. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+      <text>Surveil 4. Then return a creature and/or land card from your graveyard to your hand. (Look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
     </card>
     <card>
       <name>Ringer&apos;s Resolve</name>
@@ -665,7 +665,7 @@ At the beginning of combat on your turn, mill two cards. Up to one target creatu
     </card>
     <card>
       <name>Ringer Templar</name>
-      <set rarity="common">VRN</set>
+      <set rarity="uncommon">VRN</set>
       <prop>
         <colors>W</colors>
         <manacost>4W</manacost>
@@ -676,7 +676,7 @@ At the beginning of combat on your turn, mill two cards. Up to one target creatu
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-Inspired — Whenever Ringer Templar becomes untapped, put a +1/+1 counter on target creature or Vehicle you control.</text>
+Inspired — Whenever Ringer Templar becomes untapped, put a +1/+1 counter on up to two target creatures you control.</text>
     </card>
     <card>
       <name>Plains</name>
@@ -825,8 +825,8 @@ Inspired — Whenever Arin, Reconstructor Rebel becomes untapped, put a +1/+1 co
       <set rarity="uncommon">VRN</set>
       <prop>
         <colors>U</colors>
-        <manacost>4U</manacost>
-        <cmc>5</cmc>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
@@ -1030,12 +1030,12 @@ When Ampryn Charmbreaker enters, copy up to one target activated or triggered ab
         <colors>B</colors>
         <manacost>1B</manacost>
         <cmc>2</cmc>
-        <type>Artifact Creature - Phyrexian Wizard </type>
+        <type>Creature - Phyrexian Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Fallen Battlemage enters, you get EE.
+      <text>When Fallen Battlemage enters, you get {E}.
 {E}, {T}: Remove a counter from target opponent or permanent an opponent controls or protects. (Players protect permanents that can be attacked.)</text>
     </card>
     <card>
@@ -1491,8 +1491,8 @@ Pay EEE: Create a 1/1 white Rebel Soldier creature token. Activate only as a sor
       <set rarity="common">VRN</set>
       <prop>
         <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
       </prop>
@@ -1512,7 +1512,7 @@ Enchanted permanent gets +1/+1 for each different kind of counter on it.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever Enforcer’s Ringwheeler attacks alone, create a 1/1 colorless Pilot creature token with “This creature crews Vehicles as though its power were 2 greater.”
+      <text>Other Vehicle creatures you control get +1/+1.
 Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
     </card>
     <card>
@@ -1677,8 +1677,8 @@ Equip {2}</text>
       <set rarity="common">VRN</set>
       <prop>
         <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
         <type>Artifact - Vehicle </type>
         <maintype>Artifact</maintype>
       </prop>
@@ -1803,14 +1803,13 @@ When Black Market Beguiler dies, create a tapped Gear token. (It’s an artifact
       <set rarity="common">VRN</set>
       <prop>
         <colors>B</colors>
-        <manacost>3B</manacost>
-        <cmc>4</cmc>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target creature card from your graveyard to the battlefield tapped with a finality counter. That creature becomes a Phyrexian artifact creature in addition to its other types.
-Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.)</text>
+      <text>Return target creature card from your graveyard to the battlefield tapped with a finality counter. That creature becomes a Phyrexian artifact creature in addition to its other types.</text>
     </card>
     <card>
       <name>Harvester Font</name>
@@ -1831,14 +1830,14 @@ Sacrifice an artifact: You lose 1 life and draw a card. Activate only as a sorce
       <set rarity="common">VRN</set>
       <prop>
         <colors>B</colors>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast False Renewal, pay {E} or 2 life.
-Mill four cards. You may return an artifact, creature, or legendary card milled this way from your graveyard to your hand. (Put the top four cards of your library into your graveyard.)</text>
+Mill four cards. Then return up to two artifact, creature, and/or legendary cards milled this way from your graveyard to your hand. (Put the top four cards of your library into your graveyard.)</text>
     </card>
     <card>
       <name>Consortium Switchblade</name>
@@ -1930,8 +1929,7 @@ Whenever Trovian Veteren attacks, create a Gear token. (It’s an artifact with 
         <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Haste
-Whenever Voltaic Racer or a Vehicle crewed by Voltaic Racer this turn dies, create a Gear token. (It’s an artifact with “{1}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.”)</text>
+      <text>Whenever Voltaic Racer or a Vehicle crewed by Voltaic Racer this turn dies, create a Gear token. (It’s an artifact with “{1}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.”)</text>
       <related>Gear VRN</related>
     </card>
     <card>
@@ -2271,7 +2269,8 @@ Inspired — Whenever Ghalian Upriser becomes untapped, put a +1/+1 counter on i
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>You gain 4 life, draw a card, then seize The Core.</text>
+      <text>Seize The Core.
+Draw a card.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
     </card>
@@ -2375,7 +2374,7 @@ EEEEE, {T}: Return target instant or sorcery card from your graveyard to your ha
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, you may have Aether Trail becomes a 3/2 Rogue Wizard with covert in addition to its other types until the end of your next turn. (A creature with covert can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)
+      <text>Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, you may have Aether Trail becomes a 3/2 Rogue Wizard with covert in addition to its other types until the end of your next turn. (A creature with covert can’t be blocked by creatures with summoning sickness.)
 {2}, Sacrifice Aether Trail: Draw a card.</text>
     </card>
     <card>
@@ -2537,7 +2536,7 @@ Choose one—
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target creature card from your graveyard to the battlefield. Teach that creature covert. (Put a covert counter on it. If it already has covert, put a +1/+1 counter on it instead. A creature with covert can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)</text>
+      <text>Return target creature card from your graveyard to the battlefield tapped. Teach that creature covert. (Put a covert counter on it. If it already has covert, put a +1/+1 counter on it instead. A creature with covert can’t be blocked by creatures with summoning sickness.)</text>
     </card>
     <card>
       <name>Aether Renewal</name>
@@ -2873,8 +2872,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
       <set rarity="rare">VRN</set>
       <prop>
         <colors>W</colors>
-        <manacost>W</manacost>
-        <cmc>1</cmc>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
@@ -2891,10 +2890,10 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
         <cmc>2</cmc>
         <type>Legendary Artifact Creature - Phyrexian Cleric </type>
         <maintype>Creature</maintype>
-        <pt>3/1</pt>
+        <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever another creature you control dies, for each of its ability counters, teach Eklan, Porcelain Subduer that ability. (Put that kind of ability counter on it. If it already has that ability, put a +1/+1 counter on it instead.)
+      <text>Whenever a creature you control dies, for each ability counter on it, teach Eklan, Porcelain Subduer that ability. (Put that kind of ability counter on it. If it already has that ability, put a +1/+1 counter on it instead.)
 3W, or Pay EEE: Teach target creature you control vigilance. You may move a counter from Eklan, Porcelain Subduer onto that creature.</text>
     </card>
     <card>
@@ -3711,7 +3710,7 @@ Crew 1</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Mistcovered Sanctuary enters tapped. When it does, you may pay {2}. If you do, seize The Core.
+      <text>Mistcovered Sanctuary enters tapped. When it does, you may pay {2}. If you do, Seize The Core.
 {T}: Add {W}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3727,7 +3726,7 @@ Crew 1</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Skybreaker Sanctuary enters tapped. When it does, you may pay {2}. If you do, seize The Core.
+      <text>Skybreaker Sanctuary enters tapped. When it does, you may pay {2}. If you do, Seize The Core.
 {T}: Add {U}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3743,7 +3742,7 @@ Crew 1</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Undercroft Sanctuary enters tapped. When it does, you may pay {2}. If you do, seize The Core.
+      <text>Undercroft Sanctuary enters tapped. When it does, you may pay {2}. If you do, Seize The Core.
 {T}: Add {B}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3759,7 +3758,7 @@ Crew 1</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Bridgetower Sanctuary enters tapped. When it does, you may pay {2}. If you do, seize The Core.
+      <text>Bridgetower Sanctuary enters tapped. When it does, you may pay {2}. If you do, Seize The Core.
 {T}: Add {R}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3775,7 +3774,7 @@ Crew 1</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Overgrown Sanctuary enters tapped. When it does, you may pay {2}. If you do, seize The Core.
+      <text>Overgrown Sanctuary enters tapped. When it does, you may pay {2}. If you do, Seize The Core.
 {T}: Add {G}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3793,11 +3792,10 @@ Crew 1</text>
       <tablerow>3</tablerow>
       <text>Counter target spell unless its controller has you create two 1/1 blue Wizard creature tokens with “{T}: Add {C}. This mana can’t be spent to cast creature spells.”</text>
       <related>Wizard VRN</related>
-      <related>rework</related>
     </card>
     <card>
       <name>Ardent Recruiter</name>
-      <set rarity="uncommon">VRN</set>
+      <set rarity="common">VRN</set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -4058,7 +4056,7 @@ Enchanted permanent can’t attack or block and its activated abilities can’t 
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>You get X {E}. Then you may pay any amount of {E}. When you do, teach up to that many target creatures you control trample X times. (Put a times counter on it. If it already has times, put a +1/+1 counter on it instead.)</text>
+      <text>You get X {E}. Then you may pay any amount of {E}. When you do, teach up to that many target creatures you control trample. (Put a trample counter on it. If it already has trample, put a +1/+1 counter on it instead.)</text>
       <related>Energy Reserve VRN</related>
     </card>
     <card>
