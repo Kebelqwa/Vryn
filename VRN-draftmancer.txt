@@ -36,12 +36,12 @@
 	        }
 	    },
 	    {
-	        "name": "Ampryn Tactician",
+	        "name": "Ampryn Frontliner",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ampryn Tactician.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ampryn Frontliner.jpg"
 	        }
 	    },
 	    {
@@ -218,7 +218,7 @@
 	    {
 	        "name": "Read the Trail",
 	        "rarity": "common",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Read the Trail.jpg"
@@ -397,7 +397,7 @@
 	    },
 	    {
 	        "name": "Ringer Templar",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Human Cleric Archer ",
 	        "image_uris": {
@@ -497,7 +497,7 @@
 	    {
 	        "name": "Prosperous Magocrat",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{U}",
+	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Prosperous Magocrat.jpg"
@@ -642,7 +642,7 @@
 	        "name": "Fallen Battlemage",
 	        "rarity": "common",
 	        "mana_cost": "{1}{B}",
-	        "type": "Creature — Phyrexian Wizard ",
+	        "type": "Artifact Creature — Phyrexian Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Fallen Battlemage.jpg"
 	        }
@@ -929,7 +929,7 @@
 	    {
 	        "name": "Skill Flare",
 	        "rarity": "common",
-	        "mana_cost": "{2}{W}",
+	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Skill Flare.jpg"
@@ -954,12 +954,12 @@
 	        }
 	    },
 	    {
-	        "name": "Fumecrafter Mage",
+	        "name": "Ardent Cryptomancer",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Fumecrafter Mage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ardent Cryptomancer.jpg"
 	        }
 	    },
 	    {
@@ -1037,7 +1037,7 @@
 	    {
 	        "name": "Cloaked Observer",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Cloaked Observer.jpg"
@@ -1109,7 +1109,7 @@
 	    {
 	        "name": "Become Compleat",
 	        "rarity": "common",
-	        "mana_cost": "{4}{B}",
+	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Become Compleat.jpg"
@@ -1127,7 +1127,7 @@
 	    {
 	        "name": "Entropic Chiming",
 	        "rarity": "common",
-	        "mana_cost": "{2}{B}",
+	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Entropic Chiming.jpg"
@@ -1748,7 +1748,7 @@
 	    {
 	        "name": "Rebounding Justice",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{W}",
+	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Rebounding Justice.jpg"
@@ -2296,7 +2296,7 @@
 	    },
 	    {
 	        "name": "Ardent Recruiter",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Rebel ",
 	        "image_uris": {
@@ -2784,7 +2784,6 @@
 		3 Seasoned Electromancer
 		3 Enforcer of Ancients
 		3 Pylon Protector
-		3 Ringer Templar
 		3 Ampryn Consignment
 		3 The Eviscerator
 		3 Arin, Reconstructor Rebel
@@ -2846,11 +2845,12 @@
 		3 Kavalester, Mage Hermit
 		3 Codex Archive
 		3 Consortium Copter
+		3 Ardent Recruiter
 		3 Do or Die
 		3 Springleaf Drum
 	[CommonSlot(8)]
 		4 Conniving Voidmage
-		4 Ampryn Tactician
+		4 Ampryn Frontliner
 		4 Mage-Ring Engineer
 		4 League Aethermage
 		4 Impulse
@@ -2872,6 +2872,7 @@
 		4 Rebel Bladesmith
 		4 Layered Warding
 		4 Core Rupture
+		4 Ringer Templar
 		4 Ring Feeder
 		4 Chaser Bike
 		4 Ampryn Sentry
@@ -2892,7 +2893,7 @@
 		4 Skill Flare
 		4 Enforcer's Ringwheeler
 		4 Peacekeeper Plane
-		4 Fumecrafter Mage
+		4 Ardent Cryptomancer
 		4 Escapade Mage
 		4 Protector of the Core
 		4 Consortium Bookthief
@@ -2952,7 +2953,6 @@
 		4 Bridgetower Sanctuary
 		4 Overgrown Sanctuary
 		4 Spellstorm Entourage
-		4 Ardent Recruiter
 		4 Preserver's Codex
 		4 Fieldmist Borderpost
 		4 Firewild Borderpost
@@ -2973,4 +2973,20 @@
 		10 Swamp
 		10 Mountain
 		10 Forest
+	[TokenSlot(1)]
+		10 The Core
+		10 Copy
+		10 Energy Reserve
+		10 Pilot
+		10 Rebel Soldier
+		10 Wizard
+		10 Spirit
+		10 Kordoa
+		10 Gear
+		10 Golem
+		10 Phyrexian Golem
+		10 Sword
+		10 Thopter
+		10 Treasure
+		10 Forest Dryad
 	

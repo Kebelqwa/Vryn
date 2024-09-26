@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Pilot VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature crews Vehicles as though its power were 2 greater.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Gear VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Gear </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>The Core VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever one or more creatures a player controls attack you and aren’t blocked, that player seizes The Core. (This triggers after blockers are declared.)
+Whenever you seize The Core and at the beginning of your upkeep, choose one—
+• You get {E}.
+• Surveil 1.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Energy Reserve VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Place your energy counters here.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Energy Reserve1 VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Place your energy counters here.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Energy Reserve2 VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Place your energy counters here.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Energy Reserve3 VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Place your energy counters here.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Energy Reserve4 VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Place your energy counters here.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Phyrexian Golem VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Phyrexian Golem </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Vryn Draft Archetypes VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>RW REBEL INSPIRED GEARS Attack your opponent with inspired creatures and double up on your value by cracking some gears.
+WU SEIZE THE CORE Seize Vryn itself. Gain a steady stream of energy. And play tempo cards to level the playing field.
+UG ENGROSS FLASH Cast versatile spells during your opponents turn and disrupt them with counter-magic and spells with flash.
+GB LEAVE THE GRAVE Make your cards leave the graveyard and get reward for it.
+BR VEHICLE MAVERICKS Run over your opponent with Vehicles and use crewing creatures as cannon fodder.
+WB PHYREXIAN ENTER THE BATTLEFIELD Reanimate and flicker your creatures to bury your opponent under a pile of value.
+BU COVERT CONSORTIUM Hit your opponents with sneaky creatures to uncover your opponents doom.
+UR WIZARDS FROM EXILE Rebound is back. Combine it with impulse effects and other cast from exile synergies to show your spellcasting domination.
+RG ENERGIZED KICKER Accumulate energy and spend it to kick your spells into overdrive.
+GW TEACH ABILITIES Modify your creatures with ability counters. Attack with big creatures.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spirit VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Golem VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>The Core1 VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever one or more creatures a player controls attack you and aren’t blocked, that player seizes The Core. (This triggers after blockers are declared.)
+Whenever you seize The Core and at the beginning of your upkeep, choose one—
+• You get {E}.
+• Surveil 1.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Wizard VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {C}. This mana can’t be spent to cast creature spells.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Sword VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equip {2}</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Thopter VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Thopter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Kordoa VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Legendary Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Rebel Soldier VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Rebel Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Forest Dryad VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Land Creature - Forest Dryad </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text> </text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Copy VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type>Token </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This token can be used to represent a token that’s a copy of a permanent.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
