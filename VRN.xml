@@ -65,7 +65,7 @@ Whenever Trovian Wingmare attacks, you may pay EE. If you do, another target cre
         <cmc>4</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -126,13 +126,13 @@ Inspired — Whenever Mage-Ring Engineer becomes untapped, you may pay {E}. If y
         <cmc>3</cmc>
         <type>Legendary Planeswalker - Mara </type>
         <maintype>Planeswalker</maintype>
-      <loyalty>4</loyalty>
+      <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>Hexproof
-[+2]: You gain 3 life. You get E.
-[0]: You may pay any amount of E. Teach up to that many target creatures you control lifelink.
-[-9]: You get an emblem with “0: Prevent all damage target spell or permanent would deal this turn. Activate only once each turn.”</text>
+      <text>When Mara enters, seize The Core.
+[+1]: Teach target creature you control lifelink. (Put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)
+[+1]: Create a 1/1 white Rebel Soldier creature token.
+[-6]: You get an emblem with “E: Target creature you control gets +1/+1 and gains indestructible until end of turn.”</text>
     </card>
     <card>
       <name>League Aethermage</name>
@@ -251,7 +251,10 @@ Whenever Trovian Disciple attacks, you may pay EE. If you do, put a +1/+1 counte
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Surveil 6, then you may return up to one creature card and up to one planeswalker card from your graveyard to the battlefield. (Look at the top six cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+      <text>Choose one. Choose an additional for each artifact card in your graveyard.
+• Surveil 6.
+• Return target creature card from your graveyard to the battlefield.
+• Return target planeswalker card from your graveyard to the battlefield.</text>
     </card>
     <card>
       <name>Chart a Course</name>
@@ -279,7 +282,7 @@ Whenever Trovian Disciple attacks, you may pay EE. If you do, put a +1/+1 counte
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Inspired — Whenever Bastion Seraph becomes untapped, teach it lifelink. (Put a lifelink counter on it. If it already has that ability, put a +1/+1 counter on it instead.)</text>
+Inspired — Whenever Bastion Seraph becomes untapped, teach it lifelink. (Put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)</text>
     </card>
     <card>
       <name>Ringer Nightwatch</name>
@@ -711,25 +714,27 @@ Inspired — Whenever Ringer Templar becomes untapped, put a +1/+1 counter on ta
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Power-Plant </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
       <text>As Frigid Turbines enters, you may pay {E}. If you don’t Frigid Turbines enters tapped.
+When Frigid Turbines enters tapped, you get {E}.
 {T}: Add {W} or {U}.</text>
     </card>
     <card>
-      <name>Geothermal Pits</name>
+      <name>Geothermal Conduits</name>
       <set rarity="rare">VRN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Power-Plant </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>As Geothermal Pits enters, you may pay {E}. If you don’t Geothermal Pits enters tapped.
+      <text>As Geothermal Conduits enters, you may pay {E}. If you don’t Geothermal Conduits enters tapped.
+When Geothermal Conduits enters tapped, you get {E}.
 {T}: Add {R} or {G}.</text>
     </card>
     <card>
@@ -933,7 +938,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
       <text></text>
     </card>
     <card>
-      <name>Power Station</name>
+      <name>Cargo Checkpoint</name>
       <set rarity="uncommon">VRN</set>
       <prop>
         <colors></colors>
@@ -945,7 +950,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast Vehicle spells and activate abilities of Vehicles.
-Whenever a Vehicle you control attacks, you may sacrifice Power Station. If you do, draw a card and create a Gear token. (It’s an artifact with “{1}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.”)</text>
+Whenever a Vehicle you control attacks, you may sacrifice Cargo Checkpoint. If you do, draw a card and create a Gear token. (It’s an artifact with “{1}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.”)</text>
       <related>Gear VRN</related>
     </card>
     <card>
@@ -973,7 +978,7 @@ Whenever a Vehicle you control attacks, you may sacrifice Power Station. If you 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature gets +3/+0 until end of turn. If its an artifact creature, teach it menace. (Put a menace counter on it. If it already has that ability, put a +1/+1 counter on it instead.)</text>
+      <text>Target creature gets +3/+0 until end of turn. If its an artifact creature, teach it menace. (Put a menace counter on it. If it already has menace, put a +1/+1 counter on it instead.)</text>
     </card>
     <card>
       <name>Vortice Merge</name>
@@ -1110,22 +1115,21 @@ Equip—Pay {3} or EEE.</text>
 When Solemn Simulacrum dies, you may draw a card.</text>
     </card>
     <card>
-      <name>Disciple of the Ring</name>
+      <name>Skyward Arbiters</name>
       <set rarity="rare">VRN</set>
       <prop>
         <colors>U</colors>
-        <manacost>3UU</manacost>
-        <cmc>5</cmc>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt>3/4</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>{1}, Exile an instant or sorcery card from your graveyard: Choose one —
-• Counter target noncreature spell unless its controller pays {2}.
-• Disciple of the Ring gets +1/+1 until end of turn.
-• Tap target creature.
-• Untap target creature.</text>
+      <text>Flying, vigilance
+When Skyward Arbiters enters, create two 1/1 blue Wizard creature tokens with “{T}: Add {C}. This mana can’t be spent to cast creature spells.”
+{4}: Draw a card.</text>
+      <related>Wizard VRN</related>
     </card>
     <card>
       <name>Charim Kosta, Planeswalker</name>
@@ -1256,25 +1260,27 @@ Pay EEE, {T}: Draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Power-Plant </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
       <text>As Hydroelectric Plant enters, you may pay {E}. If you don’t Hydroelectric Plant enters tapped.
+When Hydroelectric Plant enters tapped, you get {E}.
 {T}: Add {U} or {B}.</text>
     </card>
     <card>
-      <name>Mining Pit</name>
+      <name>Refinery Pit</name>
       <set rarity="rare">VRN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Power-Plant </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>As Mining Pit enters, you may pay {E}. If you don’t Mining Pit enters tapped.
+      <text>As Refinery Pit enters, you may pay {E}. If you don’t Refinery Pit enters tapped.
+When Refinery Pit enters tapped, you get {E}.
 {T}: Add {B} or {R}.</text>
     </card>
     <card>
@@ -1284,25 +1290,27 @@ Pay EEE, {T}: Draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Power-Plant </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
       <text>As Aether Farm enters, you may pay {E}. If you don’t Aether Farm enters tapped.
+When Aether Farm enters tapped, you get {E}.
 {T}: Add {G} or {W}.</text>
     </card>
     <card>
-      <name>Trovian Track</name>
+      <name>Kinetic Tracks</name>
       <set rarity="rare">VRN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Power-Plant </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>As Trovian Track enters the battlefield, you may pay {E}. If you don’t Trovian Track enters tapped.
+      <text>As Kinetic Tracks enters the battlefield, you may pay {E}. If you don’t Kinetic Tracks enters tapped.
+When Kinetic Tracks enters tapped, you get {E}.
 {T}: Add {R} or {W}.</text>
     </card>
     <card>
@@ -1312,11 +1320,12 @@ Pay EEE, {T}: Draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Power-Plant </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
       <text>As Recycling Chamber enters, you may pay {E}. If you don’t Recycling Chamber enters tapped.
+When Recycling Chamber enters tapped, you get {E}.
 {T}: Add {B} or {G}.</text>
     </card>
     <card>
@@ -1326,11 +1335,12 @@ Pay EEE, {T}: Draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Power-Plant </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
       <text>As Reactor Pool enters, you may pay {E}. If you don’t Reactor Pool enters tapped.
+When Reactor Pool enters tapped, you get {E}.
 {T}: Add {G} or {U}.</text>
     </card>
     <card>
@@ -1340,11 +1350,12 @@ Pay EEE, {T}: Draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Power-Plant </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
       <text>As Automated Lair enters, you may pay {E}. If you don’t Automated Lair enters tapped.
+When Automated Lair enters tapped, you get {E}.
 {T}: Add {W} or {B}.</text>
     </card>
     <card>
@@ -1354,11 +1365,12 @@ Pay EEE, {T}: Draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Power-Plant </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
       <text>As Convergence Floor enters, you may pay {E}. If you don’t Convergence Floor enters tapped.
+When Convergence Floor enters tapped, you get {E}.
 {T}: Add {U} or {R}.</text>
     </card>
     <card>
@@ -1450,8 +1462,9 @@ Pay EEE: Teach target creature you control lifelink. Activate only as a sorcery.
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Up to X target creatures you control each get +1/+1 until end of turn. Teach those creatures vigilance. (Put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)
-Seize The Core.</text>
+      <text>Choose one or both—
+• Up to X target creatures you control get +1/+1 until end of turn. Teach those creatures vigilance. (Put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)
+• Seize the Core.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
       <related>rework</related>
@@ -1483,7 +1496,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
       <tablerow>1</tablerow>
       <text>When Enforcer’s Procession enters, create two 1/1 white Rebel Soldier creature tokens.
 Whenever you attack with three or more creatures, you get {E}.
-Pay EEE: Create a 1/1 white Rebel Soldier creature token. Activate only as a sorcery.</text>
+Pay EEE: Create a 1/1 white Rebel Soldier creature token. Activate only once each turn and only as a sorcery.</text>
       <related>Energy Reserve VRN</related>
       <related count="2"> Rebel Soldier VRN</related>
     </card>
@@ -1590,7 +1603,7 @@ Pay EEE: Target creature you control can’t be blocked this turn. Activate only
         <colors>U</colors>
         <manacost>1U</manacost>
         <cmc>2</cmc>
-        <type>Creature - Human Rogue </type>
+        <type>Creature - Human Rogue Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
       </prop>
@@ -1611,7 +1624,8 @@ Pay EEE: Target creature you control can’t be blocked this turn. Activate only
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, tap or untap another target creature.</text>
+Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, tap or untap another target creature.
+5U, Sacrifice Messenger Drake: Draw three cards.</text>
     </card>
     <card>
       <name>Somnomancer Adept</name>
@@ -1644,18 +1658,18 @@ When Somnomancer Adept enters, choose one—
       <text>Distribute three stun counters among up to three target nonland artifacts and/or creatures. Tap those permanents.</text>
     </card>
     <card>
-      <name>Stasis Field</name>
+      <name>Estrangement Field</name>
       <set rarity="common">VRN</set>
       <prop>
         <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-Enchanted creature has base power and toughness 0/2, has defender, and loses all other abilities.</text>
+Enchanted creature has base power and toughness 0/2 and loses all abilities.</text>
     </card>
     <card>
       <name>Ampryn Mantle</name>
@@ -1764,7 +1778,7 @@ Whenever one or more artifacts are put into your graveyard from anywhere, put a 
       </prop>
       <tablerow>2</tablerow>
       <text>When Ampryn Lich enters, mill three cards.
-4B, Sacrifice Ampryn Lich: Return target creature card from your graveyard to the battlefield tapped.</text>
+4B, Sacrifice Ampryn Lich: Return target artifact or creature card from your graveyard to the battlefield tapped.</text>
     </card>
     <card>
       <name>Mercenary Arbiter</name>
@@ -1913,7 +1927,7 @@ Whenever Trovian Veteren attacks, create a Gear token. (It’s an artifact with 
         <cmc>5</cmc>
         <type>Creature - Insect </type>
         <maintype>Creature</maintype>
-        <pt>4/3</pt>
+        <pt>4/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste, menace
@@ -2007,10 +2021,10 @@ Crew 3</text>
         <cmc>5</cmc>
         <type>Creature - Human Artificer Rebel </type>
         <maintype>Creature</maintype>
-        <pt>4/3</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Mage-Ring Exile enters, you get EE.
+      <text>Whenever you attack, you get {E}.
 {E}: Teach target creature you control haste. Activate only once each turn. (Put a haste counter on it. If it already has haste, put a +1/+1 counter on it instead.)</text>
       <related>Energy Reserve VRN</related>
     </card>
@@ -2044,7 +2058,8 @@ Pay {E}, {T}: Add one mana of any color.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach, vigilance
-When Aether Whisperer enters, you get EEE.</text>
+Engross — Whenever you cast a spell at time you couldn’t cast a sorcery, you get {E}.
+At the beginning of combat on your turn, you may pay EEE. When you do, put a +1/+1 counter on up to one target creature.</text>
       <related>Energy Reserve VRN</related>
     </card>
     <card>
@@ -2154,7 +2169,8 @@ Whenever Quarry Hunter attacks, you may return it to its owner’s hand at the e
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Eternal Cavalier enters, return target permanent card from your graveyard to your hand.
+      <text>Kicker EE (You may pay an additional EE as you cast this spell.)
+When Eternal Cavalier enters, choose up to one target permanent card in your graveyard. If Eternal Cavalier was kicked, return it from your graveyard to your hand. Otherwise, put it on top of your library and get EE.
 {T}: Untap target land.</text>
     </card>
     <card>
@@ -2406,7 +2422,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
       <tablerow>3</tablerow>
       <text>Choose target spell. You get EE, then you may pay any amount of {E}. Counter that spell unless its controller pays {1} for each {E} paid this way.</text>
       <related>Energy Reserve VRN</related>
-      <related>reprint from mh3</related>
+      <related>reprint</related>
     </card>
     <card>
       <name>Recurring Setbacks</name>
@@ -2545,15 +2561,15 @@ Choose one—
       <set rarity="common">VRN</set>
       <prop>
         <colors>B</colors>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
 Enchant artifact or creature you control
-When enchanted permanent is put into a graveyard from the battlefield, if it’s a creature, return it the battlefield tapped at the beginning of the next end step.</text>
+When enchanted permanent is put into a graveyard from the battlefield, return it the battlefield tapped at the beginning of the next end step.</text>
     </card>
     <card>
       <name>The Gambino</name>
@@ -2571,18 +2587,18 @@ Whenever an artifact card leaves your graveyard, put a +1/+1 counter on The Gamb
 Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
     </card>
     <card>
-      <name>Ampryn Spellblade</name>
+      <name>Trovian Slugshot</name>
       <set rarity="uncommon">VRN</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
         <cmc>2</cmc>
-        <type>Creature - Human Wizard </type>
+        <type>Creature - Human Rebel </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Ampryn Spellblade dies, reveal cards from the top of your library until you reveal a card with lesser mana value. If its a nonland card, you may pay EE. If you do, cast that spell without paying its mana cost. Otherwise, put it into your hand, then shuffle.</text>
+      <text>Whenever you attack, you get {E}. Then if you control a creature with power 4 or greater, you may pay {X} and X {E}. Trovian Slugshot deals X damage to each defending player.</text>
     </card>
     <card>
       <name>High Stakes Better</name>
@@ -2839,7 +2855,9 @@ Crew 1 (Tap any number of creatures you control with total power 1 or greater: T
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever another creature you control enters, you get {E}.
-Whenever you attack, you may pay EEEE. If you do, create a token copy of target non-Wizard creature you control. Sacrifice that creature when it enters.</text>
+Whenever you attack, you may pay EEEE. If you do, create a token copy of target creature you control. Sacrifice that creature when it enters.</text>
+      <related>Energy Reserve VRN</related>
+      <related> The Core VRN</related>
     </card>
     <card>
       <name>Mandatory Reconstruction</name>
@@ -2931,18 +2949,19 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 When Ampryn Enforcer enters, put X stun counters on target creature an opponent controls. If a creature had one or more counters put on it this way, tap it and remove it from combat.</text>
     </card>
     <card>
-      <name>Spellseeker</name>
+      <name>Consortium Operative</name>
       <set rarity="rare">VRN</set>
       <prop>
         <colors>U</colors>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Human Wizard </type>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Spellseeker enters, you may search your library for an instant or sorcery card with mana value 2 or less, reveal it, put it into your hand, then shuffle.</text>
+      <text>Covert (This creature can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)
+When Consortium Operative enters, you may search your library for an instant or sorcery card with mana value 2 or less, reveal it, shuffle, then put it on top of your library.</text>
     </card>
     <card>
       <name>Archmage&apos;s Dismissal</name>
@@ -3132,7 +3151,7 @@ Crew 1</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Haste, menace
-Whenever Recon Fighter attacks and isn’t blocked, you may have its power become equal to the number of cards in defending players hand.
+Whenever Recon Fighter attacks and isn’t blocked, you may have its power become equal to the number of cards in defending players hand until end of turn.
 Crew 1</text>
     </card>
     <card>
@@ -3140,15 +3159,15 @@ Crew 1</text>
       <set rarity="rare">VRN</set>
       <prop>
         <colors>G</colors>
-        <manacost>4G</manacost>
-        <cmc>5</cmc>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
         <type>Legendary Creature - Human Druid </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, put a +1/+1 counter on each of up to two target creatures you control.</text>
+Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, put a +1/+1 counter on up to one target creature.</text>
     </card>
     <card>
       <name>Tressera, Outlands Enigma</name>
@@ -3471,7 +3490,7 @@ You may pay EEE rather than pay the mana cost to cast creature spells with mana 
       </prop>
       <tablerow>2</tablerow>
       <text>Covert (This creature can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)
-At the beginning of combat on your turn, for each opponent, exile up to one target artifact or creature that player controls, then return that permanent to the battlefield.</text>
+At the beginning of combat on your turn, for each opponent, exile up to one target artifact or creature that player controls, then return that permanent to the battlefield under its owner’s control.</text>
     </card>
     <card>
       <name>Charim Kosta, Boy Prodigy</name>
@@ -3517,7 +3536,7 @@ When Deb O’Raw, the Ruthless enters, put a +1/+1 counter on each of up to two 
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Creatures can’t attack you and/or permanents you protect unless their controller pays X for each creature they control that’s attacking you or a permanent you protect, where X is the greatest number of different kinds of counters on a permanent you control. (Players protect permanents that can be attacked.)</text>
+      <text>Creatures can’t attack you and/or permanents you protect unless their controller pays {X} for each creature they control that’s attacking you or a permanent you protect, where X is the greatest number of different kinds of counters on a permanent you control. (Players protect permanents that can be attacked.)</text>
     </card>
     <card>
       <name>Xyarta, Norn&apos;s Ambassador</name>
@@ -3712,7 +3731,8 @@ Crew 1</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Mistcovered Sanctuary enters tapped. When it does, you may pay {2}. If you do, seize The Core.
+      <text>Mistcovered Sanctuary enters tapped.
+When Mistcovered Sanctuary enters, you may pay {2}. If you do, seize The Core.
 {T}: Add {W}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3728,7 +3748,8 @@ Crew 1</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Skybreaker Sanctuary enters tapped. When it does, you may pay {2}. If you do, seize The Core.
+      <text>Skybreaker Sanctuary enters tapped.
+When Skybreaker Sanctuary enters, you may pay {2}. If you do, seize The Core.
 {T}: Add {U}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3744,7 +3765,8 @@ Crew 1</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Undercroft Sanctuary enters tapped. When it does, you may pay {2}. If you do, seize The Core.
+      <text>Undercroft Sanctuary enters tapped.
+When Undercroft Sanctuary enters, you may pay {2}. If you do, seize The Core.
 {T}: Add {B}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3760,7 +3782,8 @@ Crew 1</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Bridgetower Sanctuary enters tapped. When it does, you may pay {2}. If you do, seize The Core.
+      <text>Bridgetower Sanctuary enters tapped.
+When Bridgetower Sanctuary enters, you may pay {2}. If you do, seize The Core.
 {T}: Add {R}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3776,7 +3799,8 @@ Crew 1</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Overgrown Sanctuary enters tapped. When it does, you may pay {2}. If you do, seize The Core.
+      <text>Overgrown Sanctuary enters tapped.
+When Overgrown Sanctuary enters, you may pay {2}. If you do, seize The Core.
 {T}: Add {G}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3886,7 +3910,7 @@ Whenever you sacrifice a nontoken permanent, you get {E}.</text>
       <tablerow>1</tablerow>
       <text>Menace, lifelink
 Whenever The Dreadsled attacks, teach target creature you control deathtouch. (Put a deathtouch counter on it. If it already has deathtouch, put a +1/+1 counter on it instead.)
-Crew—Sacrifice a creature</text>
+Crew—Sacrifice a creature.</text>
     </card>
     <card>
       <name>Irelia, Etherium Crafter</name>
@@ -3913,7 +3937,8 @@ Crew—Sacrifice a creature</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Tap all creatures. Draw a card.
+      <text>If it’s your turn, untap all creatures. Otherwise tap all creatures.
+Draw a card.
 Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
     </card>
     <card>
@@ -3944,7 +3969,8 @@ Whenever Erxandath Blightwing attacks, you may teach target creature you control
       </prop>
       <tablerow>1</tablerow>
       <text>When Exemplary Toolcraft enters, seize The Core.
-Whenever you attack a player that has The Core, put a +1/+1 counter on each attacking creature.</text>
+Whenever you attack a player that has The Core, put a +1/+1 counter on each attacking creature.
+{E}: You gain 1 life.</text>
     </card>
     <card>
       <name>Fieldmist Borderpost</name>
@@ -4059,7 +4085,7 @@ Enchanted permanent can’t attack or block and its activated abilities can’t 
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>You get X {E}. Then you may pay any amount of {E}. When you do, teach up to that many target creatures you control trample X times. (Put a times counter on it. If it already has times, put a +1/+1 counter on it instead.)</text>
+      <text>You get X {E}. Then you may pay any amount of {E}. When you do, teach up to that many target creatures you control trample X times. (To teach a creature trample, put a trample counter on it. If it already has trample, put a +1/+1 counter on it instead.)</text>
       <related>Energy Reserve VRN</related>
     </card>
     <card>
@@ -4146,7 +4172,7 @@ You may cast spells from your hand as though they had flash.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Equipped creature gets +2/+2 and has protection from mana value 1 or less and protection from mana value 5 or greater.
-Whenever equipped creature deals combat damage to a player, that player sacrifices a nonland nontoken permanent and you create a Gear token.
+Whenever equipped creature deals combat damage to a player, that player sacrifices a nonland nontoken permanent and you create a Gear token. (It’s an artifact with “{1}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.”)
 Equip {2}</text>
       <related>Gear VRN</related>
     </card>
@@ -4163,7 +4189,7 @@ Equip {2}</text>
       <tablerow>1</tablerow>
       <text>Whenever equipped creature deals combat damage, you get EE.
 Pay EE, choose one—
-• Create a Gear token.
+• Create a Gear token. (It’s an artifact with “{1}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.”)
 • Create Treasure token.
 • Create a token that is a copy of an artifact token you control.
 Equip {2}</text>

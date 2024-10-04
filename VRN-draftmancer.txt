@@ -426,18 +426,18 @@
 	        "name": "Frigid Turbines",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Power-Plant ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Frigid Turbines.jpg"
 	        }
 	    },
 	    {
-	        "name": "Geothermal Pits",
+	        "name": "Geothermal Conduits",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Power-Plant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Geothermal Pits.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Geothermal Conduits.jpg"
 	        }
 	    },
 	    {
@@ -536,7 +536,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Pilot VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Pilot.jpg"
 	        }
 	    },
 	    {
@@ -545,7 +545,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact — Gear ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Gear VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Gear.jpg"
 	        }
 	    },
 	    {
@@ -585,12 +585,12 @@
 	        }
 	    },
 	    {
-	        "name": "Power Station",
+	        "name": "Cargo Checkpoint",
 	        "rarity": "uncommon",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Power Station.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Cargo Checkpoint.jpg"
 	        }
 	    },
 	    {
@@ -698,16 +698,16 @@
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Core VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Core.jpg"
 	        }
 	    },
 	    {
-	        "name": "Disciple of the Ring",
+	        "name": "Skyward Arbiters",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{U}{U}",
+	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Disciple of the Ring.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Skyward Arbiters.jpg"
 	        }
 	    },
 	    {
@@ -786,43 +786,43 @@
 	        "name": "Hydroelectric Plant",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Power-Plant ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Hydroelectric Plant.jpg"
 	        }
 	    },
 	    {
-	        "name": "Mining Pit",
+	        "name": "Refinery Pit",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Power-Plant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Mining Pit.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Refinery Pit.jpg"
 	        }
 	    },
 	    {
 	        "name": "Aether Farm",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Power-Plant ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Aether Farm.jpg"
 	        }
 	    },
 	    {
-	        "name": "Trovian Track",
+	        "name": "Kinetic Tracks",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Power-Plant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Trovian Track.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Kinetic Tracks.jpg"
 	        }
 	    },
 	    {
 	        "name": "Recycling Chamber",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Power-Plant ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Recycling Chamber.jpg"
 	        }
@@ -831,7 +831,7 @@
 	        "name": "Reactor Pool",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Power-Plant ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Reactor Pool.jpg"
 	        }
@@ -840,7 +840,7 @@
 	        "name": "Automated Lair",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Power-Plant ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Automated Lair.jpg"
 	        }
@@ -849,7 +849,7 @@
 	        "name": "Convergence Floor",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Power-Plant ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Convergence Floor.jpg"
 	        }
@@ -984,7 +984,7 @@
 	        "name": "Consortium Bookthief",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
-	        "type": "Creature — Human Rogue ",
+	        "type": "Creature — Human Rogue Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Consortium Bookthief.jpg"
 	        }
@@ -1017,12 +1017,12 @@
 	        }
 	    },
 	    {
-	        "name": "Stasis Field",
+	        "name": "Estrangement Field",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Stasis Field.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Estrangement Field.jpg"
 	        }
 	    },
 	    {
@@ -1550,7 +1550,7 @@
 	    {
 	        "name": "Aether Renewal",
 	        "rarity": "common",
-	        "mana_cost": "{1}{B}",
+	        "mana_cost": "{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Aether Renewal.jpg"
@@ -1566,12 +1566,12 @@
 	        }
 	    },
 	    {
-	        "name": "Ampryn Spellblade",
+	        "name": "Trovian Slugshot",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}",
-	        "type": "Creature — Human Wizard ",
+	        "type": "Creature — Human Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ampryn Spellblade.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Trovian Slugshot.jpg"
 	        }
 	    },
 	    {
@@ -1782,12 +1782,12 @@
 	        }
 	    },
 	    {
-	        "name": "Spellseeker",
+	        "name": "Consortium Operative",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{U}",
-	        "type": "Creature — Human Wizard ",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Soldier Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Spellseeker.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Consortium Operative.jpg"
 	        }
 	    },
 	    {
@@ -1910,7 +1910,7 @@
 	    {
 	        "name": "Olim, Ring Seeker",
 	        "rarity": "rare",
-	        "mana_cost": "{4}{G}",
+	        "mana_cost": "{3}{G}",
 	        "type": "Legendary Creature — Human Druid ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Olim, Ring Seeker.jpg"
@@ -2309,7 +2309,7 @@
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Energy Reserve VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Energy Reserve.jpg"
 	        }
 	    },
 	    {
@@ -2354,7 +2354,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact Creature — Phyrexian Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Phyrexian Golem VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Phyrexian Golem.jpg"
 	        }
 	    },
 	    {
@@ -2372,7 +2372,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Spirit VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Spirit.jpg"
 	        }
 	    },
 	    {
@@ -2543,7 +2543,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact Creature — Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Golem VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Golem.jpg"
 	        }
 	    },
 	    {
@@ -2561,7 +2561,7 @@
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Core1 VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Core1.jpg"
 	        }
 	    },
 	    {
@@ -2579,7 +2579,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Wizard VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Wizard.jpg"
 	        }
 	    },
 	    {
@@ -2588,7 +2588,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Sword VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Sword.jpg"
 	        }
 	    },
 	    {
@@ -2606,7 +2606,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact Creature — Thopter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Thopter VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Thopter.jpg"
 	        }
 	    },
 	    {
@@ -2642,7 +2642,7 @@
 	        "mana_cost": "",
 	        "type": "Token Legendary Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Kordoa VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Kordoa.jpg"
 	        }
 	    },
 	    {
@@ -2660,7 +2660,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Rebel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Rebel Soldier VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Rebel Soldier.jpg"
 	        }
 	    },
 	    {
@@ -2669,7 +2669,7 @@
 	        "mana_cost": "",
 	        "type": "Token Land Creature — Forest Dryad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Forest Dryad VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Forest Dryad.jpg"
 	        }
 	    },
 	    {
@@ -2678,7 +2678,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact — Treasure ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Treasure VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Treasure.jpg"
 	        }
 	    },
 	    {
@@ -2687,7 +2687,7 @@
 	        "mana_cost": "",
 	        "type": "Token ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Copy VRN.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Copy.jpg"
 	        }
 	    }
 	]
@@ -2698,16 +2698,16 @@
 		2 Starlit Cavern
 		2 Reliquary Guardian
 		2 Frigid Turbines
-		2 Geothermal Pits
+		2 Geothermal Conduits
 		2 Avatar of Law
 		2 Gav Beleren, War Hero
 		2 Dark Confidant
-		2 Disciple of the Ring
+		2 Skyward Arbiters
 		2 The Arboreal Skycraft
 		2 Hydroelectric Plant
-		2 Mining Pit
+		2 Refinery Pit
 		2 Aether Farm
-		2 Trovian Track
+		2 Kinetic Tracks
 		2 Recycling Chamber
 		2 Reactor Pool
 		2 Automated Lair
@@ -2720,7 +2720,7 @@
 		2 Eklan, Porcelain Subduer
 		2 Prestigious Scion
 		2 Ampryn Enforcer
-		2 Spellseeker
+		2 Consortium Operative
 		2 Archmage's Dismissal
 		2 Ancient Whispers
 		2 Roiling Arcana
@@ -2788,7 +2788,7 @@
 		3 The Eviscerator
 		3 Arin, Reconstructor Rebel
 		3 Prosperous Magocrat
-		3 Power Station
+		3 Cargo Checkpoint
 		3 Ampryn Charmbreaker
 		3 The Energy Blade
 		3 Solemn Simulacrum
@@ -2820,7 +2820,7 @@
 		3 Apocryphal Rite
 		3 Illicit Tutelage
 		3 The Gambino
-		3 Ampryn Spellblade
+		3 Trovian Slugshot
 		3 High Stakes Better
 		3 Renegade Rabble
 		3 Pincer Maneuver
@@ -2900,7 +2900,7 @@
 		4 Messenger Drake
 		4 Somnomancer Adept
 		4 Rain of Frost
-		4 Stasis Field
+		4 Estrangement Field
 		4 Ampryn Mantle
 		4 Cloaked Observer
 		4 Consortium Mastermind
@@ -2973,20 +2973,4 @@
 		10 Swamp
 		10 Mountain
 		10 Forest
-	[TokenSlot(1)]
-		10 The Core
-		10 Copy
-		10 Energy Reserve
-		10 Pilot
-		10 Rebel Soldier
-		10 Wizard
-		10 Spirit
-		10 Kordoa
-		10 Gear
-		10 Golem
-		10 Phyrexian Golem
-		10 Sword
-		10 Thopter
-		10 Treasure
-		10 Forest Dryad
 	
