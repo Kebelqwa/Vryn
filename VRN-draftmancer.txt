@@ -263,19 +263,19 @@
 	    {
 	        "name": "Ampryn Confidant",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{W}",
+	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ampryn Confidant.jpg"
 	        }
 	    },
 	    {
-	        "name": "Cloudstone Curio",
+	        "name": "Gear Matrix",
 	        "rarity": "rare",
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Cloudstone Curio.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Gear Matrix.jpg"
 	        }
 	    },
 	    {
@@ -315,21 +315,21 @@
 	        }
 	    },
 	    {
-	        "name": "Starlit Cavern",
-	        "rarity": "rare",
+	        "name": "Aether Hub",
+	        "rarity": "uncommon",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Starlit Cavern.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Aether Hub.jpg"
 	        }
 	    },
 	    {
-	        "name": "Layered Warding",
+	        "name": "Vexing Ward",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Layered Warding.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Vexing Ward.jpg"
 	        }
 	    },
 	    {
@@ -648,12 +648,12 @@
 	        }
 	    },
 	    {
-	        "name": "False Renewal",
-	        "rarity": "common",
-	        "mana_cost": "{1}{B}",
-	        "type": "Instant",
+	        "name": "Vapid Culling",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/False Renewal.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Vapid Culling.jpg"
 	        }
 	    },
 	    {
@@ -666,12 +666,12 @@
 	        }
 	    },
 	    {
-	        "name": "Dark Confidant",
+	        "name": "Baleful Arbiter",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Dark Confidant.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Baleful Arbiter.jpg"
 	        }
 	    },
 	    {
@@ -929,7 +929,7 @@
 	    {
 	        "name": "Skill Flare",
 	        "rarity": "common",
-	        "mana_cost": "{1}{W}",
+	        "mana_cost": "{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Skill Flare.jpg"
@@ -1091,7 +1091,7 @@
 	    {
 	        "name": "Mercenary Arbiter",
 	        "rarity": "common",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Human Artificer Mercenary ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Mercenary Arbiter.jpg"
@@ -1145,7 +1145,7 @@
 	    {
 	        "name": "Derelict Dredger",
 	        "rarity": "common",
-	        "mana_cost": "{4}{B}",
+	        "mana_cost": "{3}{B}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Derelict Dredger.jpg"
@@ -1386,12 +1386,12 @@
 	        }
 	    },
 	    {
-	        "name": "Ephemerate",
+	        "name": "Ringshift",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ephemerate.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ringshift.jpg"
 	        }
 	    },
 	    {
@@ -1531,8 +1531,8 @@
 	    },
 	    {
 	        "name": "Apocryphal Rite",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Apocryphal Rite.jpg"
@@ -1836,12 +1836,12 @@
 	        }
 	    },
 	    {
-	        "name": "Diabolic Intent",
+	        "name": "Phyrexian Scrutiny",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{B}",
-	        "type": "Sorcery",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Diabolic Intent.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Phyrexian Scrutiny.jpg"
 	        }
 	    },
 	    {
@@ -2405,7 +2405,7 @@
 	    {
 	        "name": "Demonlord Bobert",
 	        "rarity": "mythic",
-	        "mana_cost": "{5}{B}{B}{B}",
+	        "mana_cost": "{5}{B}{B}",
 	        "type": "Legendary Creature — Demon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Demonlord Bobert.jpg"
@@ -2511,12 +2511,12 @@
 	        }
 	    },
 	    {
-	        "name": "Lockdown",
+	        "name": "Aether Suspension",
 	        "rarity": "common",
-	        "mana_cost": "{2}{W}",
+	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Lockdown.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Aether Suspension.jpg"
 	        }
 	    },
 	    {
@@ -2610,15 +2610,6 @@
 	        }
 	    },
 	    {
-	        "name": "Mox Radiant",
-	        "rarity": "mythic",
-	        "mana_cost": "{0}",
-	        "type": "Legendary Artifact",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Mox Radiant.jpg"
-	        }
-	    },
-	    {
 	        "name": "Sword of Price and Progress",
 	        "rarity": "mythic",
 	        "mana_cost": "{3}",
@@ -2689,19 +2680,27 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Copy.jpg"
 	        }
+	    },
+	    {
+	        "name": "The Assembly Core",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Assembly Core.jpg"
+	        }
 	    }
 	]
 	[RareSlot(2)]
 		2 League Pyromancer
 		2 Ampryn Confidant
-		2 Cloudstone Curio
-		2 Starlit Cavern
+		2 Gear Matrix
 		2 Reliquary Guardian
 		2 Frigid Turbines
 		2 Geothermal Conduits
 		2 Avatar of Law
 		2 Gav Beleren, War Hero
-		2 Dark Confidant
+		2 Baleful Arbiter
 		2 Skyward Arbiters
 		2 The Arboreal Skycraft
 		2 Hydroelectric Plant
@@ -2726,7 +2725,7 @@
 		2 Roiling Arcana
 		2 Okla, Queen of Refuse
 		2 Mage-Ring Mite
-		2 Diabolic Intent
+		2 Phyrexian Scrutiny
 		2 The Ring of Ghosts
 		2 Fabricated Junker
 		2 Trovian Avenger
@@ -2770,9 +2769,9 @@
 		1 Exemplary Toolcraft
 		1 Energized Emergence
 		1 Mana Lens
-		1 Mox Radiant
 		1 Sword of Price and Progress
 		1 Artificer's Jitte
+		1 The Assembly Core
 	[UncommonSlot(4)]
 		3 Graveblade Marauder
 		3 Mage-Ring Responder
@@ -2783,6 +2782,7 @@
 		3 Tyrannical Mage
 		3 Seasoned Electromancer
 		3 Enforcer of Ancients
+		3 Aether Hub
 		3 Pylon Protector
 		3 Ampryn Consignment
 		3 The Eviscerator
@@ -2790,6 +2790,7 @@
 		3 Prosperous Magocrat
 		3 Cargo Checkpoint
 		3 Ampryn Charmbreaker
+		3 Vapid Culling
 		3 The Energy Blade
 		3 Solemn Simulacrum
 		3 Vitality Sage
@@ -2817,7 +2818,6 @@
 		3 Fumechoke Splicer
 		3 Render of Mortality
 		3 Otherworldly Onslaught
-		3 Apocryphal Rite
 		3 Illicit Tutelage
 		3 The Gambino
 		3 Trovian Slugshot
@@ -2870,7 +2870,7 @@
 		4 Constructed Dreadmaw
 		4 Ampryn Oathbreaker
 		4 Rebel Bladesmith
-		4 Layered Warding
+		4 Vexing Ward
 		4 Core Rupture
 		4 Ringer Templar
 		4 Ring Feeder
@@ -2882,7 +2882,6 @@
 		4 Anarchist's Wrath
 		4 Vortice Merge
 		4 Fallen Battlemage
-		4 False Renewal
 		4 Burnished Geomancer
 		4 Ghalian Instructor
 		4 Phyrexian Facestealer
@@ -2936,9 +2935,10 @@
 		4 Energy Burst
 		4 Combat Trial
 		4 Dune Glider
-		4 Ephemerate
+		4 Ringshift
 		4 Adept Mechanic
 		4 Conniving Interloper
+		4 Apocryphal Rite
 		4 Aether Renewal
 		4 Brazen Arcanist
 		4 Rebel Codex
@@ -2959,7 +2959,7 @@
 		4 Mistvein Borderpost
 		4 Veinfire Borderpost
 		4 Wildfield Borderpost
-		4 Lockdown
+		4 Aether Suspension
 		4 Smite the Ethereal
 		4 Regression
 	[BasicSlot(1)]
