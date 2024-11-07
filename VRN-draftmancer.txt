@@ -720,12 +720,12 @@
 	        }
 	    },
 	    {
-	        "name": "Vitality Sage",
+	        "name": "Glade Quickshots",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}",
-	        "type": "Creature — Elf Druid ",
+	        "type": "Creature — Dryad Archer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Vitality Sage.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Glade Quickshots.jpg"
 	        }
 	    },
 	    {
@@ -1108,7 +1108,7 @@
 	    },
 	    {
 	        "name": "Become Compleat",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
@@ -1540,7 +1540,7 @@
 	    },
 	    {
 	        "name": "Illicit Tutelage",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "{4}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
@@ -1656,12 +1656,12 @@
 	        }
 	    },
 	    {
-	        "name": "Watcher of Spheres",
+	        "name": "Reservoir Guardian",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}",
-	        "type": "Creature — Elf Druid ",
+	        "type": "Creature — Dryad Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Watcher of Spheres.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Reservoir Guardian.jpg"
 	        }
 	    },
 	    {
@@ -1674,12 +1674,12 @@
 	        }
 	    },
 	    {
-	        "name": "Prophetic Shaman",
+	        "name": "Verge Shaman",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}{G}",
-	        "type": "Creature — Elf Shaman ",
+	        "type": "Creature — Dryad Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Prophetic Shaman.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Verge Shaman.jpg"
 	        }
 	    },
 	    {
@@ -1910,7 +1910,7 @@
 	    {
 	        "name": "Olim, Ring Seeker",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Legendary Creature — Human Druid ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Olim, Ring Seeker.jpg"
@@ -1929,7 +1929,7 @@
 	        "name": "Druid of Fruition",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{G}",
-	        "type": "Creature — Elf Druid ",
+	        "type": "Creature — Dryad Druid ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Druid of Fruition.jpg"
 	        }
@@ -1937,7 +1937,7 @@
 	    {
 	        "name": "Dryad Crusher",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Dryad Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Dryad Crusher.jpg"
@@ -2304,15 +2304,6 @@
 	        }
 	    },
 	    {
-	        "name": "Energy Reserve",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Energy Reserve.jpg"
-	        }
-	    },
-	    {
 	        "name": "Energy Reserve1",
 	        "rarity": "common",
 	        "mana_cost": "",
@@ -2346,6 +2337,15 @@
 	        "type": "",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Energy Reserve4.jpg"
+	        }
+	    },
+	    {
+	        "name": "Energy Reserve5",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Energy Reserve5.jpg"
 	        }
 	    },
 	    {
@@ -2689,6 +2689,15 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Assembly Core.jpg"
 	        }
+	    },
+	    {
+	        "name": "Energy Reserve",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Energy Reserve.jpg"
+	        }
 	    }
 	]
 	[RareSlot(2)]
@@ -2793,7 +2802,7 @@
 		3 Vapid Culling
 		3 The Energy Blade
 		3 Solemn Simulacrum
-		3 Vitality Sage
+		3 Glade Quickshots
 		3 Brilliant Mage-Ring
 		3 Derelict Mage-Ring
 		3 Reclaimed Mage-Ring
@@ -2801,6 +2810,7 @@
 		3 Glorious Mage-Ring
 		3 Benevolent Photomancer
 		3 Jolted Awake
+		3 Become Compleat
 		3 Harvester Font
 		3 Trovian Veteren
 		3 Ward Splicer
@@ -2818,7 +2828,6 @@
 		3 Fumechoke Splicer
 		3 Render of Mortality
 		3 Otherworldly Onslaught
-		3 Illicit Tutelage
 		3 The Gambino
 		3 Trovian Slugshot
 		3 High Stakes Better
@@ -2829,9 +2838,9 @@
 		3 Trovian Liberator
 		3 Aethereal Husk
 		3 Energy Recycling
-		3 Watcher of Spheres
+		3 Reservoir Guardian
 		3 Burstroot Dryad
-		3 Prophetic Shaman
+		3 Verge Shaman
 		3 Energy Infusion
 		3 Search for Sanctuary
 		3 Energy Drover
@@ -2909,7 +2918,6 @@
 		4 Ampryn Lich
 		4 Mercenary Arbiter
 		4 Black Market Beguiler
-		4 Become Compleat
 		4 Entropic Chiming
 		4 Consortium Switchblade
 		4 Derelict Dredger
@@ -2939,6 +2947,7 @@
 		4 Adept Mechanic
 		4 Conniving Interloper
 		4 Apocryphal Rite
+		4 Illicit Tutelage
 		4 Aether Renewal
 		4 Brazen Arcanist
 		4 Rebel Codex

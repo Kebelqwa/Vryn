@@ -287,7 +287,7 @@ Whenever Trovian Disciple attacks, you may pay EE. If you do, put a +1/+1 counte
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Inspired — Whenever Bastion Seraph becomes untapped, teach it lifelink. (Put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)</text>
+Inspired — Whenever Bastion Seraph becomes untapped, teach it lifelink. (Put a lifelink counter on it. If it already has that ability, put a +1/+1 counter on it instead.)</text>
     </card>
     <card>
       <name>Ringer Nightwatch</name>
@@ -984,7 +984,7 @@ Whenever a Vehicle you control attacks, you may sacrifice Cargo Checkpoint. If y
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature gets +3/+0 until end of turn. If its an artifact creature, teach it menace. (Put a menace counter on it. If it already has menace, put a +1/+1 counter on it instead.)</text>
+      <text>Target creature gets +3/+0 until end of turn. If its an artifact creature, teach it menace. (Put a menace counter on it. If it already has that ability, put a +1/+1 counter on it instead.)</text>
     </card>
     <card>
       <name>Vortice Merge</name>
@@ -1060,7 +1060,7 @@ When Ampryn Charmbreaker enters, if you cast it, copy up to one target activated
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast Vapid Culling, pay 2 life or {E}.
+      <text>As an additional cost to cast this spell, pay 2 life or {E}.
 Target opponent separates their hand into two face-down piles. Look at one of the piles and choose a card from it. That player discards the chosen card unless they discard a card at random from the other pile and have you get EE. (The opponent makes the piles and you choose which pile to look at.)</text>
     </card>
     <card>
@@ -1158,13 +1158,13 @@ When Skyward Arbiters enters, create two 1/1 blue Wizard creature tokens with �
       <related>Pilot VRN</related>
     </card>
     <card>
-      <name>Vitality Sage</name>
+      <name>Glade Quickshots</name>
       <set rarity="uncommon">VRN</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
         <cmc>3</cmc>
-        <type>Creature - Elf Druid </type>
+        <type>Creature - Dryad Archer </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
       </prop>
@@ -1824,7 +1824,7 @@ When Black Market Beguiler dies, create a tapped Gear token. (It’s an artifact
     </card>
     <card>
       <name>Become Compleat</name>
-      <set rarity="common">VRN</set>
+      <set rarity="uncommon">VRN</set>
       <prop>
         <colors>B</colors>
         <manacost>3B</manacost>
@@ -1861,7 +1861,7 @@ Sacrifice an artifact: You lose 1 life and draw a card. Activate only as a sorce
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast False Renewal, pay {E} or 2 life.
+      <text>As an additional cost to cast this spell, pay {E} or 2 life.
 Mill four cards. You may return an artifact, creature, or legendary card milled this way from your graveyard to your hand. (Put the top four cards of your library into your graveyard.)</text>
     </card>
     <card>
@@ -2535,7 +2535,7 @@ Whenever you sacrifice a permanent, Render of Mortality deals 1 damage to each o
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose target creature an opponent controls. Create a 3/3 colorless Phyrexian Golem artifact creature token. Then the chosen creature gets -1/-1 for each artifact you control until end of turn.</text>
+      <text>Choose up to one target creature an opponent controls. Create a 3/3 colorless Phyrexian Golem artifact creature token. Then the chosen creature gets -1/-1 for each artifact you control until end of turn.</text>
       <related>Phyrexian Golem VRN</related>
     </card>
     <card>
@@ -2549,14 +2549,14 @@ Whenever you sacrifice a permanent, Render of Mortality deals 1 damage to each o
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast Apocryphal Rite, sacrifice an artifact or creature.
+      <text>As an additional cost to cast this spell, sacrifice an artifact or creature.
 Choose one—
 • Draw two cards.
-• Target creature gets -4/-4 until end of turn.</text>
+• Target creature gets -2/-2 until end of turn.</text>
     </card>
     <card>
       <name>Illicit Tutelage</name>
-      <set rarity="uncommon">VRN</set>
+      <set rarity="common">VRN</set>
       <prop>
         <colors>B</colors>
         <manacost>4B</manacost>
@@ -2750,18 +2750,18 @@ Return target permanent card from your graveyard to your hand. If Energy Recycli
       <related>Energy Reserve VRN</related>
     </card>
     <card>
-      <name>Watcher of Spheres</name>
+      <name>Reservoir Guardian</name>
       <set rarity="uncommon">VRN</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
         <cmc>2</cmc>
-        <type>Creature - Elf Druid </type>
+        <type>Creature - Dryad Soldier </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you get one or more {E}, put a +1/+1 counter on Watcher of Spheres. This ability triggers only once each turn.</text>
+      <text>Whenever you get one or more {E}, put a +1/+1 counter on Reservoir Guardian. This ability triggers only once each turn.</text>
     </card>
     <card>
       <name>Burstroot Dryad</name>
@@ -2780,13 +2780,13 @@ At the beginning of your end step, mill one card.
 {T}, Exile two cards from your graveyard: Return target land card from your graveyard to the battlefield.</text>
     </card>
     <card>
-      <name>Prophetic Shaman</name>
+      <name>Verge Shaman</name>
       <set rarity="uncommon">VRN</set>
       <prop>
         <colors>G</colors>
         <manacost>2GG</manacost>
         <cmc>4</cmc>
-        <type>Creature - Elf Shaman </type>
+        <type>Creature - Dryad Shaman </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
       </prop>
@@ -3171,15 +3171,15 @@ Crew 1</text>
       <set rarity="rare">VRN</set>
       <prop>
         <colors>G</colors>
-        <manacost>3G</manacost>
-        <cmc>4</cmc>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
         <type>Legendary Creature - Human Druid </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, put a +1/+1 counter on up to one target creature.</text>
+Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, look at the top card of your library. You may reveal it. If a land or creature card with mana value 3 or less is revealed this way, draw a card. This ability triggers only once each turn.</text>
     </card>
     <card>
       <name>Tressera, Outlands Enigma</name>
@@ -3206,7 +3206,7 @@ When Tressera enters, create a 1/1 colorless Forest Dryad land creature token fo
         <colors>G</colors>
         <manacost>1G</manacost>
         <cmc>2</cmc>
-        <type>Creature - Elf Druid </type>
+        <type>Creature - Dryad Druid </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
       </prop>
@@ -3220,15 +3220,15 @@ Pay EEE: Untap Druid of Fruition.</text>
       <set rarity="rare">VRN</set>
       <prop>
         <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
         <type>Creature - Dryad Warrior </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-Whenever Dryad Crusher enters or attacks, mill three cards. You may return a land card from among them from your graveyard to the battlefield tapped.</text>
+Whenever Dryad Crusher enters or attacks, mill three cards. You may return a land card milled this way from your graveyard to the battlefield tapped.</text>
     </card>
     <card>
       <name>Druidic Crossroads</name>
@@ -3783,6 +3783,7 @@ When Undercroft Sanctuary enters, you may pay {2}. If you do, seize The Core.
 {T}: Add {B}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
+      <related>reart</related>
     </card>
     <card>
       <name>Bridgetower Sanctuary</name>
