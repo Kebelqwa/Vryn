@@ -181,7 +181,7 @@
 	    },
 	    {
 	        "name": "Bespoke Artifact",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Gear ",
 	        "image_uris": {
@@ -704,7 +704,7 @@
 	    {
 	        "name": "Skyward Arbiters",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Skyward Arbiters.jpg"
@@ -1280,7 +1280,7 @@
 	    {
 	        "name": "Part Salvager",
 	        "rarity": "common",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{1}{G}",
 	        "type": "Artifact Creature — Golem ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Part Salvager.jpg"
@@ -1667,7 +1667,7 @@
 	    {
 	        "name": "Burstroot Dryad",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Dryad ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Burstroot Dryad.jpg"
@@ -1703,7 +1703,7 @@
 	    {
 	        "name": "Energy Drover",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Dryad ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Energy Drover.jpg"
@@ -2081,7 +2081,7 @@
 	    {
 	        "name": "Kavalester, Mage Hermit",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{G}{U}",
+	        "mana_cost": "{3}{G}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Kavalester, Mage Hermit.jpg"
@@ -2787,7 +2787,6 @@
 		3 Trovian Wingmare
 		3 Consortium Informant
 		3 Chart a Course
-		3 Bespoke Artifact
 		3 Tyrannical Mage
 		3 Seasoned Electromancer
 		3 Enforcer of Ancients
@@ -2870,6 +2869,7 @@
 		4 Bastion Seraph
 		4 Ringer Nightwatch
 		4 Destabilize
+		4 Bespoke Artifact
 		4 Unearthed Relics
 		4 Sinking Opportunities
 		4 Council's Edict
