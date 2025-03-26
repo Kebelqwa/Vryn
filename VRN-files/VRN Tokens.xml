@@ -43,66 +43,6 @@ Whenever you seize The Core and at the beginning of your upkeep, choose one—
       <token>1</token>
     </card>
     <card>
-      <name>Energy Reserve1 VRN</name>
-      <set>VRN</set>
-      <prop>
-        <colors></colors>
-        <type></type>
-        <maintype></maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Place your energy counters here.</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Energy Reserve2 VRN</name>
-      <set>VRN</set>
-      <prop>
-        <colors></colors>
-        <type></type>
-        <maintype></maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Place your energy counters here.</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Energy Reserve3 VRN</name>
-      <set>VRN</set>
-      <prop>
-        <colors></colors>
-        <type></type>
-        <maintype></maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Place your energy counters here.</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Energy Reserve4 VRN</name>
-      <set>VRN</set>
-      <prop>
-        <colors></colors>
-        <type></type>
-        <maintype></maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Place your energy counters here.</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Energy Reserve5 VRN</name>
-      <set>VRN</set>
-      <prop>
-        <colors></colors>
-        <type></type>
-        <maintype></maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Place your energy counters here.</text>
-      <token>1</token>
-    </card>
-    <card>
       <name>Phyrexian Golem VRN</name>
       <set>VRN</set>
       <prop>
@@ -289,6 +229,18 @@ Equip {2}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Place your energy counters here.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Mara, Hand of the Core Emblem VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors></colors>
+        <type>Emblem</type>
+        <maintype>Emblem</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Pay {E}: Target creature you control gets +1/+1 and gains indestructible until end of turn.</text>
       <token>1</token>
     </card>
 
