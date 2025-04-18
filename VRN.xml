@@ -53,7 +53,7 @@ Whenever this creature attacks, it deals 7 damage to target creature defending p
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this creature enters, seize The Core.
+When this creature enters, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 Whenever this creature attacks, you may pay EE. If you do, another target creature you control gains flying until end of turn.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -133,7 +133,7 @@ Inspired — Whenever this creature becomes untapped, you may pay {E}. If you do
       <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Mara enters, seize The Core.
+      <text>When Mara enters, seize The Core. (Get E or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 [+1]: Teach target creature you control lifelink. (Put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)
 [+1]: Create a 1/1 white Rebel Soldier creature token.
 [-6]: You get an emblem with “Pay E: Target creature you control gets +1/+1 and gains indestructible until end of turn.”</text>
@@ -215,7 +215,7 @@ Inspired — Whenever this creature becomes untapped, you pay {E}. If you do, th
       </prop>
       <tablerow>2</tablerow>
       <text>Covert (This creature can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)
-When this creature enters, seize The Core.
+When this creature enters, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 2U, Pay EEE, Sacrifice this creature: Draw two cards.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -295,7 +295,7 @@ Whenever this creature attacks, you may pay EE. If you do, put a +1/+1 counter o
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Inspired — Whenever this creature becomes untapped, teach it lifelink. (Put a lifelink counter on it. If it already has that ability, put a +1/+1 counter on it instead.)</text>
+Inspired — Whenever this creature becomes untapped, teach it lifelink. (Put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)</text>
     </card>
     <card>
       <name>Ringer Nightwatch</name>
@@ -351,7 +351,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose one—
+      <text>Choose one —
 • Return up to one target artifact card with mana value X or less from your graveyard to the battlefield.
 • Unearthed Relics deals X damage to any nonplayer target.</text>
     </card>
@@ -592,7 +592,7 @@ Draw a card.</text>
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, seize The Core.
+      <text>When this creature enters, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 Whenever this creature attacks, you may pay {E}. When you do, tap target creature defending player controls.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -855,12 +855,12 @@ Inspired — Whenever Arin, Reconstructor Rebel becomes untapped, put a +1/+1 co
         <colors>U</colors>
         <manacost>4U</manacost>
         <cmc>5</cmc>
-        <type>Creature - Human Wizard </type>
+        <type>Creature - Human Noble Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever this creature or another nontoken Wizard creature you control enters, create a 1/1 blue Wizard creature token with “{T}: Add {C}. This mana can’t be spent to cast creature spells.”</text>
+      <text>Whenever a nontoken Wizard creature you control enters, create a 1/1 blue Wizard creature token with “{T}: Add {C}. This mana can’t be spent to cast creature spells.”</text>
       <related>Wizard VRN</related>
     </card>
     <card>
@@ -1002,7 +1002,7 @@ Whenever a Vehicle you control attacks, you may sacrifice this land. If you do, 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature gets +3/+0 until end of turn. If its an artifact creature, teach it menace. (Put a menace counter on it. If it already has that ability, put a +1/+1 counter on it instead.)</text>
+      <text>Target creature gets +3/+0 until end of turn. If its an artifact creature, teach it menace. (Put a menace counter on it. If it already has menace, put a +1/+1 counter on it instead.)</text>
     </card>
     <card>
       <name>Vortice Merge</name>
@@ -1015,7 +1015,7 @@ Whenever a Vehicle you control attacks, you may sacrifice this land. If you do, 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>You get EE. Then choose one—
+      <text>You get EE. Then choose one —
 • Add RR.
 • Discard a card. If you do, draw two cards.</text>
       <related>Energy Reserve VRN</related>
@@ -1178,7 +1178,6 @@ When this creature enters, create a 1/1 blue Wizard creature token with “{T}: 
 [-1]: Create a 1/1 colorless Pilot creature token with “This creature crews Vehicles as though its power were 2 greater.”
 [-6]: You get an emblem with “The first spell you cast each turn has affinity for artifacts.”</text>
       <related>Pilot VRN</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Glade Quickshots</name>
@@ -1431,7 +1430,7 @@ When this land enters tapped, you get {E}.
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, seize The Core.
+      <text>When this creature enters, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 Whenever you attack, you may pay EE. If you do, target attacking creature gains indestructible until end of turn.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -1512,7 +1511,7 @@ Pay EEE: Teach target creature you control lifelink. Activate only as a sorcery.
       <tablerow>3</tablerow>
       <text>Choose one or both—
 • Up to X target creatures you control get +1/+1 until end of turn. Teach those creatures vigilance. (Put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)
-• Seize the Core.</text>
+• Seize the Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
       <related>rework</related>
@@ -1595,8 +1594,8 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
       </prop>
       <tablerow>1</tablerow>
       <text>Flying
-When this Vehicle enters, seize The Core.
-Whenever this Vehicle attacks, teach target creature or Vehicle you control vigilance. (Put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)
+When this Vehicle enters, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
+Whenever you attack, up to one target creature you control gets +1/+0 until end of turn.
 Crew 1</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -1627,7 +1626,7 @@ Crew 1</text>
         <pt>4/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, seize The Core.
+      <text>When this creature enters, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 Pay EEE: Target creature you control can’t be blocked this turn. Activate only once each turn.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -1645,9 +1644,9 @@ Pay EEE: Target creature you control can’t be blocked this turn. Activate only
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, choose one—
+      <text>When this creature enters, choose one —
 • Put up to one target instant or sorcery card from your graveyard on top of your library.
-• Seize The Core.</text>
+• Seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
     </card>
@@ -1695,7 +1694,7 @@ Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, t
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When this creature enters, choose one—
+When this creature enters, choose one —
 • Draw a card
 • Put a stun counter on target creature an opponent controls.</text>
     </card>
@@ -1704,8 +1703,8 @@ When this creature enters, choose one—
       <set rarity="common">VRN</set>
       <prop>
         <colors>U</colors>
-        <manacost>2UU</manacost>
-        <cmc>4</cmc>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
@@ -1785,7 +1784,7 @@ Deathtouch
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature dies, choose one—
+      <text>When this creature dies, choose one —
 • You lose 1 life and draw a card.
 • Create a 2/1 black Spirit creature token with decayed.</text>
       <related>Spirit VRN</related>
@@ -2050,7 +2049,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose two—
+      <text>Choose two —
 • You get X {E}.
 • Create a 1/1 white Rebel Soldier creature token.
 • Creatures you control get +X/+0 and gain haste until end of turn.</text>
@@ -2333,7 +2332,7 @@ Artifact creatures you control have ward {1}. (Whenever this creature becomes th
       <related>reart</related>
     </card>
     <card>
-      <name>Ranna, the Revitalizer</name>
+      <name>Ranna Beleren, Revitalizer</name>
       <set rarity="uncommon">VRN</set>
       <prop>
         <colors>W</colors>
@@ -2358,7 +2357,7 @@ Inspired — Whenever this creature becomes untapped, put a +1/+1 counter on it.
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>You gain 4 life, draw a card, then seize The Core.</text>
+      <text>You gain 4 life, draw a card, then seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
     </card>
@@ -2417,7 +2416,7 @@ Crew 1</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Covert (This creature can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)
-When this creature enters, you may pay {1}. If you do, seize The Core.</text>
+When this creature enters, you may pay {1}. If you do, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
       <related>energy</related>
@@ -2555,6 +2554,7 @@ Whenever you sacrifice one or more nontoken creatures, create that many 3/3 colo
       <text>When this creature enters, create two 3/3 colorless Phyrexian Golem artifact creature token.
 Artifact creatures you control have deathtouch.</text>
       <related count="2">Phyrexian Golem VRN</related>
+      <related>reart</related>
     </card>
     <card>
       <name>Aethereal Militia</name>
@@ -2612,7 +2612,7 @@ Whenever you sacrifice a permanent, this creature deals 1 damage to each opponen
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, sacrifice an artifact or creature.
-Choose one—
+Choose one —
 • Draw two cards.
 • Target creature gets -2/-2 until end of turn.</text>
     </card>
@@ -2751,7 +2751,7 @@ Choose any nonplayer target, then choose another nonplayer target for each time 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose one—
+      <text>Choose one —
 • Mage-Ring Radiation deals 4 damage to any nonplayer target.
 • Exile target artifact.
 • Creatures you control get +2/+0 until end of turn.</text>
@@ -3011,7 +3011,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, seize The Core.
+      <text>When this creature enters, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 {T}: Draw a card. Then discard a card unless you pay EEE.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3130,7 +3130,7 @@ As long as a card with covert is exiled with this creature, it has covert. The s
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>As this enchantment enters, choose Compleation or Dissection—
+      <text>As this enchantment enters, choose Compleation or Dissection.
 • Compleation — At the beginning of your end step, you may sacrifice a creature. When you do, return that creature card from your graveyard to the battlefield tapped with a finality counter.
 • Dissection — At the beginning of your end step, you may sacrifice a creature. When you do, return another target creature card from your graveyard to your hand.</text>
     </card>
@@ -3190,7 +3190,7 @@ Sacrifice an artifact or creature: This creature deals 1 damage to any target.</
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose one—
+      <text>Choose one —
 • Destroy target artifact.
 • Runesplitter Bolt deals 2 damage to any target.
 Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
@@ -3454,7 +3454,7 @@ Enchanted land has “{T}: Add one mana of any color. You get {E}.”</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this artifact enters, seize The Core.
+      <text>When this artifact enters, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 Whenever you get one or more {E}, put a +1/+1 counter on target creature you control. Untap that creature. This ability triggers only once each turn.
 {T}, Pay {E}: Add one mana of any color.</text>
       <related>Energy Reserve VRN</related>
@@ -3832,7 +3832,7 @@ Crew 1</text>
       </prop>
       <tablerow>0</tablerow>
       <text>This land enters tapped.
-When this land enters, you may pay {1}. If you do, seize The Core.
+When this land enters, you may pay {1}. If you do, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 {T}: Add {W}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3850,7 +3850,7 @@ When this land enters, you may pay {1}. If you do, seize The Core.
       </prop>
       <tablerow>0</tablerow>
       <text>This land enters tapped.
-When this land enters, you may pay {1}. If you do, seize The Core.
+When this land enters, you may pay {1}. If you do, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 {T}: Add {U}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3869,7 +3869,7 @@ When this land enters, you may pay {1}. If you do, seize The Core.
       </prop>
       <tablerow>0</tablerow>
       <text>This land enters tapped.
-When this land enters, you may pay {1}. If you do, seize The Core.
+When this land enters, you may pay {1}. If you do, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 {T}: Add {B}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3888,7 +3888,7 @@ When this land enters, you may pay {1}. If you do, seize The Core.
       </prop>
       <tablerow>0</tablerow>
       <text>This land enters tapped.
-When this land enters, you may pay {1}. If you do, seize The Core.
+When this land enters, you may pay {1}. If you do, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 {T}: Add {R}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3907,7 +3907,7 @@ When this land enters, you may pay {1}. If you do, seize The Core.
       </prop>
       <tablerow>0</tablerow>
       <text>This land enters tapped.
-When this land enters, you may pay {1}. If you do, seize The Core.
+When this land enters, you may pay {1}. If you do, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 {T}: Add {G}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3969,8 +3969,8 @@ When this artifact leaves the battlefield, you may pay {G} and {E}. If you do, d
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Ancient Echo can’t be copied.
-The next time you cast an instant or sorcery spell this turn, copy it. If you cast Ancient Echo or that spell from exile, you may copy that spell an additional time. You may choose new targets for the copies.
+      <text>This spell can’t be copied.
+The next time you cast an instant or sorcery spell this turn, copy it. If you cast this spell or that spell from exile, you may copy that spell an additional time. You may choose new targets for the copies.
 Rebound</text>
     </card>
     <card>
@@ -3989,7 +3989,7 @@ EEE: Teach target creature you control haste. (Put a haste counter on it. If it 
       <related>Energy Reserve VRN</related>
     </card>
     <card>
-      <name>Demonlord Bobert</name>
+      <name>Azelizoth, Abyssal Arbiter</name>
       <set rarity="mythic">VRN</set>
       <prop>
         <colors>B</colors>
@@ -4078,7 +4078,7 @@ Whenever Erxandath Blightwing attacks, you may teach target creature you control
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Exemplary Toolcraft enters, seize The Core.
+      <text>When Exemplary Toolcraft enters, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 Whenever you attack a player that has The Core, put a +1/+1 counter on each attacking creature.
 {E}: You gain 1 life.</text>
       <related>Energy Reserve VRN</related>
@@ -4258,7 +4258,7 @@ You may cast spells from your hand as though they had flash.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose one—
+      <text>Choose one —
 • Destroy target creature with power 4 or greater.
 • Destroy target enchantment.
 • Untap target creature. You gain 4 life.</text>
@@ -4291,7 +4291,7 @@ Equip {2}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever equipped creature deals combat damage, you get EE.
-Pay EE, choose one—
+Pay EE, choose one —
 • Create a tapped Gear token. (It’s an artifact with “{1}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.”)
 • Create tapped Treasure token.
 • Create a tapped token that is a copy of a noncreature artifact token you control.
