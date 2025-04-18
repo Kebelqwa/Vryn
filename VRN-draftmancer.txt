@@ -498,7 +498,7 @@
 	        "name": "Prosperous Magocrat",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}{U}",
-	        "type": "Creature — Human Wizard ",
+	        "type": "Creature — Human Noble Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Prosperous Magocrat.png"
 	        }
@@ -1010,7 +1010,7 @@
 	    {
 	        "name": "Rain of Frost",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Rain of Frost.png"
@@ -1368,12 +1368,12 @@
 	        }
 	    },
 	    {
-	        "name": "Ranna, the Revitalizer",
+	        "name": "Ranna Beleren, Revitalizer",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{W}",
 	        "type": "Legendary Creature — Human Rebel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ranna, the Revitalizer.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ranna Beleren, Revitalizer.png"
 	        }
 	    },
 	    {
@@ -2358,12 +2358,12 @@
 	        }
 	    },
 	    {
-	        "name": "Demonlord Bobert",
+	        "name": "Azelizoth, Abyssal Arbiter",
 	        "rarity": "mythic",
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Legendary Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Demonlord Bobert.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Azelizoth, Abyssal Arbiter.png"
 	        }
 	    },
 	    {
@@ -2734,7 +2734,7 @@
 		1 The Energy Reservoir
 		1 Ancient Echo
 		1 Voltaic Stride
-		1 Demonlord Bobert
+		1 Azelizoth, Abyssal Arbiter
 		1 The Dreadsled
 		1 Irelia, Etherium Crafter
 		1 Core Convergence
@@ -2777,7 +2777,7 @@
 		3 Harvester Font
 		3 Trovian Veteren
 		3 Ward Splicer
-		3 Ranna, the Revitalizer
+		3 Ranna Beleren, Revitalizer
 		3 Political Shift
 		3 Civilian Transport
 		3 Flux Diviner
