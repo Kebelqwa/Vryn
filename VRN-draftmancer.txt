@@ -2664,4 +2664,286 @@
 	        }
 	    }
 	]
-	[RareSlot(1 
+	[RareSlot(2)]
+		2 League Pyromancer
+		2 Ampryn Confidant
+		2 Gear Matrix
+		2 Reliquary Guardian
+		2 Frigid Turbines
+		2 Geothermal Conduits
+		2 Avatar of Law
+		2 Gav Beleren, War Hero
+		2 Baleful Arbiter
+		2 Skyward Arbiters
+		2 The Arboreal Skycraft
+		2 Hydroelectric Plant
+		2 Refinery Pit
+		2 Aether Farm
+		2 Kinetic Tracks
+		2 Recycling Chamber
+		2 Reactor Pool
+		2 Automated Lair
+		2 Convergence Floor
+		2 Aethereal Militia
+		2 Ampryn Advocate
+		2 Mandatory Reconstruction
+		2 Ampryn Wrath
+		2 Emerge Unscathed
+		2 Eklan, Porcelain Subduer
+		2 Prestigious Scion
+		2 Ampryn Enforcer
+		2 Consortium Operative
+		2 Archmage's Dismissal
+		2 Ancient Whispers
+		2 Roiling Arcana
+		2 Okla, Queen of Refuse
+		2 Mage-Ring Mite
+		2 Phyrexian Scrutiny
+		2 The Ring of Ghosts
+		2 Fabricated Junker
+		2 Trovian Avenger
+		2 Runesplitter Bolt
+		2 Wasteland Ordeal
+		2 Recon Fighter
+		2 Olim, Ring Seeker
+		2 Tressera, Outlands Enigma
+		2 Druid of Fruition
+		2 Dryad Crusher
+		2 Druidic Crossroads
+		2 Sigil of Roiling Elements
+		2 Separatist Titancraft
+		2 Drydis Fergan, Ampryn Recruiter
+		2 Orith, Consortium Mage
+		2 Charim Kosta, Boy Prodigy
+		2 Deb O'Raw, the Ruthless
+		2 Nira Wardcaster
+		2 Xyarta, Norn's Ambassador
+		2 Orsin, Mentor to Mages
+		2 Vestis, Apocalypse Entity
+		2 Tennuk, Omenpath Navigator
+		2 Mage-Ring Omenpath
+		1 Jace, Telepath Homebound
+		1 Mara, Hand of the Core
+		1 Charim Kosta, Planeswalker
+		1 Scavenger Craft
+		1 Admiral Thall
+		1 Ancient Visions
+		1 Scheming Oilshaper
+		1 Slayer's Blade
+		1 Kunga, Dryad Warden
+		1 The Energy Reservoir
+		1 Ancient Echo
+		1 Voltaic Stride
+		1 Azelizoth, Abyssal Arbiter
+		1 The Dreadsled
+		1 Irelia, Etherium Crafter
+		1 Core Convergence
+		1 Erxandath Blightwing
+		1 Exemplary Toolcraft
+		1 Energized Emergence
+		1 Mana Lens
+		1 Sword of Price and Progress
+		1 Artificer's Jitte
+		1 The Assembly Core
+	[UncommonSlot(4)]
+		4 Graveblade Marauder
+		4 Mage-Ring Responder
+		4 Trovian Wingmare
+		4 Consortium Informant
+		4 Chart a Course
+		4 Tyrannical Mage
+		4 Seasoned Electromancer
+		4 Enforcer of Ancients
+		4 Aether Hub
+		4 Pylon Protector
+		4 Ampryn Consignment
+		4 The Eviscerator
+		4 Arin, Reconstructor Rebel
+		4 Prosperous Magocrat
+		4 Cargo Checkpoint
+		4 Ampryn Charmbreaker
+		4 Vapid Culling
+		4 The Energy Blade
+		4 Solemn Simulacrum
+		4 Glade Quickshots
+		4 Brilliant Mage-Ring
+		4 Derelict Mage-Ring
+		4 Reclaimed Mage-Ring
+		4 Repurposed Mage-Ring
+		4 Glorious Mage-Ring
+		4 Benevolent Photomancer
+		4 Jolted Awake
+		4 Become Compleat
+		4 Harvester Font
+		4 Trovian Veteren
+		4 Ward Splicer
+		4 Ranna Beleren, Revitalizer
+		4 Political Shift
+		4 Civilian Transport
+		4 Flux Diviner
+		4 Tandriselle, Flux Protector
+		4 Aether Trail
+		4 Industrial Espionage
+		4 Aether Obscuration
+		4 Recurring Setbacks
+		4 Warped Scion
+		4 Processor Beast
+		4 Fumechoke Splicer
+		4 Render of Mortality
+		4 Otherworldly Onslaught
+		4 The Gambino
+		4 Trovian Slugshot
+		4 High Stakes Better
+		4 Renegade Rabble
+		4 Pincer Maneuver
+		4 Mage-Ring Radiation
+		4 Maverick Infiltrator
+		4 Trovian Liberator
+		4 Aethereal Husk
+		4 Energy Recycling
+		4 Reservoir Guardian
+		4 Burstroot Dryad
+		4 Verge Shaman
+		4 Energy Infusion
+		4 Search for Sanctuary
+		4 Energy Drover
+		4 Outlands Digger
+		4 Outskirts Mage-Ring
+		4 Rogue Shadowmage
+		4 Rudolph, Ampryn Brutalizer
+		4 Reliquary Guards
+		4 Mandate Splicer
+		4 The Energy Revenant
+		4 Kavalester, Mage Hermit
+		4 Codex Archive
+		4 Consortium Copter
+		4 Ardent Recruiter
+		4 Do or Die
+		4 Springleaf Drum
+	[CommonSlot(8)]
+		6 Conniving Voidmage
+		6 Ampryn Frontliner
+		6 Mage-Ring Engineer
+		6 League Aethermage
+		6 Impulse
+		6 Separatist Dervish
+		6 Subconscious Warning
+		6 Trovian Disciple
+		6 Unvaulted Evil
+		6 Bastion Seraph
+		6 Ringer Nightwatch
+		6 Destabilize
+		6 Bespoke Artifact
+		6 Unearthed Relics
+		6 Sinking Opportunities
+		6 Council's Edict
+		6 Read the Trail
+		6 Ringer's Resolve
+		6 Steel Sabotage
+		6 Constructed Dreadmaw
+		6 Ampryn Oathbreaker
+		6 Rebel Bladesmith
+		6 Vexing Ward
+		6 Core Rupture
+		6 Ringer Templar
+		6 Ring Feeder
+		6 Chaser Bike
+		6 Ampryn Sentry
+		6 Galvanic Strike
+		6 Trovian Renegade
+		6 Temporal Harvest
+		6 Anarchist's Wrath
+		6 Vortice Merge
+		6 Fallen Battlemage
+		6 Burnished Geomancer
+		6 Ghalian Instructor
+		6 Phyrexian Facestealer
+		6 Forsaken Legionnaire
+		6 Crimson Anointer
+		6 Ampryn Study
+		6 Enforcer's Procession
+		6 Skill Flare
+		6 Enforcer's Ringwheeler
+		6 Peacekeeper Plane
+		6 Ardent Cryptomancer
+		6 Escapade Mage
+		6 Protector of the Core
+		6 Consortium Bookthief
+		6 Messenger Drake
+		6 Somnomancer Adept
+		6 Rain of Frost
+		6 Estrangement Field
+		6 Ampryn Mantle
+		6 Cloaked Observer
+		6 Consortium Mastermind
+		6 Aether Revenant
+		6 Separatist Revenant
+		6 Oilborn
+		6 Ampryn Lich
+		6 Mercenary Arbiter
+		6 Black Market Beguiler
+		6 Entropic Chiming
+		6 Consortium Switchblade
+		6 Derelict Dredger
+		6 Paintrain
+		6 Insectile Junker
+		6 Voltaic Racer
+		6 League Electromancer
+		6 Outsourced Recruitment
+		6 Flaring Blades
+		6 Liberated Dunestrider
+		6 Mage-Ring Exile
+		6 Sylvan Spectator
+		6 Aether Whisperer
+		6 Treesap Spinner
+		6 Enclave Guardian
+		6 Rebel Frontiersman
+		6 Part Salvager
+		6 Quarry Hunter
+		6 Regrowth Dryad
+		6 Eternal Cavalier
+		6 Ringcrusher Wurm
+		6 Outland Tranquility
+		6 Energy Burst
+		6 Combat Trial
+		6 Dune Glider
+		6 Ringshift
+		6 Adept Mechanic
+		6 Conniving Interloper
+		6 Apocryphal Rite
+		6 Illicit Tutelage
+		6 Aether Renewal
+		6 Brazen Arcanist
+		6 Rebel Codex
+		6 Wizard Codex
+		6 Aethereal Codex
+		6 Maverick Codex
+		6 Trovian Blade
+		6 Unveiled Expanse
+		6 Mistcovered Sanctuary
+		6 Skybreaker Sanctuary
+		6 Undercroft Sanctuary
+		6 Bridgetower Sanctuary
+		6 Overgrown Sanctuary
+		6 Spellstorm Entourage
+		6 Preserver's Codex
+		6 Fieldmist Borderpost
+		6 Firewild Borderpost
+		6 Mistvein Borderpost
+		6 Veinfire Borderpost
+		6 Wildfield Borderpost
+		6 Aether Suspension
+		6 Smite the Ethereal
+		6 Regression
+	[BasicSlot(1)]
+		300 Island
+		300 Swamp1
+		300 Mountain1
+		300 Forest1
+		300 Plains
+		300 Island1
+		300 Plains1
+		300 Swamp
+		300 Mountain
+		300 Forest
+	
