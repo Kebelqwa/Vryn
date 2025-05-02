@@ -45,8 +45,8 @@ Whenever this creature attacks, it deals 7 damage to target creature defending p
       <set rarity="uncommon">VRN</set>
       <prop>
         <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
         <type>Creature - Pegasus </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -54,7 +54,7 @@ Whenever this creature attacks, it deals 7 damage to target creature defending p
       <tablerow>2</tablerow>
       <text>Flying
 When this creature enters, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
-Whenever this creature attacks, you may pay EE. If you do, another target creature you control gains flying until end of turn.</text>
+Whenever this creature attacks, you may pay EEE. If you do, teach target creature you control flying. (Put a flying counter on it. If it already has flying, put a +1/+1 counter on it instead.)</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
       <related>energy</related>
@@ -159,19 +159,6 @@ Inspired — Whenever this creature becomes untapped, you may pay {E}. If you do
 4U, Sacrifice this creature: Copy target instant or sorcery spell you control. You may choose new targets for the copy.</text>
     </card>
     <card>
-      <name>Impulse</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
-    </card>
-    <card>
       <name>Separatist Dervish</name>
       <set rarity="common">VRN</set>
       <prop>
@@ -187,6 +174,7 @@ Inspired — Whenever this creature becomes untapped, you may pay {E}. If you do
 Inspired — Whenever this creature becomes untapped, you pay {E}. If you do, this creature gains menace until end of turn.</text>
       <related>Energy Reserve VRN</related>
       <related>energy</related>
+      <related>reart</related>
     </card>
     <card>
       <name>League Pyromancer</name>
@@ -232,7 +220,7 @@ When this creature enters, seize The Core. (Get {E} or surveil 1. A player with 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Draw two cards, then discard a card.
+      <text>Draw two cards. Then if you cast this spell from exile, discard two cards.
 Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
     </card>
     <card>
@@ -244,7 +232,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
         <cmc>3</cmc>
         <type>Creature - Human Cleric Rebel </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, you get EE.
@@ -296,21 +284,6 @@ Whenever this creature attacks, you may pay EE. If you do, put a +1/+1 counter o
       <tablerow>2</tablerow>
       <text>Flying
 Inspired — Whenever this creature becomes untapped, teach it lifelink. (Put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)</text>
-    </card>
-    <card>
-      <name>Ringer Nightwatch</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Human Rebel </type>
-        <maintype>Creature</maintype>
-        <pt>1/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Lifelink
-Whenever one or more creatures you don’t control enter, you may untap target creature. Do this only once each turn.</text>
     </card>
     <card>
       <name>Destabilize</name>
@@ -485,21 +458,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
       <text>When this artifact enters, create Gear token. (It’s an artifact with “{1}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.”)
 Whenever another nontoken artifact you control enters or an artifact card leaves your graveyard, create a Gear token. This ability triggers only once each turn.</text>
       <related>Gear VRN</related>
-    </card>
-    <card>
-      <name>Ampryn Oathbreaker</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>2B</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Human Knight </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Protection from Wizards (This creature can’t be blocked, targeted or dealt damage by Wizards.)
-Whenever a Wizard dies, put a +1/+1 counter on this creature.</text>
+      <related>rework</related>
     </card>
     <card>
       <name>Seasoned Electromancer</name>
@@ -510,11 +469,11 @@ Whenever a Wizard dies, put a +1/+1 counter on this creature.</text>
         <cmc>4</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt>2/4</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-Whenever you cast an instant, sorcery, or Wizard spell, this creature deals 1 damage to any target.</text>
+Whenever you cast an instant, sorcery, or Wizard spell, this creature deals 1 damage to any target. If you cast that spell from exile, put a +1/+1 counter on this creature.</text>
     </card>
     <card>
       <name>Enforcer of Ancients</name>
@@ -669,7 +628,7 @@ Choose one. Choose an additional for each time this spell was kicked.
 • You gain 3 life.</text>
     </card>
     <card>
-      <name>Reliquary Guardian</name>
+      <name>Reliquary Overseer</name>
       <set rarity="rare">VRN</set>
       <prop>
         <colors>B</colors>
@@ -1002,7 +961,7 @@ Whenever a Vehicle you control attacks, you may sacrifice this land. If you do, 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature gets +3/+0 until end of turn. If its an artifact creature, teach it menace. (Put a menace counter on it. If it already has menace, put a +1/+1 counter on it instead.)</text>
+      <text>Target creature you control gets +3/+0 until end of turn. If its an artifact creature, it also gains menace until end of turn.</text>
     </card>
     <card>
       <name>Vortice Merge</name>
@@ -1089,8 +1048,8 @@ Target opponent separates their hand into two face-down piles. Look at one of th
       <set rarity="uncommon">VRN</set>
       <prop>
         <colors></colors>
-        <manacost>3</manacost>
-        <cmc>3</cmc>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
         <type>Legendary Artifact - Equipment </type>
         <maintype>Artifact</maintype>
       </prop>
@@ -1113,21 +1072,6 @@ Equip—Pay {3} or EEE.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of your end step, you may exile an artifact card and a nonartifact card from among your hand and/or graveyard. When you do, draw a card and lose 1 life.</text>
-    </card>
-    <card>
-      <name>Burnished Geomancer</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>3R</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Phyrexian Wizard </type>
-        <maintype>Creature</maintype>
-        <pt>2/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Haste
-Whenever this creature attacks, up to one target creature defending player controls can’t block this turn.</text>
     </card>
     <card>
       <name>Solemn Simulacrum</name>
@@ -1587,8 +1531,8 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
       <set rarity="common">VRN</set>
       <prop>
         <colors>W</colors>
-        <manacost>3W</manacost>
-        <cmc>4</cmc>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
         <type>Artifact - Vehicle </type>
         <maintype>Artifact</maintype>
       </prop>
@@ -1659,11 +1603,11 @@ Pay EEE: Target creature you control can’t be blocked this turn. Activate only
         <cmc>2</cmc>
         <type>Creature - Human Rogue Wizard </type>
         <maintype>Creature</maintype>
-        <pt>1/3</pt>
+        <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Covert (This creature can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)
-{1}: This creature gets +1/-1 until end of turn.</text>
+Whenever this creature deals combat damage to an opponent or a permanent they protect, you get {E}. (Players protect permanents that can be attacked.)</text>
     </card>
     <card>
       <name>Messenger Drake</name>
@@ -1709,7 +1653,8 @@ When this creature enters, choose one —
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Distribute three stun counters among up to three target nonland artifacts and/or creatures. Tap those permanents.</text>
+      <text>Tap target nonland artifact or creature. Put a stun counter on it.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
     </card>
     <card>
       <name>Estrangement Field</name>
@@ -1737,8 +1682,8 @@ Enchanted creature has base power and toughness 0/2 and loses all abilities.</te
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-When this Equipment enters, look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.
-Equipped creature has covert. (That creature can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)
+When this Equipment enters, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+Equipped creature gets +1/+1 and has covert. (That creature can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)
 Equip {2}</text>
     </card>
     <card>
@@ -1832,7 +1777,7 @@ Whenever one or more artifacts are put into your graveyard from anywhere, put a 
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of your upkeep, each player mills a card. (They put the top card of their library into their graveyard.)
-4B, Sacrifice this creature: Return target artifact or creature card from your graveyard to the battlefield tapped.</text>
+4B, Sacrifice this creature: Return target artifact or creature card from your graveyard to the battlefield tapped with a finality counter.</text>
     </card>
     <card>
       <name>Mercenary Arbiter</name>
@@ -1864,8 +1809,7 @@ Whenever you sacrifice a nontoken permanent, create a Gear token. (It’s an art
       </prop>
       <tablerow>2</tablerow>
       <text>Covert (This creature can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)
-This creature can’t block.
-When this creature dies, create a tapped Gear token. (It’s an artifact with “{1}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.”)</text>
+Whenever a creature you control with covert dies, each opponent loses 1 life. (This creature can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)</text>
       <related>Gear VRN</related>
       <related>rework</related>
     </card>
@@ -2067,7 +2011,8 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this Vehicle enters, teach target creature or Vehicle haste. (Put a haste counter on it. If it already has haste, put a +1/+1 counter on it instead.)
+      <text>Haste
+When this Vehicle enters, create a 1/1 colorless Pilot creature token with “This creature crews Vehicles as though its power were 2 greater.”
 Crew 3</text>
     </card>
     <card>
@@ -2083,8 +2028,9 @@ Crew 3</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you attack, you get {E}.
-{E}: Teach target creature you control haste. Activate only once each turn. (Put an Activate counter on it. If it already has Activate, put a +1/+1 counter on it instead.)</text>
+At the beginning of your combat, you may pay {E}. If you do, target creature you control gains haste until end of turn.</text>
       <related>Energy Reserve VRN</related>
+      <related>rework</related>
     </card>
     <card>
       <name>Sylvan Spectator</name>
@@ -2121,22 +2067,6 @@ Engross — Whenever you cast a spell at time you couldn’t cast a sorcery, you
 At the beginning of your combat, you may pay EEE. When you do, put a +1/+1 counter on up to one target creature.</text>
       <related>Energy Reserve VRN</related>
       <related>energy</related>
-    </card>
-    <card>
-      <name>Treesap Spinner</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Spider Spirit </type>
-        <maintype>Creature</maintype>
-        <pt>1/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Reach
-{T}: Untap target land.
-Whenever one or more artifact and/or creature cards leave your graveyard, you may untap this creature. Do this only once each turn.</text>
     </card>
     <card>
       <name>Enclave Guardian</name>
@@ -2179,10 +2109,10 @@ Whenever this creature attacks, you may pay EE. If you do, put a +1/+1 counter o
         <cmc>2</cmc>
         <type>Artifact Creature - Golem </type>
         <maintype>Creature</maintype>
-        <pt>3/1</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever one or more nonland cards leave your graveyard, you gain that much life.</text>
+      <text>Whenever you attack, you may mill a card. (Put the top card of your library into your graveyard.)</text>
     </card>
     <card>
       <name>Quarry Hunter</name>
@@ -2248,7 +2178,7 @@ When this creature enters, choose up to one target permanent card in your gravey
         <pt>6/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, destroy up to one target artifact. You get EE.
+      <text>When this creature enters, destroy up to one target artifact or enchantment. You get EE.
 Whenever you attack, you may pay EE. If you do, teach target creature trample. (Put a trample counter on it. If it already has trample, put a +1/+1 counter on it instead.)</text>
       <related>Energy Reserve VRN</related>
       <related>energy</related>
@@ -2267,6 +2197,7 @@ Whenever you attack, you may pay EE. If you do, teach target creature trample. (
       <text>Kicker EEE (You may pay an additional EEE as you cast this spell.)
 You may choose a creature you control if Outland Tranquility was kicked. Prevent all combat damage that would be dealt this turn by creatures not chosen this way. If Outland Tranquility wasn’t kicked, you get EE.</text>
       <related>Energy Reserve VRN</related>
+      <related>rework</related>
     </card>
     <card>
       <name>Energy Burst</name>
@@ -2291,8 +2222,8 @@ Until end of turn, target creature you control gains hexproof and gets +X/+X, wh
         <colors>G</colors>
         <manacost>1G</manacost>
         <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Teach target creature you control trample. That creature deals damage equal to its power to up to one target creature an opponent controls. (Put a That counter on it. If it already has That, put a +1/+1 counter on it instead.)</text>
@@ -2313,6 +2244,7 @@ When this Vehicle enters, you get EE.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
       <related>Energy Reserve VRN</related>
       <related>energy</related>
+      <related>rework</related>
     </card>
     <card>
       <name>Ward Splicer</name>
@@ -2447,7 +2379,7 @@ When this creature enters, you may pay {1}. If you do, seize The Core. (Get {E} 
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you cast an instant, sorcery, or Wizard spell, you get {E}.
+      <text>Whenever you cast an instant, sorcery, or Wizard spell, you get {E}. If you cast that spell from exile, draw a card, then discard a card.
 EEEEE, {T}: Return target instant or sorcery card from your graveyard to your hand.</text>
     </card>
     <card>
@@ -2656,7 +2588,7 @@ When enchanted permanent is put into a graveyard from the battlefield, return it
       </prop>
       <tablerow>1</tablerow>
       <text>Flying
-Whenever one or more artifact cards enter or leave your graveyard, put a +1/+1 counter on The Gambino.
+Whenever one or more permanent cards enter your graveyard from anywhere or leave your graveyard, put a +1/+1 counter on The Gambino. This ability triggers only once each turn.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
     </card>
     <card>
@@ -2815,9 +2747,10 @@ When this creature enters, if it was kicked, destroy target noncreature permanen
       </prop>
       <tablerow>3</tablerow>
       <text>Kicker EE (You may pay an additional EE as you cast this spell.)
-Return target permanent card from your graveyard to your hand. If Energy Recycling was kicked, you get an amount of {E} equal to that cards mana value.</text>
+Return target permanent card from your graveyard to your hand. If this spell was kicked, you get an amount of {E} equal to that cards mana value. Exile Energy Recycling.</text>
       <related>Energy Reserve VRN</related>
       <related>energy</related>
+      <related>rework</related>
     </card>
     <card>
       <name>Reservoir Guardian</name>
@@ -2828,7 +2761,7 @@ Return target permanent card from your graveyard to your hand. If Energy Recycli
         <cmc>2</cmc>
         <type>Creature - Dryad Soldier </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you get one or more {E}, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
@@ -2879,6 +2812,7 @@ Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, y
 Target creature you control gets +3+3 and gains hexproof until end of turn. If this spell was kicked, teach that creature trample. Otherwise, you get {E}. (Put an Otherwise counter on it. If it already has Otherwise, put a +1/+1 counter on it instead.)</text>
       <related>Energy Reserve VRN</related>
       <related>energy</related>
+      <related>rework</related>
     </card>
     <card>
       <name>Search for Sanctuary</name>
@@ -2899,11 +2833,11 @@ Draw a card.</text>
       <set rarity="uncommon">VRN</set>
       <prop>
         <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
         <type>Creature - Dryad </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>If you would get one or more {E}, you get that much {E} plus one instead.</text>
@@ -2937,8 +2871,8 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever another nontoken creature you control enters, you get {E}.
-Whenever you attack, you may pay EEEE. If you do, create a token copy of target creature you control. Sacrifice that creature when it enters.</text>
+      <text>Whenever one or more other nontoken creatures you control enter, you get {E}.
+Whenever this creature attacks, you may pay EEEE. If you do, create a token copy of target creature you control. Sacrifice that creature when it enters.</text>
       <related>Energy Reserve VRN</related>
       <related>energy</related>
       <related></related>
@@ -3065,14 +2999,14 @@ When this creature enters, you may search your library for an instant or sorcery
       <set rarity="rare">VRN</set>
       <prop>
         <colors>U</colors>
-        <manacost>3U</manacost>
-        <cmc>4</cmc>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose two card types. Reveal cards from the top of your library until you reveal two cards that are each at least one of the chosen types. Put those cards into your hand, then shuffle.
-Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+      <text>Surveil 1, then draw a card. You get {E}. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
     </card>
     <card>
       <name>Roiling Arcana</name>
@@ -3425,7 +3359,8 @@ Crew 6</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, you may have target creature you control fight target creature you don’t control. (Each deals damage equal to its power to the other.)</text>
+Reach
+Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, you may have target creature you control fight target creature you don’t control.</text>
     </card>
     <card>
       <name>The Energy Reservoir</name>
@@ -3470,7 +3405,7 @@ Whenever you get one or more {E}, put a +1/+1 counter on target creature you con
         <cmc>2</cmc>
         <type>Creature - Human Rogue Wizard </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Covert (This creature can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)
@@ -3514,14 +3449,14 @@ When this creature dies, put its counters on up to one target creature.</text>
       <set rarity="uncommon">VRN</set>
       <prop>
         <colors>WB</colors>
-        <manacost>2WB</manacost>
-        <cmc>4</cmc>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
         <type>Creature - Phyrexian Artificer </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, create a 3/3 colorless Phyrexian Golem artifact creature token.
+      <text>When this creature enters create a 3/3 colorless Phyrexian Golem artifact creature token.
 Whenever an artifact creature you control dies, you may return this creature to its owner’s hand.</text>
       <related>Phyrexian Golem VRN</related>
     </card>
@@ -3538,7 +3473,7 @@ Whenever an artifact creature you control dies, you may return this creature to 
       </prop>
       <tablerow>2</tablerow>
       <text>When The Energy Revenant enters, mill two cards.
-1BG: Return The Energy Revenant from your graveyard to the battlefield tapped. Activate only if a card left your graveyard this turn.</text>
+1BG: Return The Energy Revenant from your graveyard to the battlefield tapped.</text>
     </card>
     <card>
       <name>Kavalester, Mage Hermit</name>
@@ -3576,11 +3511,11 @@ You may pay EEE rather than pay the mana cost to cast creature spells with mana 
       <set rarity="rare">VRN</set>
       <prop>
         <colors>UB</colors>
-        <manacost>2UB</manacost>
-        <cmc>4</cmc>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
         <type>Legendary Creature - Human Rogue Wizard </type>
         <maintype>Creature</maintype>
-        <pt>2/4</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Covert (This creature can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)
@@ -3620,7 +3555,7 @@ When Deb O’Raw enters, put a +1/+1 counter on each of up to two target creatur
       <related>energy</related>
     </card>
     <card>
-      <name>Nira Wardcaster</name>
+      <name>Nira, Wardcaster</name>
       <set rarity="rare">VRN</set>
       <prop>
         <colors>WG</colors>
@@ -3631,7 +3566,8 @@ When Deb O’Raw enters, put a +1/+1 counter on each of up to two target creatur
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Creatures can’t attack you and/or permanents you protect unless their controller pays {X} for each creature they control that’s attacking you or a permanent you protect, where X is the greatest number of different kinds of counters on a permanent you control. (Players protect permanents that can be attacked.)</text>
+      <text>Whenever you teach another creature you control an ability, you may also teach Nira that ability. Do this only once each turn.
+Creatures can’t attack you and/or permanents you protect unless their controller pays {X} for each creature they control that’s attacking you or a permanent you protect, where X is the number of different kinds of counters on Nira. (Players protect permanents that can be attacked.)</text>
     </card>
     <card>
       <name>Xyarta, Norn&apos;s Ambassador</name>
@@ -3985,7 +3921,7 @@ Rebound</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a creature you control enters, this enchantment deals 1 damage to each opponent. You get {E}.
-EEE: Teach target creature you control haste. (Put a haste counter on it. If it already has haste, put a +1/+1 counter on it instead.)</text>
+EEE: Target creature you control gains haste until end of turn.</text>
       <related>Energy Reserve VRN</related>
     </card>
     <card>
@@ -4087,81 +4023,6 @@ Whenever you attack a player that has The Core, put a +1/+1 counter on each atta
       <related>conflicts with mara</related>
     </card>
     <card>
-      <name>Fieldmist Borderpost</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors>WU</colors>
-        <manacost>1WU</manacost>
-        <cmc>3</cmc>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>You may pay {1} and return a basic land you control to its owner’s hand rather than pay this spell’s mana cost.
-This artifact enters tapped.
-{T}: Add {W} or {U}.</text>
-    </card>
-    <card>
-      <name>Firewild Borderpost</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors>RG</colors>
-        <manacost>1RG</manacost>
-        <cmc>3</cmc>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>You may pay {1} and return a basic land you control to its owner’s hand rather than pay this spell’s mana cost.
-This artifact enters tapped.
-{T}: Add {R} or {G}.</text>
-    </card>
-    <card>
-      <name>Mistvein Borderpost</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors>UB</colors>
-        <manacost>1UB</manacost>
-        <cmc>3</cmc>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>You may pay {1} and return a basic land you control to its owner’s hand rather than pay this spell’s mana cost.
-This artifact enters tapped.
-{T}: Add {U} or {B}.</text>
-    </card>
-    <card>
-      <name>Veinfire Borderpost</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors>BR</colors>
-        <manacost>1BR</manacost>
-        <cmc>3</cmc>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>You may pay {1} and return a basic land you control to its owner’s hand rather than pay this spell’s mana cost.
-This artifact enters tapped.
-{T}: Add {B} or {R}.</text>
-    </card>
-    <card>
-      <name>Wildfield Borderpost</name>
-      <set rarity="common">VRN</set>
-      <prop>
-        <colors>WG</colors>
-        <manacost>1GW</manacost>
-        <cmc>3</cmc>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>You may pay {1} and return a basic land you control to its owner’s hand rather than pay this spell’s mana cost.
-This artifact enters tapped.
-{T}: Add {G} or {W}.</text>
-    </card>
-    <card>
       <name>Do or Die</name>
       <set rarity="uncommon">VRN</set>
       <prop>
@@ -4172,7 +4033,7 @@ This artifact enters tapped.
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Teach target creature you control haste. Until end of turn, you may have that creature assign its combat damage as though it weren’t blocked. Surveil 1. (Put a haste counter on it. If it already has haste, put a +1/+1 counter on it instead.)</text>
+      <text>Target creature you control gains haste until end of turn. Until end of turn, you may have that creature assign its combat damage as though it weren’t blocked. Surveil 1. (Put a haste counter on it. If it already has haste, put a +1/+1 counter on it instead.)</text>
     </card>
     <card>
       <name>Aether Suspension</name>
@@ -4333,6 +4194,164 @@ Pay six {E}: For each creature you control, create a Sword token, then attach it
       <related> Sword VRN</related>
       <related>energy</related>
     </card>
+    <card>
+      <name>Core Sentinels</name>
+      <set rarity="uncommon">VRN</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Golem Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever you attack, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
+{T}, Pay EEEEE: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.</text>
+      <related>Energy Reserve VRN</related>
+      <related> The Core VRN</related>
+      <related>VRN Signpost</related>
+    </card>
+    <card>
+      <name>Entity&apos;s Grasp</name>
+      <set rarity="uncommon">VRN</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, return target permanent card from your graveyard to your hand.
+Whenever one or more cards leave your graveyard, draw a card. Then each opponent discards a card.</text>
+    </card>
+    <card>
+      <name>Illicit Markfinder</name>
+      <set rarity="uncommon">VRN</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vedalken Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Covert (This creature can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)
+Whenever a creature you control with covert deals combat damage to an opponent and/or a permanent they protect, you get {E}.
+Pay EEEEE: Return up to two target creatures with different controllers each to their owners’ hands. Activate only as a sorcery and only once each turn.</text>
+    </card>
+    <card>
+      <name>Jarlhoff, Princely Pegasus</name>
+      <set rarity="uncommon">VRN</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>4GW</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Pegasus </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of your combat, choose one you haven’t chosen —
+• Teach target creature you control flying. (Put a flying counter on it. If it already has flying, put a +1/+1 counter on it instead.)
+• Teach target creature you control lifelink.
+• Teach target creature you control vigilance.
+• Exile this creature, then return it to the battlefield.</text>
+    </card>
+    <card>
+      <name>Mage Hermit&apos;s Charm</name>
+      <set rarity="uncommon">VRN</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Draw two cards. You may put a land card from your hand onto the battlefield tapped.
+• Return target instant or sorcery card from your graveyard to your hand.
+Exile Mage Hermit’s Charm.</text>
+    </card>
+    <card>
+      <name>Safety Inspector Ted</name>
+      <set rarity="uncommon">VRN</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a Vehicle you control deals combat damage to an opponent or a permanent they protect, you may sacrifice a creature that crewed it this turn. If you do, exile the top card of your library. You may play it this turn. (Players protect permanents that can be attacked.)</text>
+    </card>
+    <card>
+      <name>Tandem Bolt</name>
+      <set rarity="uncommon">VRN</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>3UR</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards, then discard a card. When you do, Tandem Bolt deals damage equal to the discarded card’s mana value to any target.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Thrumming Matrix</name>
+      <set rarity="uncommon">VRN</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Inspired — Whenever this artifact becomes untapped, you may pay {1}. If you do, create a 1/1 white Rebel Soldier creature token.
+{1}, {T}: Create a Gear token. (It’s an artifact with “{1}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.”)</text>
+      <related>Gear VRN</related>
+      <related> Rebel Soldier VRN</related>
+    </card>
+    <card>
+      <name>Travelling Flamecatcher</name>
+      <set rarity="uncommon">VRN</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Troll Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a kicked spell, create a 4/1 red Elemental creature token with trample, haste, and decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <related>Elemental VRN</related>
+    </card>
+    <card>
+      <name>Voice of Orthodoxy</name>
+      <set rarity="uncommon">VRN</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phyrexian Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Phyrexian creatures you control get +1/+1.
+2W/B: Target creature you control becomes a Phyrexian artifact creature in addition to its other types until end of turn.</text>
+    </card>
 
     <!-->Tokens</-->
 
@@ -4370,8 +4389,9 @@ Pay six {E}: For each creature you control, create a Sword token, then attach it
         <maintype></maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever one or more creatures attacking you aren’t blocked, their controller seizes The Core. (This triggers after blockers are declared.)
-Whenever you seize The Core and at the beginning of your upkeep, choose one —
+      <text>Whenever one or more creatures attacking a player that has The Core aren’t blocked, their controller seizes The Core. (This triggers after blockers are declared.)
+At the beginning of your upkeep, if you have The Core, seize The Core.
+To seize The Core, choose one —
 • You get {E}.
 • Surveil 1.</text>
       <token>1</token>
@@ -4445,8 +4465,9 @@ UG ENGROSS FLASH Cast versatile spells during your opponents turn and disrupt th
         <maintype></maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever one or more creatures attacking you aren’t blocked, their controller seizes The Core. (This triggers after blockers are declared.)
-Whenever you seize The Core and at the beginning of your upkeep, choose one —
+      <text>Whenever one or more creatures attacking a player that has The Core aren’t blocked, their controller seizes The Core. (This triggers after blockers are declared.)
+At the beginning of your upkeep, if you have The Core, seize The Core.
+To seize The Core, choose one —
 • You get {E}.
 • Surveil 1.</text>
       <token>1</token>
@@ -4575,6 +4596,20 @@ Equip {2}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Pay {E}: Target creature you control gets +1/+1 and gains indestructible until end of turn.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Elemental VRN</name>
+      <set>VRN</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
       <token>1</token>
     </card>
 
