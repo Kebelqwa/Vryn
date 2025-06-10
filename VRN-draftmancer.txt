@@ -72,12 +72,12 @@
 	        }
 	    },
 	    {
-	        "name": "League Aethermage",
+	        "name": "League Administrator",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/League Aethermage.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/League Administrator.png"
 	        }
 	    },
 	    {
@@ -126,15 +126,6 @@
 	        }
 	    },
 	    {
-	        "name": "Unvaulted Evil",
-	        "rarity": "common",
-	        "mana_cost": "{5}{B}{B}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Unvaulted Evil.png"
-	        }
-	    },
-	    {
 	        "name": "Chart a Course",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
@@ -150,15 +141,6 @@
 	        "type": "Creature — Angel Rebel ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Bastion Seraph.png"
-	        }
-	    },
-	    {
-	        "name": "Destabilize",
-	        "rarity": "common",
-	        "mana_cost": "{4}{R}{R}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Destabilize.png"
 	        }
 	    },
 	    {
@@ -204,15 +186,6 @@
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Read the Trail.png"
-	        }
-	    },
-	    {
-	        "name": "Ringer's Resolve",
-	        "rarity": "common",
-	        "mana_cost": "{2}{G}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ringer's Resolve.png"
 	        }
 	    },
 	    {
@@ -504,21 +477,21 @@
 	        }
 	    },
 	    {
-	        "name": "Pilot VRN;",
+	        "name": "Pilot",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Pilot VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Pilot.png"
 	        }
 	    },
 	    {
-	        "name": "Gear VRN;",
+	        "name": "Gear",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact — Gear ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Gear VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Gear.png"
 	        }
 	    },
 	    {
@@ -657,12 +630,12 @@
 	        }
 	    },
 	    {
-	        "name": "The Core VRN;",
+	        "name": "The Core",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Core VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Core.png"
 	        }
 	    },
 	    {
@@ -861,15 +834,6 @@
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Benevolent Photomancer.png"
-	        }
-	    },
-	    {
-	        "name": "Ampryn Study",
-	        "rarity": "common",
-	        "mana_cost": "{X}{W}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ampryn Study.png"
 	        }
 	    },
 	    {
@@ -1487,7 +1451,7 @@
 	    {
 	        "name": "Apocryphal Rite",
 	        "rarity": "common",
-	        "mana_cost": "{B}",
+	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Apocryphal Rite.png"
@@ -1701,12 +1665,12 @@
 	        }
 	    },
 	    {
-	        "name": "Emerge Unscathed",
+	        "name": "Emerge Triumphant",
 	        "rarity": "rare",
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Emerge Unscathed.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Emerge Triumphant.png"
 	        }
 	    },
 	    {
@@ -1748,7 +1712,7 @@
 	    {
 	        "name": "Archmage's Dismissal",
 	        "rarity": "rare",
-	        "mana_cost": "{U}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Archmage's Dismissal.png"
@@ -1929,7 +1893,7 @@
 	        "name": "Ancient Visions",
 	        "rarity": "mythic",
 	        "mana_cost": "{5}{U}{U}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Ancient Visions.png"
 	        }
@@ -2007,12 +1971,12 @@
 	        }
 	    },
 	    {
-	        "name": "Reliquary Guards",
+	        "name": "Reliquary Guard",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}{W}",
 	        "type": "Creature — Human Nomad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Reliquary Guards.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Reliquary Guard.png"
 	        }
 	    },
 	    {
@@ -2241,15 +2205,6 @@
 	        }
 	    },
 	    {
-	        "name": "Spellstorm Entourage",
-	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Spellstorm Entourage.png"
-	        }
-	    },
-	    {
 	        "name": "Ardent Recruiter",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}",
@@ -2259,12 +2214,12 @@
 	        }
 	    },
 	    {
-	        "name": "Phyrexian Golem VRN;",
+	        "name": "Phyrexian Golem",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact Creature — Phyrexian Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Phyrexian Golem VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Phyrexian Golem.png"
 	        }
 	    },
 	    {
@@ -2277,12 +2232,12 @@
 	        }
 	    },
 	    {
-	        "name": "Spirit VRN;",
+	        "name": "Spirit",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Spirit VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Spirit.png"
 	        }
 	    },
 	    {
@@ -2403,12 +2358,12 @@
 	        }
 	    },
 	    {
-	        "name": "Golem VRN;",
+	        "name": "Golem",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact Creature — Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Golem VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Golem.png"
 	        }
 	    },
 	    {
@@ -2421,12 +2376,12 @@
 	        }
 	    },
 	    {
-	        "name": "The Core1 VRN;",
+	        "name": "The Core1",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Core1 VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Core1.png"
 	        }
 	    },
 	    {
@@ -2439,21 +2394,21 @@
 	        }
 	    },
 	    {
-	        "name": "Wizard VRN;",
+	        "name": "Wizard",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Wizard VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Wizard.png"
 	        }
 	    },
 	    {
-	        "name": "Sword VRN;",
+	        "name": "Sword",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Sword VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Sword.png"
 	        }
 	    },
 	    {
@@ -2466,12 +2421,12 @@
 	        }
 	    },
 	    {
-	        "name": "Thopter VRN;",
+	        "name": "Thopter",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact Creature — Thopter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Thopter VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Thopter.png"
 	        }
 	    },
 	    {
@@ -2493,12 +2448,12 @@
 	        }
 	    },
 	    {
-	        "name": "Kordoa VRN;",
+	        "name": "Kordoa",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Legendary Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Kordoa VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Kordoa.png"
 	        }
 	    },
 	    {
@@ -2511,39 +2466,39 @@
 	        }
 	    },
 	    {
-	        "name": "Rebel Soldier VRN;",
+	        "name": "Rebel Soldier",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Rebel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Rebel Soldier VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Rebel Soldier.png"
 	        }
 	    },
 	    {
-	        "name": "Forest Dryad VRN;",
+	        "name": "Forest Dryad",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Land Creature — Forest Dryad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Forest Dryad VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Forest Dryad.png"
 	        }
 	    },
 	    {
-	        "name": "Treasure VRN;",
+	        "name": "Treasure",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact — Treasure ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Treasure VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Treasure.png"
 	        }
 	    },
 	    {
-	        "name": "Copy VRN;",
+	        "name": "Copy",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Copy VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Copy.png"
 	        }
 	    },
 	    {
@@ -2556,21 +2511,21 @@
 	        }
 	    },
 	    {
-	        "name": "Energy Reserve VRN;",
+	        "name": "Energy Reserve",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Energy Reserve VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Energy Reserve.png"
 	        }
 	    },
 	    {
-	        "name": "Mara, Hand of the Core Emblem VRN",
+	        "name": "Mara, Hand of the Core Emblem",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Emblem",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Mara, Hand of the Core Emblem VRN.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Mara, Hand of the Core Emblem.png"
 	        }
 	    },
 	    {
@@ -2583,12 +2538,12 @@
 	        }
 	    },
 	    {
-	        "name": "Entity's Grasp",
+	        "name": "The Entity's Grasp",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}{G}",
-	        "type": "Enchantment",
+	        "type": "Legendary Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Entity's Grasp.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Entity's Grasp.png"
 	        }
 	    },
 	    {
@@ -2612,7 +2567,7 @@
 	    {
 	        "name": "Mage Hermit's Charm",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{G}{U}",
+	        "mana_cost": "{1}{G}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Mage Hermit's Charm.png"
@@ -2664,12 +2619,30 @@
 	        }
 	    },
 	    {
-	        "name": "Elemental VRN;",
+	        "name": "Elemental",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Elemental VRN;.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Elemental.png"
+	        }
+	    },
+	    {
+	        "name": "The Hexchaser",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Legendary Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Hexchaser.png"
+	        }
+	    },
+	    {
+	        "name": "Charim Kosta, Planeswalker Emblem",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Emblem",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Charim Kosta, Planeswalker Emblem.png"
 	        }
 	    }
 	]
@@ -2697,7 +2670,7 @@
 		2 Ampryn Advocate
 		2 Mandatory Reconstruction
 		2 Ampryn Wrath
-		2 Emerge Unscathed
+		2 Emerge Triumphant
 		2 Eklan, Porcelain Subduer
 		2 Prestigious Scion
 		2 Ampryn Enforcer
@@ -2820,7 +2793,7 @@
 		4 Outskirts Mage-Ring
 		4 Rogue Shadowmage
 		4 Rudolph, Ampryn Brutalizer
-		4 Reliquary Guards
+		4 Reliquary Guard
 		4 Mandate Splicer
 		4 The Energy Revenant
 		4 Kavalester, Mage Hermit
@@ -2830,7 +2803,7 @@
 		4 Do or Die
 		4 Springleaf Drum
 		4 Core Sentinels
-		4 Entity's Grasp
+		4 The Entity's Grasp
 		4 Illicit Markfinder
 		4 Jarlhoff, Princely Pegasus
 		4 Mage Hermit's Charm
@@ -2843,19 +2816,16 @@
 		6 Conniving Voidmage
 		6 Ampryn Frontliner
 		6 Mage-Ring Engineer
-		6 League Aethermage
+		6 League Administrator
 		6 Separatist Dervish
 		6 Subconscious Warning
 		6 Trovian Disciple
-		6 Unvaulted Evil
 		6 Bastion Seraph
-		6 Destabilize
 		6 Bespoke Artifact
 		6 Unearthed Relics
 		6 Sinking Opportunities
 		6 Council's Edict
 		6 Read the Trail
-		6 Ringer's Resolve
 		6 Steel Sabotage
 		6 Constructed Dreadmaw
 		6 Rebel Bladesmith
@@ -2875,7 +2845,6 @@
 		6 Phyrexian Facestealer
 		6 Forsaken Legionnaire
 		6 Crimson Anointer
-		6 Ampryn Study
 		6 Enforcer's Procession
 		6 Skill Flare
 		6 Enforcer's Ringwheeler
@@ -2939,7 +2908,6 @@
 		6 Undercroft Sanctuary
 		6 Bridgetower Sanctuary
 		6 Overgrown Sanctuary
-		6 Spellstorm Entourage
 		6 Preserver's Codex
 		6 Aether Suspension
 		6 Smite the Ethereal
