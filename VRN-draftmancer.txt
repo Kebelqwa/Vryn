@@ -2063,7 +2063,7 @@
 	    {
 	        "name": "Orsin, Mentor to Mages",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{U}{R}",
+	        "mana_cost": "{U}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Orsin, Mentor to Mages.png"
@@ -2358,15 +2358,6 @@
 	        }
 	    },
 	    {
-	        "name": "Golem",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Artifact Creature — Golem ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Golem.png"
-	        }
-	    },
-	    {
 	        "name": "Mage-Ring Omenpath",
 	        "rarity": "rare",
 	        "mana_cost": "{6}",
@@ -2376,12 +2367,12 @@
 	        }
 	    },
 	    {
-	        "name": "The Core1",
+	        "name": "The Core1;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Core1.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/The Core1;.png"
 	        }
 	    },
 	    {
@@ -2520,12 +2511,12 @@
 	        }
 	    },
 	    {
-	        "name": "Mara, Hand of the Core Emblem",
+	        "name": "Mara Hand of the Core Emblem;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Emblem",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Mara, Hand of the Core Emblem.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Mara Hand of the Core Emblem;.png"
 	        }
 	    },
 	    {
@@ -2637,12 +2628,12 @@
 	        }
 	    },
 	    {
-	        "name": "Charim Kosta, Planeswalker Emblem",
+	        "name": "Charim Kosta Planeswalker Emblem;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Emblem",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Charim Kosta, Planeswalker Emblem.png"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Vryn/main/VRN-files/Charim Kosta Planeswalker Emblem;.png"
 	        }
 	    }
 	]

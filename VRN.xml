@@ -68,7 +68,7 @@ Whenever this creature attacks, you may pay EEE. If you do, teach target creatur
         <cmc>4</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -202,7 +202,7 @@ Inspired — Whenever this creature becomes untapped, you pay {E}. If you do, th
       </prop>
       <tablerow>2</tablerow>
       <text>Covert (This creature can’t be blocked by creatures that weren’t under their controllers control since the start of their last turn.)
-When this creature enters, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
+Whenever this creature deals combat damage to a player, if no player has The Core, seize the Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
 2U, Pay EEE, Sacrifice this creature: Draw two cards.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -477,8 +477,6 @@ Whenever you cast an instant, sorcery, or Wizard spell, this creature deals 1 da
 {T}: Add {C}.
 {T}, Pay {E}: Add one mana of any color.</text>
       <related>Energy Reserve VRN</related>
-      <related>reprint</related>
-      <related>energy</related>
     </card>
     <card>
       <name>Vexing Ward</name>
@@ -1072,7 +1070,7 @@ When this creature enters, create a 1/1 blue Wizard creature token with “{T}: 
       <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Charim Kosta enters, create The Hexchaser, a legendary colorless Vehicle artifact token with “Whenever this Vehicle attacks, exile the top card of your library. You may play it this turn.” and crew 3.
+      <text>When Charim Kosta enters, create The Hexchaser, a 4/4 legendary colorless Vehicle artifact token with “Whenever this Vehicle attacks, exile the top card of your library. You may play it this turn.” and crew 3.
 [+1]: Up to one target artifact creature you control gains haste until end of turn.
 [-1]: Create a 1/1 colorless Pilot creature token with “This creature crews Vehicles as though its power were 2 greater.”
 [-6]: You get an emblem with “The first time one or more Vehicles you control deal combat damage to a player each turn, there’s an additional combat phase after this phase. At the beginning of that combat, untap all creatures you control.”</text>
@@ -2485,7 +2483,7 @@ Whenever you sacrifice a permanent, this creature deals 1 damage to each opponen
       <text>As an additional cost to cast this spell, sacrifice an artifact or creature.
 Choose one —
 • Draw two cards.
-• Target creature gets -2/-2 until end of turn.</text>
+• Target creature gets -3/-3 until end of turn. You gain 3 life.</text>
     </card>
     <card>
       <name>Illicit Tutelage</name>
@@ -2810,11 +2808,8 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever one or more other nontoken creatures you control enter, you get {E}.
-Whenever this creature attacks, you may pay EEEE. If you do, create a token copy of target creature you control. Sacrifice that creature when it enters.</text>
-      <related>Energy Reserve VRN</related>
-      <related>energy</related>
-      <related></related>
+      <text>Whenever another nontoken creature you control enters, you get {E}. This ability triggers only once each turn.
+Whenever this creature attacks, you may pay five {E}. If you do, create a token copy of target creature you control. Sacrifice that creature when it enters.</text>
     </card>
     <card>
       <name>Mandatory Reconstruction</name>
@@ -2828,7 +2823,6 @@ Whenever this creature attacks, you may pay EEEE. If you do, create a token copy
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of your upkeep, you gain 1 life. Then if you control an artifact but don’t control a Gear token, create one. (It’s an artifact with “{1}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.”)</text>
-      <related>Gear VRN</related>
     </card>
     <card>
       <name>Ampryn Wrath</name>
@@ -2974,9 +2968,6 @@ Cycling 1U</text>
       </prop>
       <tablerow>2</tablerow>
       <text>When Okla enters and at the beginning of your upkeep, you may exile an artifact card from your graveyard. If you do, create a token copy of that card. Then you lose life equal to that card’s mana value unless there are three or more artifact cards in your graveyard.</text>
-      <related>Copy VRN</related>
-      <related>buff</related>
-      <related>rework</related>
     </card>
     <card>
       <name>Mage-Ring Mite</name>
@@ -3035,7 +3026,7 @@ As long as a card with covert is exiled with this creature, it has covert. The s
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you attack, create a Gear token. (It’s an artifact with “{1}, Sacrifice this artifact: Untap target nonland permanent. Activate only as a sorcery.”)
-Sacrifice an artifact or creature: This creature deals 1 damage to any target.</text>
+Sacrifice another artifact or creature: This creature deals 1 damage to any target.</text>
       <related>Gear VRN</related>
     </card>
     <card>
@@ -3144,9 +3135,6 @@ Engross — Whenever you cast a spell at a time you couldn’t cast a sorcery, l
       <text>Multikicker EE (You may pay an additional EE any number of times as you cast this spell.)
 When Tressera enters, create a 1/1 colorless Forest Dryad land creature token for each time Tressera was kicked.
 {T}: You get {E}. Put a +1/+1 counter on up to one target Dryad you control.</text>
-      <related>Forest Dryad VRN</related>
-      <related> Energy Reserve VRN</related>
-      <related>energy</related>
     </card>
     <card>
       <name>Druid of Fruition</name>
@@ -3330,7 +3318,7 @@ Enchanted land has “{T}: Add one mana of any color. You get {E}.”</text>
       </prop>
       <tablerow>1</tablerow>
       <text>When this artifact enters, seize The Core. (Get {E} or surveil 1. A player with the core seizes it at their upkeep. Unblocked creatures seize the core.)
-Whenever you get one or more {E}, put a +1/+1 counter on target creature you control. Untap that creature. This ability triggers only once each turn.
+Whenever you get one or more {E}, you may untap target creature you control and put a +1/+1 counter on it. Do this only once each turn.
 {T}, Pay {E}: Add one mana of any color.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
@@ -3413,7 +3401,7 @@ Whenever an artifact creature you control dies, you may return this creature to 
       </prop>
       <tablerow>2</tablerow>
       <text>When The Energy Revenant enters, mill two cards.
-1BG: Return The Energy Revenant from your graveyard to the battlefield tapped.</text>
+1BG: Return The Energy Revenant from your graveyard to the battlefield tapped. Activate only if another card was put into your graveyard from anywhere this turn.</text>
     </card>
     <card>
       <name>Kavalester, Mage Hermit</name>
@@ -3533,14 +3521,14 @@ Pay EEE: Create a 3/3 colorless Phyrexian Golem artifact creature token. Activat
       <set rarity="rare">VRN</set>
       <prop>
         <colors>UR</colors>
-        <manacost>1UR</manacost>
-        <cmc>3</cmc>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you cast a spell from exile, you may pay {1}. If you do, create a 1/1 blue Wizard creature token with “{T}: Add {C}. This mana can’t be spent to cast creature spells.”
+      <text>Whenever you cast a spell from exile, you may pay {1}. If you do, create a tapped 1/1 blue Wizard creature token with “{T}: Add {C}. This mana can’t be spent to cast creature spells.”
 Whenever you cast your second spell in a turn, draw a card.</text>
       <related>Wizard VRN</related>
     </card>
@@ -3750,8 +3738,6 @@ When this land enters, you may pay {1}. If you do, seize The Core. (Get {E} or s
 {T}: Add {B}.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
-      <related>reart</related>
-      <related>energy</related>
     </card>
     <card>
       <name>Bridgetower Sanctuary</name>
@@ -3947,8 +3933,6 @@ Whenever you attack a player that has The Core, put a +1/+1 counter on each atta
 {E}: You gain 1 life.</text>
       <related>Energy Reserve VRN</related>
       <related> The Core VRN</related>
-      <related>rework</related>
-      <related>conflicts with mara</related>
     </card>
     <card>
       <name>Do or Die</name>
@@ -4120,9 +4104,7 @@ Equip {2}</text>
 Pay EE: Draw a card, then discard a card.
 Pay EEE: Create a 1/1 colorless Thopter creature token with flying.
 Pay six {E}: For each creature you control, create a Sword token, then attach it to that creature. (Its an Equipment artifact token with “Equipped creature gets +1/+1.” and equip {2}.)</text>
-      <related>Thopter VRN</related>
-      <related> Sword VRN</related>
-      <related>energy</related>
+      <related>Thopter VRN, Sword VRN</related>
     </card>
     <card>
       <name>Core Sentinels</name>
@@ -4286,7 +4268,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
     <!-->Tokens</-->
 
     <card>
-      <name>Pilot VRN</name>
+      <name>Pilot</name>
       <set>VRN</set>
       <prop>
         <colors></colors>
@@ -4299,7 +4281,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
       <token>1</token>
     </card>
     <card>
-      <name>Gear VRN</name>
+      <name>Gear</name>
       <set>VRN</set>
       <prop>
         <colors></colors>
@@ -4311,7 +4293,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
       <token>1</token>
     </card>
     <card>
-      <name>The Core VRN</name>
+      <name>The Core</name>
       <set>VRN</set>
       <prop>
         <colors></colors>
@@ -4327,7 +4309,7 @@ To seize The Core, choose one —
       <token>1</token>
     </card>
     <card>
-      <name>Phyrexian Golem VRN</name>
+      <name>Phyrexian Golem</name>
       <set>VRN</set>
       <prop>
         <colors></colors>
@@ -4361,7 +4343,7 @@ UG ENGROSS FLASH Cast versatile spells during your opponents turn and disrupt th
       <token>1</token>
     </card>
     <card>
-      <name>Spirit VRN</name>
+      <name>Spirit</name>
       <set>VRN</set>
       <prop>
         <colors>B</colors>
@@ -4374,20 +4356,7 @@ UG ENGROSS FLASH Cast versatile spells during your opponents turn and disrupt th
       <token>1</token>
     </card>
     <card>
-      <name>Golem VRN</name>
-      <set>VRN</set>
-      <prop>
-        <colors></colors>
-        <type>Token Artifact Creature - Golem </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>The Core1 VRN</name>
+      <name>The Core1</name>
       <set>VRN</set>
       <prop>
         <colors></colors>
@@ -4403,7 +4372,7 @@ To seize The Core, choose one —
       <token>1</token>
     </card>
     <card>
-      <name>Wizard VRN</name>
+      <name>Wizard</name>
       <set>VRN</set>
       <prop>
         <colors>U</colors>
@@ -4416,7 +4385,7 @@ To seize The Core, choose one —
       <token>1</token>
     </card>
     <card>
-      <name>Sword VRN</name>
+      <name>Sword</name>
       <set>VRN</set>
       <prop>
         <colors></colors>
@@ -4429,7 +4398,7 @@ Equip {2}</text>
       <token>1</token>
     </card>
     <card>
-      <name>Thopter VRN</name>
+      <name>Thopter</name>
       <set>VRN</set>
       <prop>
         <colors></colors>
@@ -4442,7 +4411,7 @@ Equip {2}</text>
       <token>1</token>
     </card>
     <card>
-      <name>Kordoa VRN</name>
+      <name>Kordoa</name>
       <set>VRN</set>
       <prop>
         <colors>G</colors>
@@ -4455,7 +4424,7 @@ Equip {2}</text>
       <token>1</token>
     </card>
     <card>
-      <name>Rebel Soldier VRN</name>
+      <name>Rebel Soldier</name>
       <set>VRN</set>
       <prop>
         <colors>W</colors>
@@ -4468,7 +4437,7 @@ Equip {2}</text>
       <token>1</token>
     </card>
     <card>
-      <name>Forest Dryad VRN</name>
+      <name>Forest Dryad</name>
       <set>VRN</set>
       <prop>
         <colors>G</colors>
@@ -4481,7 +4450,7 @@ Equip {2}</text>
       <token>1</token>
     </card>
     <card>
-      <name>Treasure VRN</name>
+      <name>Treasure</name>
       <set>VRN</set>
       <prop>
         <colors></colors>
@@ -4493,7 +4462,7 @@ Equip {2}</text>
       <token>1</token>
     </card>
     <card>
-      <name>Copy VRN</name>
+      <name>Copy</name>
       <set>VRN</set>
       <prop>
         <colors></colors>
@@ -4505,7 +4474,7 @@ Equip {2}</text>
       <token>1</token>
     </card>
     <card>
-      <name>Energy Reserve VRN</name>
+      <name>Energy Reserve</name>
       <set>VRN</set>
       <prop>
         <colors></colors>
@@ -4517,7 +4486,7 @@ Equip {2}</text>
       <token>1</token>
     </card>
     <card>
-      <name>Mara, Hand of the Core Emblem VRN</name>
+      <name>Mara Hand of the Core Emblem</name>
       <set>VRN</set>
       <prop>
         <colors></colors>
@@ -4529,7 +4498,7 @@ Equip {2}</text>
       <token>1</token>
     </card>
     <card>
-      <name>Elemental VRN</name>
+      <name>Elemental</name>
       <set>VRN</set>
       <prop>
         <colors>R</colors>
@@ -4543,7 +4512,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
       <token>1</token>
     </card>
     <card>
-      <name>The Hexchaser VRN</name>
+      <name>The Hexchaser</name>
       <set>VRN</set>
       <prop>
         <colors></colors>
@@ -4556,7 +4525,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
       <token>1</token>
     </card>
     <card>
-      <name>Charim Kosta, Planeswalker Emblem VRN</name>
+      <name>Charim Kosta Planeswalker Emblem</name>
       <set>VRN</set>
       <prop>
         <colors></colors>
